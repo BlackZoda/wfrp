@@ -37,7 +37,8 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Forward request to original destination
-  console.log('Forwarding request:', req.url);
-  return fetch(req);
+  // Valid credentials: Rewrite the request URL to bypass /api/edge
+  const originalPath = url.pathname; // Preserve the original path
+  const forwardUrl = new URL(originalPath, req.url);
+  return fetch(forwardUrl.toString(), req);
 }
