@@ -17,6 +17,11 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
+  // Prevent forwarding requests to itself
+  if (req.url.endsWith('/api/edge')) {
+    return new Response('Infinite loop prevented', { status: 400 });
+  }
+
   // Valid credentials: Forward the request to the original destination
   return fetch(req);
 }
