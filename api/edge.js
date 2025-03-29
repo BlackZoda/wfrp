@@ -25,12 +25,15 @@ export default async function handler(req) {
 // Authentication Handler
 async function authHandler(req, url) {
   const authHeader = req.headers.get('Authorization');
-  const validToken = 'Basic ' + btoa('test:test123');
+  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // Check if the user is already authenticated via a cookie
   const cookies = req.headers.get('cookie') || '';
   if (cookies.includes('authenticated=true')) {
-    return fetch(req); // Forward authenticated requests directly
+    // Rewrite the request URL to bypass the Edge Function for subsequent rendering
+    const newUrl = new URL(req.url);
+    newUrl.pathname = '/'; // Rewrite to root or original path
+    return fetch(newUrl.toString(), req);
   }
 
   // No credentials provided? Challenge the user
