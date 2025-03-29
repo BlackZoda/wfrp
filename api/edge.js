@@ -10,7 +10,7 @@ export default async function handler(req) {
   if (path === '/logout') {
     console.log('Handling logout');
     return new Response('Logged out successfully.', {
-      status: 200, // No authentication required
+      status: 200,
       headers: { 'Content-Type': 'text/plain' },
     });
   }
@@ -18,7 +18,7 @@ export default async function handler(req) {
   const authHeader = req.headers.get('Authorization');
   const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
-  // No credentials provided? Challenge the user
+  // No credentials? Challenge the user
   if (!authHeader) {
     return new Response('Login required', {
       status: 401,
@@ -34,12 +34,12 @@ export default async function handler(req) {
   // Valid credentials: Forward request safely
   console.log('Authenticated request:', req.url);
 
-  // Forward request with a custom header to prevent loops
+  // Forward with custom header to prevent loops
   const response = await fetch(`https://${req.headers.get('host')}${path}`, {
     method: req.method,
     headers: {
       ...Object.fromEntries(req.headers.entries()),
-      'X-Processed-By': 'edge-function', // Add custom header to detect forwarded requests
+      'X-Processed-By': 'edge-function', // Add header to bypass Edge Function
     },
     body: req.body,
   });
