@@ -1,6 +1,19 @@
 export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
+  const url = new URL(req.url);
+
+  // Handle logout requests
+  if (url.pathname === '/logout') {
+    return logoutHandler();
+  }
+
+  // Handle authentication for all other requests
+  return authHandler(req);
+}
+
+// Authentication Handler
+async function authHandler(req) {
   const authHeader = req.headers.get('Authorization');
   const validToken = 'Basic ' + btoa('test:test123');
 
@@ -25,6 +38,20 @@ export default async function handler(req) {
 
   // Valid credentials: Set a cookie and forward the request
   const response = await fetch(req);
-  response.headers.set('Set-Cookie', 'authenticated=true; Path=/; HttpOnly; Secure');
+  response.headers.set(
+    'Set-Cookie',
+    'authenticated=true; Path=/; HttpOnly; Secure; Max-Age=3600' // Cookie expires in 1 hour
+  );
+  return response;
+}
+
+// Logout Handler
+function logoutHandler() {
+  // Clear the authentication cookie by setting Max-Age to 0
+  const response = new Response('You have been logged out.', { status: 200 });
+  response.headers.set(
+    'Set-Cookie',
+    'authenticated=false; Path=/; HttpOnly; Secure; Max-Age=0'
+  );
   return response;
 }
