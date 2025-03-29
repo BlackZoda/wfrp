@@ -31,8 +31,18 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Return a simple response or redirect
+  // Valid credentials: Forward request safely
   console.log('Authenticated request:', req.url);
 
-  return new Response(`Authenticated access to ${path}`, { status: 200 });
+  // Forward request with a custom header to prevent loops
+  const response = await fetch(`https://${req.headers.get('host')}${path}`, {
+    method: req.method,
+    headers: {
+      ...Object.fromEntries(req.headers.entries()),
+      'X-Processed-By': 'edge-function', // Add custom header to detect forwarded requests
+    },
+    body: req.body,
+  });
+
+  return response;
 }

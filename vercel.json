@@ -4,9 +4,20 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
-      { "src": "/logout", "dest": "/api/edge" },
-      { "src": "/protected/(.*)", "dest": "/api/edge" },
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "dest": "/404" }
+      {
+        "src": "/(.*)",
+        "has": [
+          {
+            "type": "header",
+            "key": "X-Processed-By",
+            "value": "edge-function"
+          }
+        ],
+        "dest": "/$1"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/api/edge"
+      }
     ]
 }
