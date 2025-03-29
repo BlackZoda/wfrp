@@ -1,16 +1,22 @@
-export const config = {
-    runtime: 'edge', // Specifies that this is an Edge Function
-  };
-  
-  export default async function handler(req) {
-    const authHeader = req.headers.get('Authorization');
-  
-    // Check if the Authorization header matches your secret token
-    if (authHeader !== 'Test123') {
-      return new Response('Unauthorized', { status: 401 });
-    }
-  
-    // If authorized, proceed with the request
-    return new Response('Welcome to your protected site!', { status: 200 });
+export const config = { runtime: 'edge' };
+
+export default async function handler(req) {
+  const authHeader = req.headers.get('Authorization');
+  const validToken = 'Basic ' + btoa('test:test123'); // Replace with credentials
+
+  // No credentials provided? Challenge the user
+  if (!authHeader) {
+    return new Response('Login required', {
+      status: 401,
+      headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
+    });
   }
-  
+
+  // Invalid credentials? Block access
+  if (authHeader !== validToken) {
+    return new Response('Invalid credentials', { status: 401 });
+  }
+
+  // Valid credentials: Forward to static files
+  return fetch(req);
+}
