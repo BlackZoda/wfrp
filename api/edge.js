@@ -10,8 +10,8 @@ export default async function handler(req) {
   if (path === '/logout') {
     console.log('Handling logout');
     return new Response('Logged out successfully.', {
-      status: 200,
-      headers: { 'Content-Type': 'text/plain' },
+      status: 200, // No authentication required
+      headers: { 'Content-Type': 'text/plain' }, // No X-Processed-By header
     });
   }
 
@@ -39,7 +39,7 @@ export default async function handler(req) {
     method: req.method,
     headers: {
       ...Object.fromEntries(req.headers.entries()),
-      'X-Processed-By': 'edge-function', // Add header to bypass Edge Function
+      'X-Processed-By': 'edge-function', // Add header to prevent loops
     },
     body: req.body,
   });
