@@ -5,7 +5,7 @@
     "devCommand": "npm run start",
     "routes": [
       { "src": "/logout", "dest": "/api/edge" },
-      { "src": "/logged-out.html", "dest": "/logged-out.html" },
+      { "src": "/logged-out", "dest": "/logged-out" },
       {
         "src": "/(.*)",
         "has": [
