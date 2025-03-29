@@ -17,8 +17,12 @@ export default async function handler(req) {
 
   // Prevent infinite loop by checking if the request is targeting this function
   if (path.startsWith('/api/edge')) {
-    console.log('Preventing infinite loop for /api/edge');
-    return new Response('Infinite loop prevented', { status: 400 });
+    // Check for a custom header to detect forwarded requests
+    const forwardedHeader = req.headers.get('X-Forwarded-By');
+    if (forwardedHeader === 'edge-function') {
+      console.log('Preventing infinite loop for forwarded request');
+      return new Response('Infinite loop prevented', { status: 400 });
+    }
   }
 
   const authHeader = req.headers.get('Authorization');
@@ -37,8 +41,16 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Rewrite the request URL to bypass /api/edge
-  const originalPath = url.pathname; // Preserve the original path
-  const forwardUrl = new URL(originalPath, req.url);
-  return fetch(forwardUrl.toString(), req);
+  // Valid credentials: Forward request to original destination with a custom header
+  console.log('Forwarding request:', req.url);
+  const response = await fetch(req.url, {
+    method: req.method,
+    headers: {
+      ...Object.fromEntries(req.headers.entries()),
+      'X-Forwarded-By': 'edge-function', // Add custom header to prevent loops
+    },
+    body: req.body,
+  });
+
+  return response;
 }
