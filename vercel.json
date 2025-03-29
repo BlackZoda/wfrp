@@ -4,6 +4,7 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
+      { "src": "/logout", "dest": "/api/edge" },
       {
         "src": "/(.*)",
         "has": [
@@ -15,9 +16,6 @@
         ],
         "dest": "/$1"
       },
-      {
-        "src": "/(.*)",
-        "dest": "/api/edge"
-      }
+      { "src": "/(.*)", "dest": "/api/edge" }
     ]
 }
