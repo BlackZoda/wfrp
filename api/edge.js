@@ -40,8 +40,8 @@ export default async function handler(req) {
   // Valid credentials: Forward request safely
   console.log('Forwarding request:', req.url);
 
-  // Rewrite URL to point directly to static files or backend
-  const rewrittenUrl = `https://${req.headers.get('host')}${path}`; // Forward directly to static files or backend
+  // Rewrite URL to bypass the Edge Function by using Vercel's internal domain
+  const rewrittenUrl = `https://${req.headers.get('host').replace('.vercel.app', '-static.vercel.app')}${path}`;
   console.log('Rewritten URL:', rewrittenUrl);
 
   const response = await fetch(rewrittenUrl, {
