@@ -9,9 +9,9 @@ export default async function handler(req) {
   // Handle logout endpoint
   if (path === '/logout') {
     console.log('Handling logout');
-    return new Response('Logged out successfully', {
-      status: 401,
-      headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
+    return new Response('You have been logged out.', {
+      status: 200, // Use 200 OK instead of 401 Unauthorized
+      headers: { 'Content-Type': 'text/plain' }, // No WWW-Authenticate header
     });
   }
 
