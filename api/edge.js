@@ -3,6 +3,11 @@ export const config = { runtime: 'edge' };
 export default async function handler(req) {
   const url = new URL(req.url);
 
+  // Prevent infinite loops: Skip requests to /api/edge
+  if (url.pathname.startsWith('/api/edge')) {
+    return new Response('Infinite loop prevented', { status: 500 });
+  }
+
   // Handle logout requests
   if (url.pathname === '/logout') {
     return logoutHandler();
@@ -20,7 +25,7 @@ export default async function handler(req) {
 // Authentication Handler
 async function authHandler(req, url) {
   const authHeader = req.headers.get('Authorization');
-  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
+  const validToken = 'Basic ' + btoa('test:test123');
 
   // Check if the user is already authenticated via a cookie
   const cookies = req.headers.get('cookie') || '';
