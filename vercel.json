@@ -6,7 +6,7 @@
     "routes": [
     { "src": "/api/(.*)", "dest": "/api/$1" },
     { "src": "/logout", "dest": "/api/edge" },
-    { "src": "/(.*)", "dest": "/api/edge", "check": true },
+    { "src": "/protected/(.*)", "dest": "/api/edge" },
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/404" }
   ]

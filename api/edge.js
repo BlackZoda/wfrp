@@ -15,12 +15,6 @@ export default async function handler(req) {
     });
   }
 
-  // Prevent infinite loop by checking if the request is targeting this function
-  if (path.startsWith('/api/edge')) {
-    console.log('Preventing infinite loop for /api/edge');
-    return new Response('Infinite loop prevented', { status: 400 });
-  }
-
   const authHeader = req.headers.get('Authorization');
   const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
@@ -40,8 +34,7 @@ export default async function handler(req) {
   // Valid credentials: Forward request safely
   console.log('Forwarding request:', req.url);
 
-  // Rewrite URL to point to static files or another backend
-  const rewrittenUrl = `https://wfrp.vercel.app${path}`; // Forward directly to static files or backend
+  const rewrittenUrl = req.url.replace('/protected', ''); // Rewrite URL for static files or backend
   console.log('Rewritten URL:', rewrittenUrl);
 
   const response = await fetch(rewrittenUrl, {
