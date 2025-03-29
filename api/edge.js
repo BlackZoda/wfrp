@@ -1,19 +1,28 @@
 export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
+  console.log('Incoming request:', req.url);
+
   const url = new URL(req.url);
   const path = url.pathname;
 
-  const authHeader = req.headers.get('Authorization');
-  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
-
+  // Handle logout endpoint
   if (path === '/logout') {
-    // Logout endpoint: Force browser to clear cached credentials
+    console.log('Handling logout');
     return new Response('Logged out successfully', {
       status: 401,
       headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
     });
   }
+
+  // Prevent infinite loop by checking if the request is targeting this function
+  if (path.startsWith('/api/edge')) {
+    console.log('Preventing infinite loop for /api/edge');
+    return new Response('Infinite loop prevented', { status: 400 });
+  }
+
+  const authHeader = req.headers.get('Authorization');
+  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials provided? Challenge the user
   if (!authHeader) {
@@ -28,6 +37,7 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Forward the request to the original destination
+  // Valid credentials: Forward request to original destination
+  console.log('Forwarding request:', req.url);
   return fetch(req);
 }
