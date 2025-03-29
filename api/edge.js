@@ -37,11 +37,11 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Rewrite URL and forward request
+  // Valid credentials: Forward request safely
   console.log('Forwarding request:', req.url);
 
-  // Rewrite URL to point to static files or another destination
-  const rewrittenUrl = req.url.replace('/api/edge', '');
+  // Rewrite URL to point to static files or another backend
+  const rewrittenUrl = `https://wfrp.vercel.app${path}`; // Forward directly to static files or backend
   console.log('Rewritten URL:', rewrittenUrl);
 
   const response = await fetch(rewrittenUrl, {

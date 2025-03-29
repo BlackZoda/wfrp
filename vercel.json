@@ -4,10 +4,10 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
-      { "src": "/api/(.*)", "dest": "/api/$1" },
-      { "src": "/logout", "dest": "/api/edge" },
-      { "src": "/(.*)", "dest": "/api/edge", "check": true },
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "dest": "/404" }
+    { "src": "/api/(.*)", "dest": "/api/$1" },
+    { "src": "/logout", "dest": "/api/edge" },
+    { "src": "/(.*)", "dest": "/api/edge", "check": true },
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/404" }
   ]
 }
