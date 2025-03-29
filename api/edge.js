@@ -40,8 +40,11 @@ export default async function handler(req) {
   // Valid credentials: Forward request safely
   console.log('Forwarding request:', req.url);
 
-  // Forward request with a custom header to prevent loops
-  const response = await fetch(req.url, {
+  // Rewrite URL to point directly to static files or backend
+  const rewrittenUrl = `https://${req.headers.get('host')}${path}`; // Forward directly to static files or backend
+  console.log('Rewritten URL:', rewrittenUrl);
+
+  const response = await fetch(rewrittenUrl, {
     method: req.method,
     headers: {
       ...Object.fromEntries(req.headers.entries()),
