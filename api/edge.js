@@ -2,7 +2,7 @@ export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
   const authHeader = req.headers.get('Authorization');
-  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your username and password
+  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials provided? Challenge the user
   if (!authHeader) {
