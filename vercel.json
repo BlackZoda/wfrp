@@ -7,7 +7,7 @@
         {
           "src": "/(.*)",
           "dest": "/api/edge",
-          "headers": { "x-authorized": null }
+          "headers": { "x-authorized": "false" }
         },
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
