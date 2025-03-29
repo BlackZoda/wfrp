@@ -9,16 +9,19 @@ export default async function handler(req) {
   // Handle logout endpoint
   if (path === '/logout') {
     console.log('Handling logout');
-    return new Response('Logged out successfully.', {
-      status: 200, // No authentication required
-      headers: { 'Content-Type': 'text/plain' }, // No X-Processed-By header
+    return new Response(null, {
+      status: 401, // Force browser to clear cached credentials
+      headers: {
+        'WWW-Authenticate': 'Basic realm="Secure Area"', // Trigger clearing of credentials
+        'Location': '/logged-out', // Redirect after logging out
+      },
     });
   }
 
   const authHeader = req.headers.get('Authorization');
   const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
-  // No credentials? Challenge the user
+  // No credentials provided? Challenge the user
   if (!authHeader) {
     return new Response('Login required', {
       status: 401,
