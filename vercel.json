@@ -4,6 +4,9 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
-      { "src": "/(.*)", "dest": "/api/edge" }
-  ]
+      { "src": "/logout", "dest": "/api/edge" },
+      { "src": "/protected/(.*)", "dest": "/api/edge" },
+      { "handle": "filesystem" },
+      { "src": "/(.*)", "dest": "/404" }
+    ]
 }

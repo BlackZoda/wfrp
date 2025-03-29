@@ -6,16 +6,6 @@ export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
 
-  // Prevent infinite loops by checking for a custom header
-  if (req.headers.get('X-Processed-By') === 'edge-function') {
-    console.log('Preventing infinite loop');
-    return fetch(`https://${req.headers.get('host')}${path}`, {
-      method: req.method,
-      headers: req.headers,
-      body: req.body,
-    });
-  }
-
   // Handle logout endpoint
   if (path === '/logout') {
     console.log('Handling logout');
@@ -41,18 +31,8 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Forward request safely
-  console.log('Forwarding request:', req.url);
+  // Valid credentials: Return a simple response or redirect
+  console.log('Authenticated request:', req.url);
 
-  // Forward request with a custom header to prevent loops
-  const response = await fetch(`https://${req.headers.get('host')}${path}`, {
-    method: req.method,
-    headers: {
-      ...Object.fromEntries(req.headers.entries()),
-      'X-Processed-By': 'edge-function', // Add custom header to detect forwarded requests
-    },
-    body: req.body,
-  });
-
-  return response;
+  return new Response(`Authenticated access to ${path}`, { status: 200 });
 }
