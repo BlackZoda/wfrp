@@ -2,12 +2,12 @@ export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
   const authHeader = req.headers.get('Authorization');
-  const authorizedHeader = req.headers.get('x-authorized');
-  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
+  const validToken = 'Basic ' + btoa('test:test123');
 
-  // Skip authentication if already authorized
-  if (authorizedHeader === 'true') {
-    return fetch(req);
+  // Check if the user is already authenticated via a cookie
+  const cookies = req.headers.get('cookie') || '';
+  if (cookies.includes('authenticated=true')) {
+    return fetch(req); // Forward the request directly
   }
 
   // No credentials provided? Challenge the user
@@ -23,8 +23,8 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Forward request and mark as authorized
-  const newReq = new Request(req);
-  newReq.headers.set('x-authorized', 'true');
-  return fetch(newReq);
+  // Valid credentials: Set a cookie and forward the request
+  const response = await fetch(req);
+  response.headers.set('Set-Cookie', 'authenticated=true; Path=/; HttpOnly; Secure');
+  return response;
 }

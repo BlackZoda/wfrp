@@ -4,12 +4,6 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
-        {
-          "src": "/(.*)",
-          "dest": "/api/edge",
-          "headers": { "x-authorized": "false" }
-        },
-        { "handle": "filesystem" },
-        { "src": "/(.*)", "status": 404, "dest": "/404" }
+        { "src": "/(.*)", "dest": "/api/edge" }
       ]
 }
