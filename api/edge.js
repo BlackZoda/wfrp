@@ -17,8 +17,8 @@ export default async function handler(req) {
     return new Response('Invalid credentials', { status: 401 });
   }
 
-  // Valid credentials: Forward to static files
-  const url = new URL(req.url);
-  url.pathname = '/_next/static'; // Bypass the Edge Function on subsequent requests
-  return fetch(url.toString(), req);
+  // Valid credentials
+  const newReq = new Request(req);
+  newReq.headers.set('x-authorized', 'true');
+  return fetch(newReq);
 }
