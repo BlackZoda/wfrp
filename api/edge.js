@@ -2,7 +2,7 @@ export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
   const authHeader = req.headers.get('Authorization');
-  const validToken = 'Basic ' + btoa('test:test123'); // Replace with credentials
+  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials provided? Challenge the user
   if (!authHeader) {
@@ -18,5 +18,7 @@ export default async function handler(req) {
   }
 
   // Valid credentials: Forward to static files
-  return fetch(req);
+  const url = new URL(req.url);
+  url.pathname = '/_next/static'; // Bypass the Edge Function on subsequent requests
+  return fetch(url.toString(), req);
 }
