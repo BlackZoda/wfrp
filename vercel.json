@@ -4,8 +4,6 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
-      { "src": "/(.*)", "dest": "/api/edge" },
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "dest": "/404" }
+      { "src": "/(.*)", "dest": "/api/edge" }
   ]
 }
