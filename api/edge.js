@@ -20,9 +20,11 @@ export default async function handler(req) {
     console.log('Handling logout');
 
     // Delete the loggedIn cookie by setting maxAge=0
-    const loggedInCookie = serialize('loggedIn', 'false', {
+    const loggedInCookie = serialize('loggedIn', '', {
       path: '/',
       httpOnly: true,
+      maxAge: 0,
+      sameSite: 'Strict'
     });
 
     // Redirect to /logged-out
