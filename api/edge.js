@@ -1,6 +1,6 @@
-export const config = { runtime: 'edge' };
+import { parse, serialize } from 'cookie';
 
-let loggedOut = false; // Simulate session tracking for logged-out state
+export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
   console.log('Incoming request:', req.url);
@@ -8,19 +8,32 @@ export default async function handler(req) {
   const url = new URL(req.url);
   const path = url.pathname;
 
+  // Parse cookies from the request
+  const cookies = parse(req.headers.get('cookie') || '');
+
   // Handle logout endpoint
   if (path === '/logout') {
     console.log('Handling logout');
-    loggedOut = true; // Set logged-out state
+    // Set the loggedOut cookie
+    const loggedOutCookie = serialize('loggedOut', 'true', {
+      path: '/', // Make sure the cookie is valid for the entire domain
+      httpOnly: true, // Recommended for security
+    });
+
+    // Return a redirect response
     return new Response(null, {
-      status: 302, // Redirect status code
-      headers: { Location: '/logged-out' }, // Redirect to /logged-out page
+      status: 302,
+      headers: {
+        'Location': '/logged-out.html',
+        'Set-Cookie': loggedOutCookie, // Set the cookie in the response
+      },
     });
   }
 
   // Check if user is logged out
-  if (loggedOut) {
-    return new Response('You are logged out.', {
+  if (cookies.loggedOut === 'true') {
+    console.log('User is logged out, prompting for login');
+    return new Response('You are logged out. Please log in.', {
       status: 401,
       headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
     });
@@ -29,8 +42,9 @@ export default async function handler(req) {
   const authHeader = req.headers.get('Authorization');
   const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
-  // No credentials provided? Challenge the user
+  // No credentials? Challenge the user
   if (!authHeader) {
+    console.log('No credentials provided, prompting for login');
     return new Response('Login required', {
       status: 401,
       headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
@@ -39,6 +53,7 @@ export default async function handler(req) {
 
   // Invalid credentials? Block access
   if (authHeader !== validToken) {
+    console.log('Invalid credentials');
     return new Response('Invalid credentials', { status: 401 });
   }
 
