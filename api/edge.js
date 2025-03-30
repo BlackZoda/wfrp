@@ -14,13 +14,15 @@ export default async function handler(req) {
   // Handle logout endpoint
   if (path === '/logout') {
     console.log('Handling logout');
-    // Set the loggedOut cookie
+
+    // Set the loggedOut cookie with maxAge=0 to delete it
     const loggedOutCookie = serialize('loggedOut', 'true', {
-      path: '/', // Make sure the cookie is valid for the entire domain
-      httpOnly: true, // Recommended for security
+      path: '/',
+      httpOnly: true,
+      maxAge: 0, // Delete the cookie
     });
 
-    // Return a redirect response
+    // Redirect to /logged-out.html
     return new Response(null, {
       status: 302,
       headers: {
@@ -30,7 +32,7 @@ export default async function handler(req) {
     });
   }
 
-  // Check if user is logged out
+  // Check if user is logged out based on the loggedOut cookie
   if (cookies.loggedOut === 'true') {
     console.log('User is logged out, prompting for login');
     return new Response('You are logged out. Please log in.', {
