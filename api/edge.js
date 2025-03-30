@@ -93,7 +93,7 @@ export default async function handler(req) {
   const loggedInCookie = serialize('loggedIn', 'true', {
     path: '/',
     httpOnly: true,
-    // Du kan også vurdere å legge til maxAge for å spesifisere varigheten
+    // You might want to add a maxAge for session duration
   });
     
    const authenticationHeaders = {
@@ -103,18 +103,18 @@ export default async function handler(req) {
   // Valid credentials: Forward request safely
   console.log('Authenticated request:', req.url);
 
-  // Forward with custom header to prevent loops
-    const response = await fetch(`https://${req.headers.get('host')}${path}`, {
-      method: req.method,
-      headers: {
-        ...Object.fromEntries(req.headers.entries()),
-        'X-Processed-By': 'edge-function', // Add header to prevent loops
-          ...authenticationHeaders,
-      },
-      body: req.body,
-    });
+  // Create the response with the Set-Cookie header
+  const response = new Response('Logged in', {
+    status: 200,
+    headers: {
+      'Set-Cookie': loggedInCookie, // Set the loggedIn cookie
+      'X-Processed-By': 'edge-function', // Add header to prevent loops
+      ...Object.fromEntries(req.headers.entries()), // Include other headers if necessary
+    },
+  });
 
-  console.log('Setting loggedIn cookie:', loggedInCookie);
+  // Log the response being sent
+  console.log('Response headers:', response.headers);
 
   return response;
 }
