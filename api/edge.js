@@ -113,5 +113,10 @@ export default async function handler(req) {
   // Log the response being sent
   console.log('Response headers:', response.headers);
 
-  return response;
+  return new Response('Login required', {
+    status: 401,
+    headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"'},
+  });
+
+  // return response;
 }
