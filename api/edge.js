@@ -93,7 +93,7 @@ export default async function handler(req) {
   const loggedInCookie = serialize('loggedIn', 'true', {
     path: '/',
     httpOnly: true,
-    // You might want to add a maxAge for session duration
+    // Du kan også vurdere å legge til maxAge for å spesifisere varigheten
   });
     
    const authenticationHeaders = {
