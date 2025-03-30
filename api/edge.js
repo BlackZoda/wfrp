@@ -6,10 +6,11 @@ const sessions = new Map();
 
 export default async function handler(req) {
   try {
-    const baseUrl = `https://${req.headers.get('host')}`;
+    const host = typeof req.headers.get === 'function' ? req.headers.get('host') : req.headers.host;
+    const baseUrl = `https://${host}`;
     let url;
     try {
-      url = new URL(req.url);
+      url = new URL(req.url, baseUrl); // Pass baseUrl as the base URL to correctly resolve relative URLs
     } catch (error) {
       console.error("Error parsing req.url:", error);
       return new Response("Bad Request: Invalid URL", { status: 400 });
@@ -61,7 +62,8 @@ export default async function handler(req) {
     }
 
     // 3. Login Flow
-    const authHeader = req.headers.get('Authorization');
+    const authHeader = typeof req.headers.get === 'function' ? req.headers.get('Authorization') : req.headers.authorization;
+
     const validCredentials = 'Basic ' + btoa('test:test123');
 
     if (!authHeader || authHeader !== validCredentials) {
