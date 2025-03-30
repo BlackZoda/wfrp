@@ -5,98 +5,85 @@ import { randomUUID } from 'node:crypto';
 const sessions = new Map();
 
 export default async function handler(req) {
-  try {
-    const host = typeof req.headers.get === 'function' ? req.headers.get('host') : req.headers.host;
-    const baseUrl = `https://${host}`;
-    let url;
-    try {
-      url = new URL(req.url, baseUrl); // Pass baseUrl as the base URL to correctly resolve relative URLs
-    } catch (error) {
-      console.error("Error parsing req.url:", error);
-      return new Response("Bad Request: Invalid URL", { status: 400 });
-    }
+  const url = new URL(req.url);
+  const baseUrl = `https://${req.headers.get('host')}`; // Use original method
 
-    const targetPath = url.pathname === "" ? "/" : url.pathname; // Default to "/" if pathname is empty
-    const targetUrl = `${baseUrl}${targetPath}`; // Construct the full URL without duplicating the origin
+  // Session Management
+  const cookies = parse(req.headers.get('cookie') || '');
+  const sessionId = cookies.sessionId;
 
-    // Session Management Middleware
-    const cookieHeader = typeof req.headers.get === 'function' ? req.headers.get('cookie') : req.headers.cookie;
-    const cookies = parse(cookieHeader || '');
-    const sessionId = cookies.sessionId;
-
-    // 1. Logout Endpoint
-    if (url.pathname === '/logout') {
-      if (sessionId) sessions.delete(sessionId);
-
-      return new Response(null, {
-        status: 302,
-        headers: {
-          'Location': `${baseUrl}/logged-out`,
-          'Set-Cookie': serialize('sessionId', '', {
-            path: '/',
-            maxAge: 0,
-            httpOnly: true,
-            secure: true,
-            sameSite: 'Strict'
-          })
-        }
-      });
-    }
-
-    // 2. Check Existing Session
-    if (sessionId && sessions.has(sessionId)) {
-      try {
-        const newHeaders = new Headers(req.headers); // create a new Headers object
-        newHeaders.set('X-Processed-By', 'edge-function');
-        newHeaders.set('X-User-Id', sessions.get(sessionId).userId);
-
-        const response = await fetch(targetUrl, { // Use the constructed targetUrl
-          method: req.method,
-          headers: newHeaders,
-          body: req.body,
-        });
-        return response;
-      } catch (error) {
-        console.error("Fetch error:", error);
-        return new Response("Internal Server Error", { status: 500 });
-      }
-    }
-
-    // 3. Login Flow
-    const authHeader = typeof req.headers.get === 'function' ? req.headers.get('Authorization') : req.headers.authorization;
-
-    const validCredentials = 'Basic ' + btoa('test:test123');
-
-    if (!authHeader || authHeader !== validCredentials) {
-      return new Response('Authentication required', {
-        status: 401,
-        headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' }
-      });
-    }
-
-    // 4. Create New Session
-    const newSessionId = randomUUID();
-    sessions.set(newSessionId, {
-      userId: 'test',
-      createdAt: Date.now(),
-      expiresAt: Date.now() + 3600_000 // 1 hour
-    });
+  // Logout Endpoint
+  if (url.pathname === '/logout') {
+    if (sessionId) sessions.delete(sessionId);
 
     return new Response(null, {
       status: 302,
       headers: {
-        'Location': baseUrl,
-        'Set-Cookie': serialize('sessionId', newSessionId, {
+        'Location': `${baseUrl}/logged-out`,
+        'Set-Cookie': serialize('sessionId', '', {
           path: '/',
+          maxAge: 0,
           httpOnly: true,
           secure: true,
           sameSite: 'Strict',
-          maxAge: 3600 // 1 hour
-        })
-      }
+        },
+        ),
+      },
     });
-  } catch (error) {
-    console.error("Unexpected error:", error);
-    return new Response("Internal Server Error", { status: 500 });
   }
+
+  // Check Session
+  if (sessionId && sessions.has(sessionId)) {
+    console.log('User is logged in (session)');
+    const response = await fetch(`https://${req.headers.get('host')}${url.pathname}`, { // Original URL
+      method: req.method,
+      headers: {
+        ...Object.fromEntries(req.headers.entries()),
+        'X-Processed-By': 'edge-function',
+      },
+      body: req.body,
+    });
+
+    return response;
+  }
+
+  // Basic Auth Check (if no session)
+  const authHeader = req.headers.get('Authorization');
+  const validCredentials = 'Basic ' + btoa('test:test123');
+
+  if (!authHeader) {
+    console.log('No credentials provided, prompting for login');
+    return new Response('Login required', {
+      status: 401,
+      headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
+    });
+  }
+
+  if (authHeader !== validCredentials) {
+    console.log('Invalid credentials');
+    return new Response('Invalid credentials', { status: 401 });
+  }
+
+  // Create Session
+  const newSessionId = randomUUID();
+  sessions.set(newSessionId, { userId: 'test', createdAt: Date.now() });
+
+  const loggedInCookie = serialize('sessionId', newSessionId, {
+    path: '/',
+    httpOnly: true,
+    secure: true,
+    sameSite: 'Strict',
+    maxAge: 3600, // 1 hour
+  });
+
+  const response = new Response(null, {
+    status: 302,
+    headers: {
+      'Location': baseUrl,
+      'Set-Cookie': loggedInCookie,
+      'X-Processed-By': 'edge-function',
+    },
+  });
+
+  return response;
 }
