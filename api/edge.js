@@ -24,12 +24,7 @@ export default async function handler(req) {
       if (sessionId) {
         try {
           await put({
-            items: [
-              {
-                operation: 'delete',
-                key: `session:${sessionId}`,
-              },
-            ],
+            [`session:${sessionId}`]: null,
           });
         } catch (error) {
           console.error("Error deleting session from Edge Config:", error);
@@ -87,24 +82,13 @@ export default async function handler(req) {
     const newSessionId = randomUUID();
     try {
       await put({
-        items: [
-          {
-            operation: 'upsert',
-            key: `session:${newSessionId}`,
-            value: { userId: 'test', createdAt: Date.now() },
-          },
-        ],
+        [`session:${newSessionId}`]: { userId: 'test', createdAt: Date.now() },
       });
-                setTimeout(async () => {
+              setTimeout(async () => {
                 try {
-                  await put({
-                    items: [
-                      {
-                        operation: 'delete',
-                        key: `session:${newSessionId}`,
-                      },
-                    ],
-                  });
+                    await put({
+                        [`session:${newSessionId}`]: null,
+                    });
                   console.log(`Session ${newSessionId} deleted after timeout.`);
                 } catch (error) {
                   console.error(`Error deleting session ${newSessionId} after timeout:`, error);
