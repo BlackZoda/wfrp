@@ -20,7 +20,8 @@ export default async function handler(req) {
     const targetUrl = `${baseUrl}${targetPath}`; // Construct the full URL without duplicating the origin
 
     // Session Management Middleware
-    const cookies = parse(req.headers.get('cookie') || '');
+    const cookieHeader = typeof req.headers.get === 'function' ? req.headers.get('cookie') : req.headers.cookie;
+    const cookies = parse(cookieHeader || '');
     const sessionId = cookies.sessionId;
 
     // 1. Logout Endpoint
