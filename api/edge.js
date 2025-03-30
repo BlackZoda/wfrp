@@ -1,12 +1,12 @@
 import { parse, serialize } from 'cookie';
 import { randomUUID } from 'node:crypto';
-import { kv } from '@vercel/kv'; // Import Vercel KV
+import { kv } from '@vercel/kv';
 
-const SESSION_TTL = 3600; // Session time-to-live (1 hour)
+const SESSION_TTL = 3600;
 
 export default async function handler(req) {
-  const host = req.headers.get('host');
   try {
+    const host = typeof req.headers.get === 'function' ? req.headers.get('host') : req.headers.host;
     const baseUrl = `https://${host}`;
     let url;
 
@@ -20,10 +20,9 @@ export default async function handler(req) {
     const cookies = parse(req.headers.get('cookie') || '');
     const sessionId = cookies.sessionId;
 
-    // Logout Endpoint
     if (url.pathname === '/logout') {
       if (sessionId) {
-        await kv.del(`session:${sessionId}`); // Delete session from KV
+        await kv.del(`session:${sessionId}`);
       }
 
       return new Response(null, {
@@ -41,9 +40,8 @@ export default async function handler(req) {
       });
     }
 
-    // Check Session
     if (sessionId) {
-      const session = await kv.get(`session:${sessionId}`); // Get session from KV
+      const session = await kv.get(`session:${sessionId}`);
 
       if (session) {
         console.log('User is logged in (session)');
@@ -60,7 +58,6 @@ export default async function handler(req) {
       }
     }
 
-    // Basic Auth Check (if no session)
     const authHeader = req.headers.get('Authorization');
     const validCredentials = 'Basic ' + btoa('test:test123');
 
@@ -77,9 +74,8 @@ export default async function handler(req) {
       return new Response('Invalid credentials', { status: 401 });
     }
 
-    // Create Session
     const newSessionId = randomUUID();
-    await kv.set(`session:${newSessionId}`, { userId: 'test', createdAt: Date.now() }, { ex: SESSION_TTL }); // Store session in KV with TTL
+    await kv.set(`session:${newSessionId}`, { userId: 'test', createdAt: Date.now() }, { ex: SESSION_TTL });
 
     const loggedInCookie = serialize('sessionId', newSessionId, {
       path: '/',
