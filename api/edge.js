@@ -2,11 +2,10 @@ import { parse, serialize } from 'cookie';
 import { randomUUID } from 'node:crypto';
 import { get, update } from '@vercel/edge-config';
 
-const SESSION_TTL = 3600; // Session time-to-live (1 hour)
+const SESSION_TTL = 5; // Reduced TTL to 5 seconds for testing
 
 export default async function handler(req) {
   try {
-    // Access headers directly from req object
     const host = req.headers.host;
     const baseUrl = `https://${host}`;
     let url;
@@ -21,11 +20,9 @@ export default async function handler(req) {
     const cookies = parse(req.headers.cookie || '');
     const sessionId = cookies.sessionId;
 
-    // Logout Endpoint
     if (url.pathname === '/logout') {
       if (sessionId) {
         try {
-          // Delete session from Edge Config (using update)
           await update({
             items: [
               {
@@ -54,23 +51,15 @@ export default async function handler(req) {
       });
     }
 
-    // Check Session
     if (sessionId) {
       try {
         const session = await get(`session:${sessionId}`);
 
         if (session) {
-          console.log('User is logged in (session)');
-          const response = await fetch(url.href, {
-            method: req.method,
-            headers: {
-              ...Object.fromEntries(req.headers.entries()),
-              'X-Processed-By': 'edge-function',
-            },
-            body: req.body,
+          console.log('Session found:', session);
+          return new Response("Session found", {
+            status: 200,
           });
-
-          return response;
         } else {
           console.log('Session not found');
         }
@@ -79,7 +68,6 @@ export default async function handler(req) {
       }
     }
 
-    // Basic Auth Check (if no session)
     const authHeader = req.headers.authorization;
     const validCredentials = 'Basic ' + btoa('test:test123');
 
@@ -96,10 +84,8 @@ export default async function handler(req) {
       return new Response('Invalid credentials', { status: 401 });
     }
 
-    // Create Session
     const newSessionId = randomUUID();
     try {
-      // Store session in Edge Config (using update)
       await update({
         items: [
           {
@@ -109,21 +95,21 @@ export default async function handler(req) {
           },
         ],
       });
-        setTimeout(async () => {
-        try {
-          await update({
-            items: [
-              {
-                operation: 'delete',
-                key: `session:${newSessionId}`,
-              },
-            ],
-          });
-          console.log(`Session ${newSessionId} deleted after timeout.`);
-        } catch (error) {
-          console.error(`Error deleting session ${newSessionId} after timeout:`, error);
-        }
-      }, SESSION_TTL * 1000);
+             setTimeout(async () => {
+            try {
+              await update({
+                items: [
+                  {
+                    operation: 'delete',
+                    key: `session:${newSessionId}`,
+                  },
+                ],
+              });
+              console.log(`Session ${newSessionId} deleted after timeout.`);
+            } catch (error) {
+              console.error(`Error deleting session ${newSessionId} after timeout:`, error);
+            }
+          }, SESSION_TTL * 1000);
     } catch (error) {
       console.error("Error setting session in Edge Config:", error);
     }
@@ -136,7 +122,7 @@ export default async function handler(req) {
       maxAge: SESSION_TTL,
     });
 
-    const response = new Response(null, {
+    return new Response(null, {
       status: 302,
       headers: {
         'Location': baseUrl,
@@ -144,8 +130,6 @@ export default async function handler(req) {
         'X-Processed-By': 'edge-function',
       },
     });
-
-    return response;
   } catch (error) {
     console.error("Unexpected error:", error);
     return new Response("Internal Server Error", { status: 500 });
