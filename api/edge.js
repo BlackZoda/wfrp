@@ -31,13 +31,21 @@ export default async function handler(req) {
     console.log('Setting loggedIn cookie to delete:', loggedInCookie);
 
     // Redirect to /logged-out
-    return new Response(null, {
+    const response = new Response(null, {
       status: 302,
       headers: {
         'Location': loggedOutUrl, // Use absolute URL
         'Set-Cookie': loggedInCookie, // Set the cookie in the response
       },
     });
+
+    // Log the response headers before returning
+    console.log('Response headers for logout:', {
+        'Set-Cookie': loggedInCookie,
+        'Location': loggedOutUrl,
+    });
+
+    return response;
   }
 
   // Log the cookies after logout
