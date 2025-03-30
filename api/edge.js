@@ -1,12 +1,9 @@
-import { parse, serialize } from 'cookie';
-
-// Session storage (use a proper DB/KV store in production)
-const sessions = new Map();
-
 export default async function handler(req) {
   const url = new URL(req.url);
   const baseUrl = `https://${req.headers.get('host')}`;
-  
+  const targetPath = url.pathname === "" ? "/" : url.pathname; // Default to "/" if pathname is empty
+  const targetUrl = `https://${req.headers.get('host')}${targetPath}`; // Construct the full URL
+
   // Session Management Middleware
   const cookies = parse(req.headers.get('cookie') || '');
   const sessionId = cookies.sessionId;
@@ -14,7 +11,7 @@ export default async function handler(req) {
   // 1. Logout Endpoint
   if (url.pathname === '/logout') {
     if (sessionId) sessions.delete(sessionId);
-    
+
     return new Response(null, {
       status: 302,
       headers: {
@@ -32,16 +29,21 @@ export default async function handler(req) {
 
   // 2. Check Existing Session
   if (sessionId && sessions.has(sessionId)) {
-    const response = await fetch(`https://${req.headers.get('host')}${url.pathname}`, {
-      method: req.method,
-      headers: {
-        ...Object.fromEntries(req.headers.entries()),
-        'X-Processed-By': 'edge-function',
-        'X-User-Id': sessions.get(sessionId).userId
-      },
-      body: req.body,
-    });
-    return response;
+    try {
+      const response = await fetch(targetUrl, { // Use the constructed targetUrl
+        method: req.method,
+        headers: {
+          ...Object.fromEntries(req.headers.entries()),
+          'X-Processed-By': 'edge-function',
+          'X-User-Id': sessions.get(sessionId).userId
+        },
+        body: req.body,
+      });
+      return response;
+    } catch (error) {
+      console.error("Fetch error:", error);
+      return new Response("Internal Server Error", { status: 500 });
+    }
   }
 
   // 3. Login Flow
