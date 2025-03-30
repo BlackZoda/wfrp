@@ -62,7 +62,7 @@ export default async function handler(req) {
   const validCredentials = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials? Challenge the user
-  if (!authHeader || !cookies.loggedIn === 'true') {
+  if (!authHeader || cookies.loggedIn !== 'true') {
     console.log('No credentials provided, prompting for login');
     return new Response('Login required', {
       status: 401,
