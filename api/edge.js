@@ -1,28 +1,13 @@
 import { parse, serialize } from 'cookie';
 import { randomUUID } from 'node:crypto';
-import { kv } from '@vercel/kv';
+import { get, update } from '@vercel/edge-config';
 
-const SESSION_TTL = 3600;
-
-async function safeGetHeader(headers, headerName) {
-  try {
-    if (typeof headers.get === 'function') {
-      return headers.get(headerName);
-    } else if (headers[headerName]) {
-      return headers[headerName];
-    } else {
-      return null; // Or handle the missing header as needed
-    }
-  } catch (error) {
-    console.error(`Error getting header ${headerName}:`, error);
-    return null;
-  }
-}
+const SESSION_TTL = 3600; // Session time-to-live (1 hour)
+const EDGE_CONFIG = process.env.EDGE_CONFIG;
 
 export default async function handler(req) {
   try {
-    const host = await safeGetHeader(req.headers, 'host');
-    const baseUrl = `https://${host}`;
+    const baseUrl = `https://${req.headers.get('host')}`;
     let url;
 
     try {
@@ -32,16 +17,24 @@ export default async function handler(req) {
       return new Response("Bad Request: Invalid URL", { status: 400 });
     }
 
-    const cookieHeader = await safeGetHeader(req.headers, 'cookie');
-    const cookies = parse(cookieHeader || '');
+    const cookies = parse(req.headers.get('cookie') || '');
     const sessionId = cookies.sessionId;
 
+    // Logout Endpoint
     if (url.pathname === '/logout') {
       if (sessionId) {
         try {
-          await kv.del(`session:${sessionId}`);
+          // Delete session from Edge Config (using update)
+          await update({
+            items: [
+              {
+                operation: 'delete',
+                key: `session:${sessionId}`,
+              },
+            ],
+          });
         } catch (error) {
-          console.error("Error deleting session from KV:", error);
+          console.error("Error deleting session from Edge Config:", error);
         }
       }
 
@@ -60,34 +53,33 @@ export default async function handler(req) {
       });
     }
 
+    // Check Session
     if (sessionId) {
       try {
-        const session = await kv.get(`session:${sessionId}`);
+        const session = await get(`session:${sessionId}`);
 
         if (session) {
           console.log('User is logged in (session)');
-          try {
-            const response = await fetch(url.href, {
-              method: req.method,
-              headers: {
-                ...Object.fromEntries(req.headers.entries()),
-                'X-Processed-By': 'edge-function',
-              },
-              body: req.body,
-            });
+          const response = await fetch(url.href, {
+            method: req.method,
+            headers: {
+              ...Object.fromEntries(req.headers.entries()),
+              'X-Processed-By': 'edge-function',
+            },
+            body: req.body,
+          });
 
-            return response;
-          } catch (error) {
-            console.error("Error during fetch:", error);
-            return new Response("Internal Server Error", { status: 500 });
-          }
+          return response;
+        } else {
+          console.log('Session not found');
         }
       } catch (error) {
-        console.error("Error getting session from KV:", error);
+        console.error("Error getting session from Edge Config:", error);
       }
     }
 
-    const authHeader = await safeGetHeader(req.headers, 'authorization');
+    // Basic Auth Check (if no session)
+    const authHeader = req.headers.get('Authorization');
     const validCredentials = 'Basic ' + btoa('test:test123');
 
     if (!authHeader) {
@@ -103,11 +95,37 @@ export default async function handler(req) {
       return new Response('Invalid credentials', { status: 401 });
     }
 
+    // Create Session
     const newSessionId = randomUUID();
     try {
-      await kv.set(`session:${newSessionId}`, { userId: 'test', createdAt: Date.now() }, { ex: SESSION_TTL });
+      // Store session in Edge Config (using update)
+      await update({
+        items: [
+          {
+            operation: 'upsert',
+            key: `session:${newSessionId}`,
+            value: { userId: 'test', createdAt: Date.now() },
+          },
+        ],
+      });
+       // Set a timeout to delete the session after SESSION_TTL seconds
+       setTimeout(async () => {
+        try {
+          await update({
+            items: [
+              {
+                operation: 'delete',
+                key: `session:${newSessionId}`,
+              },
+            ],
+          });
+          console.log(`Session ${newSessionId} deleted after timeout.`);
+        } catch (error) {
+          console.error(`Error deleting session ${newSessionId} after timeout:`, error);
+        }
+      }, SESSION_TTL * 1000);
     } catch (error) {
-      console.error("Error setting session in KV:", error);
+      console.error("Error setting session in Edge Config:", error);
     }
 
     const loggedInCookie = serialize('sessionId', newSessionId, {
