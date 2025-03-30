@@ -10,7 +10,7 @@ export default async function handler(req) {
 
   // Construct the absolute URL
   const baseUrl = `https://${req.headers.get('host')}`;
-  const loggedOutUrl = `${baseUrl}/logged-out`;
+  const loggedOutUrl = `${baseUrl}/logged-out.html`;
 
   // Parse cookies from the request
   const cookies = parse(req.headers.get('cookie') || '');
