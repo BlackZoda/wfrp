@@ -1,5 +1,7 @@
 export const config = { runtime: 'edge' };
 
+let loggedOut = false; // Simulate session tracking for logged-out state
+
 export default async function handler(req) {
   console.log('Incoming request:', req.url);
 
@@ -9,19 +11,25 @@ export default async function handler(req) {
   // Handle logout endpoint
   if (path === '/logout') {
     console.log('Handling logout');
-    return new Response('Logged out successfully.', {
-      status: 200,
-      headers: {
-        'WWW-Authenticate': 'Basic realm="Secure Area"', // Trigger clearing of credentials
-        'Location': '/logged-out', // Redirect to /logged-out after logging out
-      },
+    loggedOut = true; // Set logged-out state
+    return new Response(null, {
+      status: 302, // Redirect status code
+      headers: { Location: '/logged-out' }, // Redirect to /logged-out page
+    });
+  }
+
+  // Check if user is logged out
+  if (loggedOut) {
+    return new Response('You are logged out.', {
+      status: 401,
+      headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
     });
   }
 
   const authHeader = req.headers.get('Authorization');
   const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
-  // No credentials? Challenge the user
+  // No credentials provided? Challenge the user
   if (!authHeader) {
     return new Response('Login required', {
       status: 401,
