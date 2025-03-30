@@ -67,7 +67,10 @@ export default async function handler(req) {
     return response;
   }
 
+  // Log the Authorization header
   const authHeader = req.headers.get('Authorization');
+  console.log('Authorization header:', authHeader);
+
   const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials? Challenge the user
