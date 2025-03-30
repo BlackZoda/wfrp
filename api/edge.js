@@ -6,7 +6,8 @@ const SESSION_TTL = 3600; // Session time-to-live (1 hour)
 
 export default async function handler(req) {
   try {
-    const baseUrl = `https://${req.headers.get('host')}`;
+    const host = req.headers.get('host');
+    const baseUrl = `https://${host}`;
     let url;
 
     try {
