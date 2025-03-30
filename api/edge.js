@@ -59,10 +59,10 @@ export default async function handler(req) {
   const authHeader = req.headers.get('Authorization');
   console.log('Authorization header:', authHeader);
 
-  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
+  const validCredentials = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials? Challenge the user
-  if (!authHeader) {
+  if (!authHeader || !cookies.loggedIn === 'true') {
     console.log('No credentials provided, prompting for login');
     return new Response('Login required', {
       status: 401,
@@ -71,7 +71,7 @@ export default async function handler(req) {
   }
 
   // Invalid credentials? Block access
-  if (authHeader !== validToken) {
+  if (authHeader !== validCredentials) {
     console.log('Invalid credentials');
     return new Response('Invalid credentials', { status: 401 });
   }
