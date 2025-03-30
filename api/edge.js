@@ -6,8 +6,9 @@ const SESSION_TTL = 3600; // Session time-to-live (1 hour)
 
 export default async function handler(req) {
   try {
-    const headersObj = Object.fromEntries(req.headers.entries());
-    const baseUrl = `https://${headersObj.host}`;
+    // Access headers directly from req object
+    const host = req.headers.host;
+    const baseUrl = `https://${host}`;
     let url;
 
     try {
@@ -17,7 +18,7 @@ export default async function handler(req) {
       return new Response("Bad Request: Invalid URL", { status: 400 });
     }
 
-    const cookies = parse(headersObj.cookie || '');
+    const cookies = parse(req.headers.cookie || '');
     const sessionId = cookies.sessionId;
 
     // Logout Endpoint
@@ -79,7 +80,7 @@ export default async function handler(req) {
     }
 
     // Basic Auth Check (if no session)
-    const authHeader = headersObj.authorization;
+    const authHeader = req.headers.authorization;
     const validCredentials = 'Basic ' + btoa('test:test123');
 
     if (!authHeader) {
@@ -108,7 +109,7 @@ export default async function handler(req) {
           },
         ],
       });
-              setTimeout(async () => {
+        setTimeout(async () => {
         try {
           await update({
             items: [
