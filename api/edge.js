@@ -24,6 +24,7 @@ export default async function handler(req) {
       path: '/',
       httpOnly: true,
       maxAge: 0, // Delete the cookie
+      sameSite: 'Strict', // Legg til SameSite-attributt
     });
 
     // Log the cookie being set for debugging
