@@ -20,11 +20,9 @@ export default async function handler(req) {
     console.log('Handling logout');
 
     // Delete the loggedIn cookie by setting maxAge=0
-    const loggedInCookie = serialize('loggedIn', '', {
+    const loggedInCookie = serialize('loggedIn', 'false', {
       path: '/',
       httpOnly: true,
-      maxAge: 0, // Delete the cookie
-      sameSite: 'Strict',
     });
 
     // Redirect to /logged-out
@@ -62,7 +60,7 @@ export default async function handler(req) {
   const validCredentials = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials? Challenge the user
-  if (!authHeader) {
+  if (!authHeader || cookies.loggedIn === 'false') {
     console.log('No credentials provided, prompting for login');
     return new Response('Login required', {
       status: 401,
