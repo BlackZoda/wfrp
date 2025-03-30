@@ -62,7 +62,7 @@ export default async function handler(req) {
   const validCredentials = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
   // No credentials? Challenge the user
-  if (!authHeader || cookies.loggedIn !== 'true') {
+  if (!authHeader) {
     console.log('No credentials provided, prompting for login');
     return new Response('Login required', {
       status: 401,
@@ -77,7 +77,6 @@ export default async function handler(req) {
   }
 
   // Set the loggedIn cookie upon successful authentication
-  console.log('Authenticated, setting loggedIn cookie');
   const loggedInCookie = serialize('loggedIn', 'true', {
     path: '/',
     httpOnly: true,
