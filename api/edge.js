@@ -4,9 +4,24 @@ import { kv } from '@vercel/kv';
 
 const SESSION_TTL = 3600;
 
+async function safeGetHeader(headers, headerName) {
+  try {
+    if (typeof headers.get === 'function') {
+      return headers.get(headerName);
+    } else if (headers[headerName]) {
+      return headers[headerName];
+    } else {
+      return null; // Or handle the missing header as needed
+    }
+  } catch (error) {
+    console.error(`Error getting header ${headerName}:`, error);
+    return null;
+  }
+}
+
 export default async function handler(req) {
   try {
-    const host = typeof req.headers.get === 'function' ? req.headers.get('host') : req.headers.host;
+    const host = await safeGetHeader(req.headers, 'host');
     const baseUrl = `https://${host}`;
     let url;
 
@@ -17,12 +32,17 @@ export default async function handler(req) {
       return new Response("Bad Request: Invalid URL", { status: 400 });
     }
 
-    const cookies = parse(req.headers.get('cookie') || '');
+    const cookieHeader = await safeGetHeader(req.headers, 'cookie');
+    const cookies = parse(cookieHeader || '');
     const sessionId = cookies.sessionId;
 
     if (url.pathname === '/logout') {
       if (sessionId) {
-        await kv.del(`session:${sessionId}`);
+        try {
+          await kv.del(`session:${sessionId}`);
+        } catch (error) {
+          console.error("Error deleting session from KV:", error);
+        }
       }
 
       return new Response(null, {
@@ -41,24 +61,33 @@ export default async function handler(req) {
     }
 
     if (sessionId) {
-      const session = await kv.get(`session:${sessionId}`);
+      try {
+        const session = await kv.get(`session:${sessionId}`);
 
-      if (session) {
-        console.log('User is logged in (session)');
-        const response = await fetch(url.href, {
-          method: req.method,
-          headers: {
-            ...Object.fromEntries(req.headers.entries()),
-            'X-Processed-By': 'edge-function',
-          },
-          body: req.body,
-        });
+        if (session) {
+          console.log('User is logged in (session)');
+          try {
+            const response = await fetch(url.href, {
+              method: req.method,
+              headers: {
+                ...Object.fromEntries(req.headers.entries()),
+                'X-Processed-By': 'edge-function',
+              },
+              body: req.body,
+            });
 
-        return response;
+            return response;
+          } catch (error) {
+            console.error("Error during fetch:", error);
+            return new Response("Internal Server Error", { status: 500 });
+          }
+        }
+      } catch (error) {
+        console.error("Error getting session from KV:", error);
       }
     }
 
-    const authHeader = req.headers.get('Authorization');
+    const authHeader = await safeGetHeader(req.headers, 'authorization');
     const validCredentials = 'Basic ' + btoa('test:test123');
 
     if (!authHeader) {
@@ -75,7 +104,11 @@ export default async function handler(req) {
     }
 
     const newSessionId = randomUUID();
-    await kv.set(`session:${newSessionId}`, { userId: 'test', createdAt: Date.now() }, { ex: SESSION_TTL });
+    try {
+      await kv.set(`session:${newSessionId}`, { userId: 'test', createdAt: Date.now() }, { ex: SESSION_TTL });
+    } catch (error) {
+      console.error("Error setting session in KV:", error);
+    }
 
     const loggedInCookie = serialize('sessionId', newSessionId, {
       path: '/',
