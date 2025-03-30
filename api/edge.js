@@ -26,6 +26,9 @@ export default async function handler(req) {
       maxAge: 0, // Delete the cookie
     });
 
+    // Log the cookie being set for debugging
+    console.log('Setting loggedIn cookie to delete:', loggedInCookie);
+
     // Redirect to /logged-out
     return new Response(null, {
       status: 302,
