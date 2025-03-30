@@ -44,13 +44,13 @@ export default async function handler(req) {
     // 2. Check Existing Session
     if (sessionId && sessions.has(sessionId)) {
       try {
+        const newHeaders = new Headers(req.headers); // create a new Headers object
+        newHeaders.set('X-Processed-By', 'edge-function');
+        newHeaders.set('X-User-Id', sessions.get(sessionId).userId);
+
         const response = await fetch(targetUrl, { // Use the constructed targetUrl
           method: req.method,
-          headers: {
-            ...Object.fromEntries(req.headers.entries()),
-            'X-Processed-By': 'edge-function',
-            'X-User-Id': sessions.get(sessionId).userId
-          },
+          headers: newHeaders,
           body: req.body,
         });
         return response;
