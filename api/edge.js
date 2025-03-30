@@ -1,6 +1,6 @@
 import { parse, serialize } from 'cookie';
 import { randomUUID } from 'node:crypto';
-import { get, update } from '@vercel/edge-config';
+import { get, put } from '@vercel/edge-config';
 
 const SESSION_TTL = 5; // Reduced TTL to 5 seconds for testing
 
@@ -23,7 +23,7 @@ export default async function handler(req) {
     if (url.pathname === '/logout') {
       if (sessionId) {
         try {
-          await update({
+          await put({
             items: [
               {
                 operation: 'delete',
@@ -86,7 +86,7 @@ export default async function handler(req) {
 
     const newSessionId = randomUUID();
     try {
-      await update({
+      await put({
         items: [
           {
             operation: 'upsert',
@@ -95,21 +95,21 @@ export default async function handler(req) {
           },
         ],
       });
-             setTimeout(async () => {
-            try {
-              await update({
-                items: [
-                  {
-                    operation: 'delete',
-                    key: `session:${newSessionId}`,
-                  },
-                ],
-              });
-              console.log(`Session ${newSessionId} deleted after timeout.`);
-            } catch (error) {
-              console.error(`Error deleting session ${newSessionId} after timeout:`, error);
-            }
-          }, SESSION_TTL * 1000);
+                setTimeout(async () => {
+                try {
+                  await put({
+                    items: [
+                      {
+                        operation: 'delete',
+                        key: `session:${newSessionId}`,
+                      },
+                    ],
+                  });
+                  console.log(`Session ${newSessionId} deleted after timeout.`);
+                } catch (error) {
+                  console.error(`Error deleting session ${newSessionId} after timeout:`, error);
+                }
+              }, SESSION_TTL * 1000);
     } catch (error) {
       console.error("Error setting session in Edge Config:", error);
     }
