@@ -55,6 +55,7 @@ export default async function handler(req) {
 
   // Log the Authorization header
   const authHeader = req.headers.get('Authorization');
+  console.log('Authorization header:', authHeader);
 
   const validCredentials = 'Basic ' + btoa('test:test123'); // Replace with your credentials
 
@@ -69,6 +70,7 @@ export default async function handler(req) {
 
   // Invalid credentials? Block access
   if (authHeader !== validCredentials) {
+    console.log('Invalid credentials');
     return new Response('Invalid credentials', { status: 401 });
   }
 
@@ -77,17 +79,6 @@ export default async function handler(req) {
     path: '/',
     httpOnly: true,
   });
-
-  if (cookies.loggedIn === 'false') {
-    console.log('No valid session found, prompting for login');
-    return new Response('Login required', {
-      status: 401,
-      headers: {
-        'WWW-Authenticate': 'Basic realm="Secure Area"',
-        'Set-Cookie': loggedInCookie,
-      },
-    });
-  }
 
   // Create the response with a redirect after successful login
   const response = new Response(null, {
