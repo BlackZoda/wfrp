@@ -5,8 +5,8 @@ import { kv } from '@vercel/kv'; // Import Vercel KV
 const SESSION_TTL = 3600; // Session time-to-live (1 hour)
 
 export default async function handler(req) {
+  const host = req.headers.get('host');
   try {
-    const host = req.headers.get('host');
     const baseUrl = `https://${host}`;
     let url;
 
