@@ -93,23 +93,20 @@ export default async function handler(req) {
   const loggedInCookie = serialize('loggedIn', 'true', {
     path: '/',
     httpOnly: true,
-    // You might want to add a maxAge for session duration
   });
     
    const authenticationHeaders = {
         'Set-Cookie': loggedInCookie, // Set the loggedIn cookie
     }
 
-  // Valid credentials: Forward request safely
-  console.log('Authenticated request:', req.url);
-
-  // Create the response with the Set-Cookie header
-  const response = new Response('Logged in', {
-    status: 200,
+  // Valid credentials: Redirect to the home page
+  console.log('Authenticated, setting loggedIn cookie');
+  const response = new Response(null, {
+    status: 302,
     headers: {
+      'Location': baseUrl, // Redirect to the home page or intended page
       'Set-Cookie': loggedInCookie, // Set the loggedIn cookie
       'X-Processed-By': 'edge-function', // Add header to prevent loops
-      ...Object.fromEntries(req.headers.entries()), // Include other headers if necessary
     },
   });
 
