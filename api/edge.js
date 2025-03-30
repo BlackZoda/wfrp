@@ -114,5 +114,7 @@ export default async function handler(req) {
       body: req.body,
     });
 
+  console.log('Setting loggedIn cookie:', loggedInCookie);
+
   return response;
 }
