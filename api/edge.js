@@ -3,11 +3,10 @@ import { randomUUID } from 'node:crypto';
 import { get, update } from '@vercel/edge-config';
 
 const SESSION_TTL = 3600; // Session time-to-live (1 hour)
-const EDGE_CONFIG = process.env.EDGE_CONFIG;
 
 export default async function handler(req) {
   try {
-    const baseUrl = `https://${req.headers.get('host')}`;
+    const baseUrl = `https://${req.getHeader('host')}`; // Directly use req.getHeader
     let url;
 
     try {
@@ -17,7 +16,7 @@ export default async function handler(req) {
       return new Response("Bad Request: Invalid URL", { status: 400 });
     }
 
-    const cookies = parse(req.headers.get('cookie') || '');
+    const cookies = parse(req.getHeader('cookie') || ''); // Directly use req.getHeader
     const sessionId = cookies.sessionId;
 
     // Logout Endpoint
@@ -79,7 +78,7 @@ export default async function handler(req) {
     }
 
     // Basic Auth Check (if no session)
-    const authHeader = req.headers.get('Authorization');
+    const authHeader = req.getHeader('Authorization'); // Directly use req.getHeader
     const validCredentials = 'Basic ' + btoa('test:test123');
 
     if (!authHeader) {
@@ -108,8 +107,7 @@ export default async function handler(req) {
           },
         ],
       });
-       // Set a timeout to delete the session after SESSION_TTL seconds
-       setTimeout(async () => {
+          setTimeout(async () => {
         try {
           await update({
             items: [
