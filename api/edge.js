@@ -1,28 +1,29 @@
 import { parse, serialize } from 'cookie';
 import { randomUUID } from 'node:crypto';
+import { kv } from '@vercel/kv'; // Import Vercel KV
 
-// Session storage (use a proper DB/KV store in production)
-const sessions = new Map();
+const SESSION_TTL = 3600; // Session time-to-live (1 hour)
 
 export default async function handler(req) {
   try {
-    const baseUrl = `https://${req.headers.get('host')}`; // Use original method
+    const baseUrl = `https://${req.headers.get('host')}`;
     let url;
 
     try {
-      url = new URL(req.url, baseUrl); // Attempt to construct URL using base URL
+      url = new URL(req.url, baseUrl);
     } catch (error) {
       console.error("Error parsing req.url:", error);
       return new Response("Bad Request: Invalid URL", { status: 400 });
     }
 
-    // Session Management
     const cookies = parse(req.headers.get('cookie') || '');
     const sessionId = cookies.sessionId;
 
     // Logout Endpoint
     if (url.pathname === '/logout') {
-      if (sessionId) sessions.delete(sessionId);
+      if (sessionId) {
+        await kv.del(`session:${sessionId}`); // Delete session from KV
+      }
 
       return new Response(null, {
         status: 302,
@@ -34,25 +35,28 @@ export default async function handler(req) {
             httpOnly: true,
             secure: true,
             sameSite: 'Strict',
-          },
-          ),
+          }),
         },
       });
     }
 
     // Check Session
-    if (sessionId && sessions.has(sessionId)) {
-      console.log('User is logged in (session)');
-      const response = await fetch(url.href, { // Original URL
-        method: req.method,
-        headers: {
-          ...Object.fromEntries(req.headers.entries()),
-          'X-Processed-By': 'edge-function',
-        },
-        body: req.body,
-      });
+    if (sessionId) {
+      const session = await kv.get(`session:${sessionId}`); // Get session from KV
 
-      return response;
+      if (session) {
+        console.log('User is logged in (session)');
+        const response = await fetch(url.href, {
+          method: req.method,
+          headers: {
+            ...Object.fromEntries(req.headers.entries()),
+            'X-Processed-By': 'edge-function',
+          },
+          body: req.body,
+        });
+
+        return response;
+      }
     }
 
     // Basic Auth Check (if no session)
@@ -74,14 +78,14 @@ export default async function handler(req) {
 
     // Create Session
     const newSessionId = randomUUID();
-    sessions.set(newSessionId, { userId: 'test', createdAt: Date.now() });
+    await kv.set(`session:${newSessionId}`, { userId: 'test', createdAt: Date.now() }, { ex: SESSION_TTL }); // Store session in KV with TTL
 
     const loggedInCookie = serialize('sessionId', newSessionId, {
       path: '/',
       httpOnly: true,
       secure: true,
       sameSite: 'Strict',
-      maxAge: 3600, // 1 hour
+      maxAge: SESSION_TTL,
     });
 
     const response = new Response(null, {
