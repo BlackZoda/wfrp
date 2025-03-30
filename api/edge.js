@@ -26,7 +26,7 @@ export default async function handler(req) {
     return new Response(null, {
       status: 302,
       headers: {
-        'Location': '/logged-out.html',
+        'Location': '/logged-out',
         'Set-Cookie': loggedOutCookie, // Set the cookie in the response
       },
     });
