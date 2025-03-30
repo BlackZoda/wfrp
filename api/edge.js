@@ -24,32 +24,20 @@ export default async function handler(req) {
       path: '/',
       httpOnly: true,
       maxAge: 0, // Delete the cookie
-      sameSite: 'Strict', // Legg til SameSite-attributt
+      sameSite: 'Strict',
     });
-
-    // Log the cookie being set for debugging
-    console.log('Setting loggedIn cookie to delete:', loggedInCookie);
 
     // Redirect to /logged-out
     const response = new Response(null, {
       status: 302,
       headers: {
-        'Location': loggedOutUrl, // Use absolute URL
-        'Set-Cookie': loggedInCookie, // Set the cookie in the response
-      },
-    });
-
-    // Log the response headers before returning
-    console.log('Response headers for logout:', {
-        'Set-Cookie': loggedInCookie,
         'Location': loggedOutUrl,
+        'Set-Cookie': loggedInCookie,
+      },
     });
 
     return response;
   }
-
-  // Log the cookies after logout
-  console.log('Cookies after logout:', cookies);
 
   // Check if user is logged in based on the loggedIn cookie
   if (cookies.loggedIn === 'true') {
@@ -59,7 +47,7 @@ export default async function handler(req) {
       method: req.method,
       headers: {
         ...Object.fromEntries(req.headers.entries()),
-        'X-Processed-By': 'edge-function', // Add header to prevent loops
+        'X-Processed-By': 'edge-function',
       },
       body: req.body,
     });
@@ -67,10 +55,43 @@ export default async function handler(req) {
     return response;
   }
 
-  // If the cookie is not present, prompt for login
-  console.log('No valid session found, prompting for login');
-  return new Response('Login required', {
-    status: 401,
-    headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
+  // Log the Authorization header
+  const authHeader = req.headers.get('Authorization');
+  console.log('Authorization header:', authHeader);
+
+  const validToken = 'Basic ' + btoa('test:test123'); // Replace with your credentials
+
+  // No credentials? Challenge the user
+  if (!authHeader) {
+    console.log('No credentials provided, prompting for login');
+    return new Response('Login required', {
+      status: 401,
+      headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
+    });
+  }
+
+  // Invalid credentials? Block access
+  if (authHeader !== validToken) {
+    console.log('Invalid credentials');
+    return new Response('Invalid credentials', { status: 401 });
+  }
+
+  // Set the loggedIn cookie upon successful authentication
+  console.log('Authenticated, setting loggedIn cookie');
+  const loggedInCookie = serialize('loggedIn', 'true', {
+    path: '/',
+    httpOnly: true,
   });
+
+  // Create the response with a redirect after successful login
+  const response = new Response(null, {
+    status: 302,
+    headers: {
+      'Location': baseUrl, // Redirect to the home page or intended page
+      'Set-Cookie': loggedInCookie, // Set the loggedIn cookie
+      'X-Processed-By': 'edge-function',
+    },
+  });
+
+  return response;
 }
