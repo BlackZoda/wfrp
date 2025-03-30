@@ -10,7 +10,7 @@ export default async function handler(req) {
 
   // Construct the absolute URL
   const baseUrl = `https://${req.headers.get('host')}`;
-  const loggedOutUrl = `${baseUrl}/logged-out.html`;
+  const loggedOutUrl = `${baseUrl}/logged-out`;
 
   // Parse cookies from the request
   const cookies = parse(req.headers.get('cookie') || '');
@@ -39,6 +39,9 @@ export default async function handler(req) {
       },
     });
   }
+
+  // Log the cookies after logout
+  console.log('Cookies after logout:', cookies);
 
   // Check if user is logged in based on the loggedIn cookie
   if (cookies.loggedIn === 'true') {
