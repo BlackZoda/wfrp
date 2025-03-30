@@ -10,7 +10,7 @@ export default async function handler(req) {
   if (path === '/logout') {
     console.log('Handling logout');
     return new Response('Logged out successfully.', {
-      status: 401, // Force browser to clear cached credentials
+      status: 200,
       headers: {
         'WWW-Authenticate': 'Basic realm="Secure Area"', // Trigger clearing of credentials
         'Location': '/logged-out', // Redirect to /logged-out after logging out
