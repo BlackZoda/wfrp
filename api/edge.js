@@ -1,121 +1,97 @@
 import { parse, serialize } from 'cookie';
-import { randomUUID } from 'node:crypto';
-import { get, put } from '@vercel/edge-config';
 
-const SESSION_TTL = 5; // Reduced TTL to 5 seconds for testing
+export const config = { runtime: 'edge' };
 
 export default async function handler(req) {
-  try {
-    const host = req.headers.host;
-    const baseUrl = `https://${host}`;
-    let url;
+  console.log('Incoming request:', req.url);
 
-    try {
-      url = new URL(req.url, baseUrl);
-    } catch (error) {
-      console.error("Error parsing req.url:", error);
-      return new Response("Bad Request: Invalid URL", { status: 400 });
-    }
+  const url = new URL(req.url);
+  const path = url.pathname;
 
-    const cookies = parse(req.headers.cookie || '');
-    const sessionId = cookies.sessionId;
+  // Construct the absolute URL
+  const baseUrl = `https://${req.headers.get('host')}`;
+  const loggedOutUrl = `${baseUrl}/logged-out`;
 
-    if (url.pathname === '/logout') {
-      if (sessionId) {
-        try {
-          await put({
-            [`session:${sessionId}`]: null,
-          });
-        } catch (error) {
-          console.error("Error deleting session from Edge Config:", error);
-        }
-      }
+  // Parse cookies from the request
+  const cookies = parse(req.headers.get('cookie') || '');
 
-      return new Response(null, {
-        status: 302,
-        headers: {
-          'Location': `${baseUrl}/logged-out`,
-          'Set-Cookie': serialize('sessionId', '', {
-            path: '/',
-            maxAge: 0,
-            httpOnly: true,
-            secure: true,
-            sameSite: 'Strict',
-          }),
-        },
-      });
-    }
+  // Handle logout endpoint
+  if (path === '/logout') {
+    console.log('Handling logout');
 
-    if (sessionId) {
-      try {
-        const session = await get(`session:${sessionId}`);
-
-        if (session) {
-          console.log('Session found:', session);
-          return new Response("Session found", {
-            status: 200,
-          });
-        } else {
-          console.log('Session not found');
-        }
-      } catch (error) {
-        console.error("Error getting session from Edge Config:", error);
-      }
-    }
-
-    const authHeader = req.headers.authorization;
-    const validCredentials = 'Basic ' + btoa('test:test123');
-
-    if (!authHeader) {
-      console.log('No credentials provided, prompting for login');
-      return new Response('Login required', {
-        status: 401,
-        headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
-      });
-    }
-
-    if (authHeader !== validCredentials) {
-      console.log('Invalid credentials');
-      return new Response('Invalid credentials', { status: 401 });
-    }
-
-    const newSessionId = randomUUID();
-    try {
-      await put({
-        [`session:${newSessionId}`]: { userId: 'test', createdAt: Date.now() },
-      });
-              setTimeout(async () => {
-                try {
-                    await put({
-                        [`session:${newSessionId}`]: null,
-                    });
-                  console.log(`Session ${newSessionId} deleted after timeout.`);
-                } catch (error) {
-                  console.error(`Error deleting session ${newSessionId} after timeout:`, error);
-                }
-              }, SESSION_TTL * 1000);
-    } catch (error) {
-      console.error("Error setting session in Edge Config:", error);
-    }
-
-    const loggedInCookie = serialize('sessionId', newSessionId, {
+    // Delete the loggedIn cookie by setting maxAge=0
+    const loggedInCookie = serialize('loggedIn', '', {
       path: '/',
       httpOnly: true,
-      secure: true,
-      sameSite: 'Strict',
-      maxAge: SESSION_TTL,
+      maxAge: 0,
+      sameSite: 'Strict'
     });
 
-    return new Response(null, {
+    // Redirect to /logged-out
+    const response = new Response(null, {
       status: 302,
       headers: {
-        'Location': baseUrl,
+        'Location': loggedOutUrl,
         'Set-Cookie': loggedInCookie,
-        'X-Processed-By': 'edge-function',
       },
     });
-  } catch (error) {
-    console.error("Unexpected error:", error);
-    return new Response("Internal Server Error", { status: 500 });
+
+    return response;
   }
+
+  // Check if user is logged in based on the loggedIn cookie
+  if (cookies.loggedIn === 'true') {
+    console.log('User is logged in, forwarding request');
+    // Forward with custom header to prevent loops
+    const response = await fetch(`https://${req.headers.get('host')}${path}`, {
+      method: req.method,
+      headers: {
+        ...Object.fromEntries(req.headers.entries()),
+        'X-Processed-By': 'edge-function',
+      },
+      body: req.body,
+    });
+
+    return response;
+  }
+
+  // Log the Authorization header
+  const authHeader = req.headers.get('Authorization');
+  console.log('Authorization header:', authHeader);
+
+  const validCredentials = 'Basic ' + btoa('test:test123'); // Replace with your credentials
+
+  // If the cookie is not present, check for the Authorization header
+  if (!authHeader) {
+    console.log('No credentials provided, prompting for login');
+    return new Response('Login required', {
+      status: 401,
+      headers: { 'WWW-Authenticate': 'Basic realm="Secure Area"' },
+    });
+  }
+
+  // Invalid credentials? Block access
+  if (authHeader !== validCredentials) {
+    console.log('Invalid credentials');
+    return new Response('Invalid credentials', { status: 401 });
+  }
+
+  // Set the loggedIn cookie upon successful authentication
+  console.log('Authenticated, setting loggedIn cookie');
+  const loggedInCookie = serialize('loggedIn', 'true', {
+    path: '/',
+    httpOnly: true,
+  });
+
+  // Create the response with a redirect after successful login
+  const response = new Response(null, {
+    status: 302,
+    headers: {
+      'Location': baseUrl, // Redirect to the home page or intended page
+      'Set-Cookie': loggedInCookie, // Set the loggedIn cookie
+      'X-Processed-By': 'edge-function',
+    },
+  });
+
+  return response;
 }
