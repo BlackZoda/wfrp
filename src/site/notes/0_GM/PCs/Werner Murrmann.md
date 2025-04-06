@@ -3,7 +3,7 @@
 ---
 
 Home: [[Characters\|Characters]]
-
+## Personal Details
 **Species:** [[World/Races/Human\|Human]]
 **Class:** [[Rules/Class/Burgher\|Burgher]]
 **Career:** [[Rules/Career/Artisan\|Artisan]]
@@ -15,9 +15,110 @@ Home: [[Characters\|Characters]]
 **Hair:** Blonde
 **Eyes:** Dark Blue
 **Star Sign:** 
-
+## Fate
+**Fate:** 3
+**Fortune:** 3
+## Resilience
+**Resilience:** 3
+**Resolve:** 3
+**Motivation:** Thrillseeker
+## Experience
+**Current:** 255
+**Spent:** 125
+**Total:** 380
 ## Characteristics
+| Characteristic  | Initial | Advances | Current |
+| --------------- | ------- | -------- | ------- |
+| Weapon Skill    | 37      |          | 37      |
+| Ballistic Skill | 32      |          | 32      |
+| Strength        | 43      | 5        | 48      |
+| Toughness       | 36      | 5        | 41      |
+| Initiative      | 31      |          | 31      |
+| Agility         | 26      |          | 26      |
+| Dexterity       | 32      |          | 32      |
+| Intelligence    | 27      |          | 27      |
+| Willpower       | 35      |          | 35      |
+| Fellowship      | 38      |          | 38      |
+## Basic Skills
+[[Rules/Skills/Art\|Art]] (Dex) = 32
+[[Rules/Skills/Athletics\|Athletics]] (Ag) = 26 + 5 = 31
+[[Rules/Skills/Bribery\|Bribery]] (Fel) = 38
+[[Rules/Skills/Charm\|Charm]] (Fel) = 38 + 5 = 43
+[[Rules/Skills/Charm Animal\|Charm Animal]] (WP) = 35
+[[Rules/Skills/Climb\|Climb]] (S) = 48
+[[Rules/Skills/Cool\|Cool]] (WP) = 35 + 5 = 40
+[[Rules/Skills/Consume Alcohol\|Consume Alcohol]] (T) = 41 + 5 = 46
+[[Rules/Skills/Dodge\|Dodge]] (Ag) = 26 + 5 = 31
+[[Rules/Skills/Drive\|Drive]] (Ag) = 26
+[[Rules/Skills/Endurance\|Endurance]] (T) = 41 + 5 = 41
+[[Rules/Skills/Entertain\|Entertain]] (Fel) = 38
+[[Rules/Skills/Gamble\|Gamble]] (Int) = 27
+[[Rules/Skills/Gossip\|Gossip]] (Fel) = 38 + 5 = 43
+[[Rules/Skills/Haggle\|Haggle]] (Fel) = 38 + 3 = 41
+[[Rules/Skills/Intimidate\|Intimidate]] (S) = 48
+[[Rules/Skills/Intuition\|Intuition]] (I) = 31
+[[Rules/Skills/Leadership\|Leadership]] (Fel) = 38
+[[Rules/Skills/Melee\|Melee]] **(Basic)** (WS) = 37 + 5 = 42
+[[Rules/Skills/Melee\|Melee]] (WS) = 37
 
+## Grouped & Advanced Skills
+
+## [[Rules/Talents/Talent\|Talents]]
+| Name                          | Times Taken | Description                     |
+| ----------------------------- | ----------- | ------------------------------- |
+| [[Rules/Talents/Doomed\|Doomed]]                    | 1           | *Bear not the Ox’s bane*        |
+| [[Rules/Talents/Craftsman\|Craftsman]] ([[Carpenter\|Carpenter]]) | 1           | Add this skill to any career    |
+| [[Rules/Talents/Strong Back\|Strong Back]]               | 1           | +1 Enc, +1 SL to Strength Tests |
+| [[Rules/Talents/Suave\|Suave]]                     | 1           | +5 Fellowship, already added    |
+| [[Rules/Talents/Very Resilient\|Very Resilient]]            | 1           | +5 Toughness, already added     |
+| [[Rules/Talents/Very Strong\|Very Strong]]               | 1           | +5 Strength, already added      |
+## [[Rules/Trappings/Trappings\|Trappings]]
+| Name                    | Enc |
+| ----------------------- | --- |
+| [[Chalk\|Chalk]]               | –   |
+| [[Hooded Cloak\|Hooded Cloak]]        |     |
+| [[Clothing\|Clothing]]            |     |
+| [[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]              |     |
+| 2 [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Axe\|Throwing Axe]]      |     |
+| [[Sword\|Sword]]               |     |
+| Hat, [[Helmet\|Helmet]]         |     |
+| [[Rules/Trappings/Armour/Leather Jerkin\|Leather Jerkin]]      |     |
+| [[Pouch\|Pouch]]               |     |
+| 10 [[Rags\|Rags]]             |     |
+| [[Sling Bag\|Sling Bag]]           |     |
+| [[Lunch\|Lunch]]               |     |
+| [[Flask of Herbal Tea\|Flask of Herbal Tea]] |     |
+## [[Rules/Trappings/Weapons/Weapon\|Weapons]]
+| Name             | Group                  | Enc | Range/Reach    | Damage | Qualities |
+| ---------------- | ---------------------- | --- | -------------- | ------ | --------- |
+| [[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]       | [[Rules/Trappings/Weapons/Melee Weapon/Basic Melee Weapon\|Basic Melee Weapon]] | 1   | [[Rules/Trappings/Weapons/Weapon Reach/Very Short\|Very Short]] | SB+2   |           |
+| [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Axe\|Throwing Axe]] | [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Weapon\|Throwing Weapon]]    | 1   | 8              | SB+3   | [[Rules/Trappings/Weapons/Quaity/Hack\|Hack]]  |
+| [[Sword\|Sword]]        | [[Rules/Trappings/Weapons/Melee Weapon/Basic Melee Weapon\|Basic Melee Weapon]] | 1   |                | SB+4   |           |
+
+## [[Rules/Trappings/Armour/Armour\|Armour]]
+| Name               | Locations | Enc | AP  | Qualities |
+| ------------------ | --------- | --- | --- | --------- |
+| [[Rules/Trappings/Armour/Leather Jerkin\|Leather Jerkin]] | [[Body\|Body]]  | 1   | 1   |           |
+| [[Helmet\|Helmet]]         | [[Head\|Head]]  | 2   | 2   | -20 [[Rules/Skills/Perception\|Perception]], [[Rules/Trappings/Armour/Impenetrable\|Impenetrable]], [[Rules/Trappings/Armour/Weakpoints\|Weakpoints]]          |
+
+## [[Rules/Attributes/Ambition\|Ambitions]]
+**Short term:**
+**Long term:**
+
+## [[Rules/Psychology/Psychology\|Psychology]]
+* [[Rules/Psychology/Psychology\|Psychology]]
+
+## [[Rules/Corruption/Corruption\|Corruption]] & [[Rules/Mutations/Mutation\|Mutation]]
+* [[Rules/Corruption/Corruption\|Corruption]]
+
+## [[Rules/Tables/Starting Wealth Table\|Wealth]]
+**D:** 20
+**SS:** 3
+**GC:** 
+## [[Spell\|Spell]]s & [[Prayer\|Prayer]]s
+| Name | CN  | Range | Target | Duration | Effect |
+| ---- | --- | ----- | ------ | -------- | ------ |
+| –     |     |       |        |          |        |
 ```math
 # Characteristics
 WS=37
@@ -172,61 +273,3 @@ Wounds = SB + TB * 2 + WPB + TB * Hardy =>
 WoundsLost = 0
 CurrentWounds = max(Wounds - WoundsLost, 0) =>
 ```
-## [[Rules/Talents/Talent\|Talents]]
-| Name                          | Times Taken | Description                     |
-| ----------------------------- | ----------- | ------------------------------- |
-| [[Rules/Talents/Doomed\|Doomed]]                    | 1           | *Bear not the Ox’s bane*        |
-| [[Rules/Talents/Craftsman\|Craftsman]] ([[Carpenter\|Carpenter]]) | 1           | Add this skill to any career    |
-| [[Rules/Talents/Strong Back\|Strong Back]]               | 1           | +1 Enc, +1 SL to Strength Tests |
-| [[Rules/Talents/Suave\|Suave]]                     | 1           | +5 Fellowship, already added    |
-| [[Rules/Talents/Very Resilient\|Very Resilient]]            | 1           | +5 Toughness, already added     |
-| [[Rules/Talents/Very Strong\|Very Strong]]               | 1           | +5 Strength, already added      |
-## [[Rules/Trappings/Trappings\|Trappings]]
-| Name                    | Enc |
-| ----------------------- | --- |
-| [[Chalk\|Chalk]]               | –   |
-| [[Hooded Cloak\|Hooded Cloak]]        |     |
-| [[Clothing\|Clothing]]            |     |
-| [[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]              |     |
-| 2 [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Axe\|Throwing Axe]]      |     |
-| [[Sword\|Sword]]               |     |
-| Hat, [[Helmet\|Helmet]]         |     |
-| [[Rules/Trappings/Armour/Leather Jerkin\|Leather Jerkin]]      |     |
-| [[Pouch\|Pouch]]               |     |
-| 10 [[Rags\|Rags]]             |     |
-| [[Sling Bag\|Sling Bag]]           |     |
-| [[Lunch\|Lunch]]               |     |
-| [[Flask of Herbal Tea\|Flask of Herbal Tea]] |     |
-## [[Rules/Trappings/Weapons/Weapon\|Weapons]]
-| Name             | Group                  | Enc | Range/Reach    | Damage | Qualities |
-| ---------------- | ---------------------- | --- | -------------- | ------ | --------- |
-| [[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]       | [[Rules/Trappings/Weapons/Melee Weapon/Basic Melee Weapon\|Basic Melee Weapon]] | 1   | [[Rules/Trappings/Weapons/Weapon Reach/Very Short\|Very Short]] | SB+2   |           |
-| [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Axe\|Throwing Axe]] | [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Weapon\|Throwing Weapon]]    | 1   | 8              | SB+3   | [[Rules/Trappings/Weapons/Quaity/Hack\|Hack]]  |
-| [[Sword\|Sword]]        | [[Rules/Trappings/Weapons/Melee Weapon/Basic Melee Weapon\|Basic Melee Weapon]] | 1   |                | SB+4   |           |
-
-## [[Rules/Trappings/Armour/Armour\|Armour]]
-| Name               | Locations | Enc | AP  | Qualities |
-| ------------------ | --------- | --- | --- | --------- |
-| [[Rules/Trappings/Armour/Leather Jerkin\|Leather Jerkin]] | [[Body\|Body]]  | 1   | 1   |           |
-| [[Helmet\|Helmet]]         | [[Head\|Head]]  | 2   | 2   | -20 [[Rules/Skills/Perception\|Perception]], [[Rules/Trappings/Armour/Impenetrable\|Impenetrable]], [[Rules/Trappings/Armour/Weakpoints\|Weakpoints]]          |
-
-
-## [[Rules/Attributes/Ambition\|Ambitions]]
-**Short term:**
-**Long term:**
-
-## [[Rules/Psychology/Psychology\|Psychology]]
-* [[Rules/Psychology/Psychology\|Psychology]]
-
-## [[Rules/Corruption/Corruption\|Corruption]] & [[Rules/Mutations/Mutation\|Mutation]]
-* [[Rules/Corruption/Corruption\|Corruption]]
-
-## [[Rules/Tables/Starting Wealth Table\|Wealth]]
-**D:** 20
-**SS:** 3
-**GC:** 
-
-## [[Spell\|Spell]]s & [[Prayer\|Prayer]]s
-| Name | CN  | Range | Target | Duration | Effect |
-| ---- | --- | ----- | ------ | -------- | ------ |
-| –     |     |       |        |          |        |
