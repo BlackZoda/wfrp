@@ -4,9 +4,9 @@
 
 Parents: [[0_GM/Hjem\|Hjem]]
 
-* [[0_GM/Enemy in Shadows/Chapters/010 Wanted Bold Adventurers\|010 Wanted Bold Adventurers]]
-* [[0_GM/Enemy in Shadows/Chapters/020 Mistaken Identity\|020 Mistaken Identity]]
+* [[0_GM/Enemy in Shadows/Chapters/01 Wanted Bold Adventurers\|01 Wanted Bold Adventurers]]
+* [[0_GM/Enemy in Shadows/Chapters/02 Mistaken Identity\|02 Mistaken Identity]]
 * 030
-* [[0_GM/Enemy in Shadows/Chapters/040 On to Bögenhafen\|040 On to Bögenhafen]]
-* [[0_GM/Enemy in Shadows/Chapters/050 The False Inheritance\|050 The False Inheritance]]
-* [[0_GM/Enemy in Shadows/Chapters/060 The Shaffenfest\|060 The Shaffenfest]]
+* [[0_GM/Enemy in Shadows/Chapters/04 On to Bögenhafen\|04 On to Bögenhafen]]
+* [[0_GM/Enemy in Shadows/Chapters/05 The False Inheritance\|05 The False Inheritance]]
+* [[0_GM/Enemy in Shadows/Chapters/06 The Shaffenfest\|06 The Shaffenfest]]

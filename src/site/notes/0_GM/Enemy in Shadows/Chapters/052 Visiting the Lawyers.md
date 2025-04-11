@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/052 Visiting the Lawyers/"}
 ---
 
-Home: [[0_GM/Enemy in Shadows/Chapters/050 The False Inheritance\|050 The False Inheritance]]
+Home: [[0_GM/Enemy in Shadows/Chapters/05 The False Inheritance\|05 The False Inheritance]]
 
 Graten Weg er en smal sidegate som løper østover fra [[Eisen Bahn\|Eisen Bahn]], litt nord for [[Metallarbeiderluget\|Metallarbeiderluget]]. Små, nedslitte bygninger ligger rundt kontoret. En vellykket **Easy (+40) [[World/Magic/The Eight Lores\|Lore]] ([[World/The Empire/Legal/Law\|Law]])** Test – eller en evellykket **Challenging (+0) [[Rules/Attributes/Intelligence (Int)\|Intelligence]]** Test for en [[Rules/Class/Burgher\|Burgher]] eller [[Rules/Class/Courtier\|Courtier]] krakter – mistenker at dette ikke er en sannsynlig lokasjon for et advokatkontor som håndterer adelige titler og eiendommer.
 

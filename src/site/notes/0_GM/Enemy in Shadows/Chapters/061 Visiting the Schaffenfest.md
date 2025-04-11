@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/061 Visiting the Schaffenfest/"}
 ---
 
-Home: [[0_GM/Enemy in Shadows/Chapters/060 The Shaffenfest\|060 The Shaffenfest]]
+Home: [[0_GM/Enemy in Shadows/Chapters/06 The Shaffenfest\|06 The Shaffenfest]]
 # Besøke Schaffenfest
 Hver vår kommer det folk fra alle deler av [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]] til [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]] for [[Campaign/Events/Schaffenfest\|Schaffenfest]]. I tillegg til det omfattende husdyrmarkedet, så er det haugevis med boder og alle slags sideshow – noe som gjør den tre dager lange festivalen til en stor attraksjon og et høydepunkt på byens kalender. Området mellom [[Østporten\|Østporten]] og [[Plakatporten\|Plakatporten]] kryr med husdyrbinger, markedsboder og sideshow av alle slag, og ropene fra underholdere og luringer runger i luften.
 

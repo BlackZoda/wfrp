@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/051 Bögenhafen/"}
 ---
 
-Home: [[0_GM/Enemy in Shadows/Chapters/050 The False Inheritance\|050 The False Inheritance]]
+Home: [[0_GM/Enemy in Shadows/Chapters/05 The False Inheritance\|05 The False Inheritance]]
 
 Bögenhafen er typisk for mange handelsbyer langs Imperiet sine store elver. Karakterene vil komme over flere av dem i [[Death on the Reik\|Death on the Reik]]. Bögenhafen er presentert i detalj i Appendix 1, og du kan referere tilbake til bybeskrivelsen når du presenterer en handelsby til spillerene – i denne kampanjen eller andre.
 

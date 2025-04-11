@@ -6,7 +6,6 @@ Home: [[0_GM/Enemy in Shadows/Chapters/063 Valgfrie Trefninger\|063 Valgfrie Tre
 
 Enten velg eventer eller rull på tabellen, viss karakterene vandrer tilfeldig rundt på festivalområdet.
 
-
 | d100  | Trefning        |
 | ----- | --------------- |
 | 01–04 | Beskyldning     |

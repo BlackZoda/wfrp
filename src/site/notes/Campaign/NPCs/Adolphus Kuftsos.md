@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Campaign/NPCs/Adolphus Kuftsos/"}
 ---
 
-Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/040 On to Bögenhafen\|040 On to Bögenhafen]]
+Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/04 On to Bögenhafen\|04 On to Bögenhafen]]
 ## Adolphus Kuftos – Human/Master Bounty Hunter (silver 5)
 Adolphus Kuftos er en kokende ball av sinne, muskler, og blodtørsthet. På tross av å være relativt anonym – han har mellomlangt brunt hår, et korttrimmet skjegg, og fuktige blå øyne – så sørger hans konstante snerr at han skiller seg ut i enhver folkemengde. Hans eneste markante kjennetrekk er et stort arr som strekker seg rundt nakken fra han rømte fra en gruppe banditter som forsøkte å henge ham. Dette skadet strupen hans, som førte til at han snakker med en treg og hveste stemme som neppe kunne vært mer uhyggelig. Tidlig i 30-årene, så har Adolphus vært en dusørjeger i seks år, og i løpet av denne tiden innhentet og drept mange kriminelle. Han er iherdig bestemt og bruker alle metoder tilgjengelig for å bringe bytte sitt til rettferdighet – eller en brå død. Han er for øyeblikket ansatt av [[Lady Emanuelle Nacht\|Lady Emanuelle Nacht]], en viktig [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reiklander]] adelskvinne, som leide ham inn i [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Ubersreik/Ubersreik\|Ubersreik]] for å spore ned [[Campaign/Organizations/Den Lilla Hånd\|Den Lilla Hånd]], uansett hvor det måtte lede ham.
 
