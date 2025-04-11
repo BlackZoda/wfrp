@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/062 Byvaktene/"}
 ---
 
-
 Home: [[0_GM/Enemy in Shadows/Chapters/06 The Shaffenfest\|06 The Shaffenfest]]
 
 [[Campaign/Events/Schaffenfest\|Schaffenfest]] er for stor for [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]] sine [[Byvakter\|Byvakter]] (se side 111) å patruljere alene, så mange midlertidige rekrutter har blitt hyrt inn for å støtte [[The State Army\|The State Army]] soldatene som holder freden. Pga. dette så er veldig få faktisk gode på jobben sin.
