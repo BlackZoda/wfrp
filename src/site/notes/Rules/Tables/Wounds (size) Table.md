@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/Rules/Tables/Wounds (size) Table/"}
+---
+
+Home: [[World/Bestiary/Traits/Wounds (size)\|Wounds (size)]], [[0_GM/GM Screen/Sections/Tables\|Tables]]
+
+| [[Rules/Attributes/Size\|Size]] | [[Rules/Attributes/Wounds (W)\|Wounds]] |                                                                                                                                                                                                     |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Rules/Attributes/Tiny\|Tiny]]                           | 1                                                                                                                                                                                                   |
+| [[Rules/Attributes/Little\|Little]]                         | [[Rules/Attributes/Toughness (T)\|Toughness]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]                                                                                                                                        |
+| [[Rules/Attributes/Small\|Small]]                          | (2x[[Rules/Attributes/Toughness (T)\|Toughness]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) + [[Rules/Attributes/Willpower (WP)\|Willpower]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]                                                                    |
+| [[Rules/Attributes/Average\|Average]]                        | [[Rules/Attributes/Strength (S)\|Strength]] [[Rules/Attributes/Characteristic Bonus\|Bonus]] + (2x[[Rules/Attributes/Toughness (T)\|Toughness]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) + [[Rules/Attributes/Willpower (WP)\|Willpower]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]       |
+| [[Rules/Attributes/Large\|Large]]                          | ([[Rules/Attributes/Strength (S)\|Strength]] [[Rules/Attributes/Characteristic Bonus\|Bonus]] + (2x[[Rules/Attributes/Toughness (T)\|Toughness]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) + [[Rules/Attributes/Willpower (WP)\|Willpower]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) x 2 |
+| [[Rules/Attributes/Enormous\|Enormous]]                       | ([[Rules/Attributes/Strength (S)\|Strength]] [[Rules/Attributes/Characteristic Bonus\|Bonus]] + (2x[[Rules/Attributes/Toughness (T)\|Toughness]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) + [[Rules/Attributes/Willpower (WP)\|Willpower]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) x 4 |
+| [[Rules/Attributes/Monstrous\|Monstrous]]                      | ([[Rules/Attributes/Strength (S)\|Strength]] [[Rules/Attributes/Characteristic Bonus\|Bonus]] + (2x[[Rules/Attributes/Toughness (T)\|Toughness]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) + [[Rules/Attributes/Willpower (WP)\|Willpower]] [[Rules/Attributes/Characteristic Bonus\|Bonus]]) x 8 | 

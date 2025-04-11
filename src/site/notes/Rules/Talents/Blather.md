@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/Rules/Talents/Blather/"}
+---
+
+Home: [[Rules/Talents/Talent List\|Talent List]]
+**Max:** [[Rules/Attributes/Fellowship (Fel)\|Fellowship]] Bonus
+**Tests:** [[Rules/Skills/Charm\|Charm]] to Blather
+
+Called ‘*opening your mouth and letting your belly ruble*’ in [[Nordland\|Nordland]], or simply’*bullshitting*’ in [[Ostland\|Ostland]] blathering involves taing rapidly and incessantly, or talking volubly and at-length about inconsequential or nonsense matters, and is used to verbally confuse and confound a target. You use your [[Rules/Skills/Charm\|Charm]] [[Rules/Skills/Skill\|Skill]] to Blather. Attempt an **[[Rules/Tests/Opposed Test\|Opposed]] [[Rules/Skills/Charm\|Charm]]/[[Rules/Attributes/Intelligence (Int)\|Intelligence]]** Test. Success gives your opponent a [[Rules/Conditions/Stunned\|Stunned]] Condition. Further, for each level you have in Blather, your opponent gains another [[Rules/Conditions/Stunned\|Stunned]] Condition. Targets [[Rules/Conditions/Stunned\|Stunned]] by Blather may do nothing other than stare at you dumbfounded as they try to catch-up with or understand what you are saying. Once the last [[Rules/Conditions/Stunned\|Stunned]] [[0_GM/GM Screen/Sections/Condition\|Condition]] comes to an end, the target finally gets a word in, and may not be best pleased with you – after all, you have been talking about nothing or nonsense for some time. Should you stop talking, your opponent immediately loses all [[Rules/Conditions/Stunned\|Stunned]] conditions caused by your Blather. Generally, you can only attempt to Blather at a character once per scene, or perhaps longer as determined by the GM, as the target soon wises up to your antics.

@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/Rules/Talents/Dual Wielder/"}
+---
+
+Home: [[Rules/Talents/Talent List\|Talent List]]
+**Max:** [[Rules/Attributes/Agility (Ag)\|Agility]] Bonus
+**Tests:** [[Rules/Skills/Melee\|Melee]] or [[Rules/Skills/Ranged\|Ranged]] when attacking with two weapons
+
+When armed with two weapons, you may attack with both for your [[Rules/Combat/Action\|Action]]s. Roll to hit with the weapon held in your primary hand. If you hit, determine [[Rules/Combat/Apply Damage\|Damage]] as normal but remember to keep your dice roll, as you will use it again. If the first strike hits, once it is resolved, the weapon in your secondary hand can then target an available opponent of your choice using the same dice roll for the first strike, but reversed. So if you rolled 34 to hit with the first weapon, you use 43 to hit with the second. Remember to modify this second roll for your off-hand penalty (-20 unless you have the [[Rules/Talents/Ambidextrous\|Ambidextrous]] [[Rules/Talents/Talent\|Talent]]). This second attack is [[Rules/Tests/Opposed Test\|Opposed]] with a new defending roll, and damage for this strike is calculated as normal. The only exception to this is if you roll a [[Rules/Tables/Critical Tables\|Critical]] for your first strike. If this happens, use the roll on the [[Rules/Tables/Critical Tables\|Critical Tables]] to also act as the roll for the second attack So, if you scored a critical to the head and rolled 56 on the Critical table for a [[MAjor Eye Wound\|MAjor Eye Wound]], your second attack would then strike out with a to-hit value of 56. If you choose to attack with both weapons, all your defensive rolls until the start of your next [[Rules/Combat/Turn\|Turn]] suffer a penalty of -10. ou do not gain an [[Rules/Combat/Advantage\|Advantage]] when you successfully strike or [[Rules/Injuries/Wound\|Wound]] an opponent when Dual Wielding unless both attacks hit.

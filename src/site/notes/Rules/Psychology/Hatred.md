@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/Rules/Psychology/Hatred/"}
+---
+
+Home: [[Rules/Psychology/Psychology\|Psychology]]
+
+When having *Hatred (Target)* you are consumed with *Hatred* for the *Target*, which is normally a group of people or creatures, such as “Hochlanders”, “Bod Octopuses”, or “Slavers”. You will never socially interact with someone or something you hate in this manner. On encountering the object of your *Hatred*, you must attempt a *[[Rules/Psychology/Psychology\|Psychology]] [[Rules/Tests/Tests\|Tests]]*. If failed, you are subject to *Hatred*. At the end of every subsequent Round, you *may* attempt another [[Rules/Psychology/Psychology\|Psychology]] [[Rules/Tests/Tests\|Tests]] to bring the *Hatred* to an end. If you do or not, the effects of *Hatred* naturally come to an end when all members of the specified group in your line of sight are dead or gone, or you gain the [[Rules/Conditions/Unconscious\|Unconscious]] condition. While subject to *Hatred*, you must immediately attempt to destroy the hated group by the fastest and most deadly means possible. You gain a bonus of *+ 1 SL* on all combat Tests against the specified group, and are immune to [[Rules/Psychology/Fear\|Fear]] and [[Rules/Skills/Intimidate\|Intimidate]] (but not [[Rules/Psychology/Terror\|Terror]]) caused by your hated foe.
