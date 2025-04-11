@@ -9,7 +9,7 @@ Det er flere medisinske begivenheter sprinklet utover [[Campaign/Events/Schaffen
 Evenen det blir påstått at disse produktene har er mange og varierte, som ‘kurerer kolikk, raumatikk, vorter og dårlig ånde’, eller ‘holder kulden, onde pnder, og naboens katt borte’ og så videre. I forhold til tvilsomme typer, så er prisen typisk 2d10 shilling, og opp til deg å justere.
 
 ## Elvyara Keinestun
-Det er en bod, eid av [[Elvyra Kleinestun\|Elvyra Kleinestun]] (side 68), hvor reelle urtemidler kan bli kjøpt. Faktumet at de fleste av dem er ubrukelig med mindre anvendt av karaterer med [[Rules/Skills/Heal\|Heal]] skillen er noe annet!
+Det er en bod, eid av [[Campaign/NPCs/Elvyra Kleinestun\|Elvyra Kleinestun]] (side 68), hvor reelle urtemidler kan bli kjøpt. Faktumet at de fleste av dem er ubrukelig med mindre anvendt av karaterer med [[Rules/Skills/Heal\|Heal]] skillen er noe annet!
 
 En karakter med [[Rules/Skills/Lore\|Lore]] ([[Herbs\|Herbs]] eller [[Plants\|Plants]]), [[Rules/Skills/Trade\|Trade]] ([[Rules/Career/Apothecary\|Apothecary]] eller [[Rules/Career/Herbalist\|Herbalist]]) eller andre [[Rules/Skills/Skill\|Skills]] du vurderer relevant, innser at hennes salgsretorikk ikke er humbug, og kan umiddelbart identifisere hennes urter som genuine.
 

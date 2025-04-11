@@ -4,7 +4,7 @@
 
 Home: [[0_GM/Enemy in Shadows/Chapters/063 Valgfrie Trefninger\|063 Valgfrie Trefninger]]
 
-Enten velg eventer eller rull på tabellen, viss karakterene vandrer tilfeldig rundt på festivalområdet.
+Enten velg eventer eller rull på tabellen, viss karakterene vandrer tilfeldig rundt på festivalområdet. Sjekk [[Campaign/NPCs/Fairgoers\|Fairgoers]] for ulike NPC-typer.
 
 | d100  | Trefning        |
 | ----- | --------------- |
@@ -42,12 +42,12 @@ Det er 1d10+10 bondetamp, som blir mer og mer støtende – kanskje de til og me
 * **Tresnik**
 * **Fe-dyrker**
 * **Spydspisser**
-* **Dere huleboere tror dere er bedre enn oss, men vi vet hva dere gjør i de mørke skogene – dyrker demoner under månelys!**
-* **En skogtyv som deg burde henges ved hjertreet for å ha stjålet vår avlinges lykke!**
+* **Dere skogsdvellere tror dere er bedre enn oss, men vi vet hva dere gjør i de mørke skogene – dyrker demoner under månelyset!**
+* **En skogtyv som deg burde henges for å ha stjålet vår avlinges lykke!**
 * **Sigmar ville spyttet på dere langørede fe-dyrkere! Kom tilbake når dere kan bære en ekte mans byrde!**
 ### Hobbiter
-* **Ser vi på rotter i menneskeklær nå? Dra tilbake til ertemarkene deres før vi bruker dere som agn!**
-* **Mattyven har nok stjålet fra våre kornlagre igjen – se på de små, grådige hendene!**
+* **Ser vi på ei rotte i menneskeklær nå? Dra tilbake til ertemarkene deres før vi bruker dere som agn!**
+* **Mattyven har nok stjålet fra kornlagre igjen – se på de små, grådige hendene!**
 * **Bare fordi dere kan gjemme dere i kloakkene betyr ikke at vi ikke finner dere, tassetroll!**
 ## Livvakt
 En av karakterene blir dyttet til side av en livvakt (kriger) som følger en av byens adelige eller kjøpmenn på festivalen (borger).
@@ -75,7 +75,7 @@ Favorittspill inkluderer å gjette hvilken av tre skjell eller kopper som skjule
 ## Underholder
 En eller flere underholdere (byfolk) har satt opp en improvisert sideshow og opptrer som gatesangere. Typiske forestillinger inkluderer grupper av skuespillere og mimeartister, underholdere med dressurdyr, rømningskunstnere, ildspisere, sjonglører og komikere. Den nøyaktige typen sideshow overlates til deg å bestemme.
 ## Husdyr på flukt
-Noen husdyr har rømt fra markedet og stormer gjennom folkemengden.
+Noen husdyr har rømt ([[Campaign/NPCs/Escaped Livestock\|Escaped Livestock]]) fra markedet og stormer gjennom folkemengden.
 
 Dyret kommer galopperende fra en uventet retning og angriper en tilfeldig karakter, som også får _overrasket_-tilstanden. Dyrene er noe rasende og stormer videre med mindre karakterene takler dem, for eksempel ved å bruke _Dyretrenings_- eller _Charm dyr_-ferdigheter. Hvis noen av dyrene fanges trygt, takker eieren de ansvarlige og tilbyr en belønning på 10d. Hvis dyr drepes, forventer eierne (borgere) å bli kompensert for tapet og tilkaller _Schaffenfest-vakten_ hvis dette ikke løses i minnelighet. Vakten, hvis de tilkalles, eskorterer alle til _Festivalretten_ for å få en rettferdig dom.
 ## Festivalspill

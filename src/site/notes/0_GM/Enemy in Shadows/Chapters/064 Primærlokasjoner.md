@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/064 Primærlokasjoner/"}
 ---
 
-Home: [[0_GM/Enemy in Shadows/Chapters/063 Valgfrie Trefninger\|063 Valgfrie Trefninger]]
+Home: [[0_GM/Enemy in Shadows/Chapters/06 The Shaffenfest\|06 The Shaffenfest]]
 
 Schaffenfestivalen tilbyr en enorm rekke ulike attraksjoner for karakterene å utforske. Følgende er de mest sentrale stedene for eventyret og festivalen, men du bør føle deg fri til å utvide disse etter gruppens interesser.
 
@@ -65,28 +65,26 @@ Eneste måte å bli kvitt ham på er å gi ham nok penger til en drink. Hvis noe
 
 Senere er det 20 % sjanse for at Gottri befinner seg i et øltelt karakterene besøker etter løslatelsen, og en akkumulativ 10 % sjanse for at han er tilbake i gapestokken hver gang de passerer domstolen. Karakterene vil trolig ende med å gi ham en liten sum for å bli kvitt ham. Hvis de insisterer på å beholde ham, bør han forsvinne utenfor scenen mot dagens slutt, da han dukker opp senere i helt andre omstendigheter (se side 66).
 ## Doctor Malthusius's Zocopeia
-En halvsirkelformet tauinnhegning står inntil bymuren og markerer kantene av _Doktor Malthusius’ Zoocopeia_. Bakerst står to vogner: én med et banner på siden som proklamerer «Doktor Malthusius’ Zoocopeia! Sære skapninger fra alle verdens hjørner! Det fantastiske, det bisarre, det motbydelige. Brakt til dere til enorme kostnader! Ingen lignende i verden!» Den andre vogna er en flatvogn med en haug solide trebur, alle dekket av oljede presenninger. Merkelige lyder høres innenfra. Opp mot den er stablet ulike reklameskilt for showet, som antakelig skal plasseres rundt tauringen.
+En halvsirkelformet tauinnhegning står inntil bymuren og markerer kantene av _[[Campaign/NPCs/Doktor Malthusius\|Doktor Malthusius]]’ Zoocopeia_. Bakerst står to vogner: én med et banner på siden som proklamerer «Doktor Malthusius’ Zoocopeia! Sære skapninger fra alle verdens hjørner! Det fantastiske, det bisarre, det motbydelige. Brakt til dere til enorme kostnader! Ingen lignende i verden!» Den andre vogna er en flatvogn med en haug solide trebur, alle dekket av oljede presenninger. Merkelige lyder høres innenfra. Opp mot den er stablet ulike reklameskilt for showet, som antakelig skal plasseres rundt tauringen.
 
-Når karakterene første gang passerer _Doktor Malthusius’ Zoocopeia_, er det stengt. Den gode doktoren er inne i vogna sin og gjør forberedelser. Hans følgesvenn, den sjuskete dvergen _Grunni_, sjekker burene. Hvis noen kommer for nær, jager Grunni dem bort: “Hei! Vi har faen meg ikke åpnet ennå. Kom tilbake om en time. Doktoren tar imot dere da!”
+Når karakterene første gang passerer _Doktor Malthusius’ Zoocopeia_, er det stengt. Den gode doktoren er inne i vogna sin og gjør forberedelser. Hans følgesvenn, den sjuskete dvergen _[[Campaign/NPCs/Grunni\|Grunni]]_, sjekker burene. Hvis noen kommer for nær, jager Grunni dem bort: “Hei! Vi har faen meg ikke åpnet ennå. Kom tilbake om en time. Doktoren tar imot dere da!”
 * Grunni ansetter folk til å vandre rundt på Schaffenfestivalen med et skilt hvor det står: _«Doktor Malthusius' Zoocopeia. Kom og se den bunnløse munn!»_ Han betaler 1 shilling for å bære skiltet hele dagen.
-* _Heksejeger Alprecht Kassel_ er i byen og interessert i _Zoocopeia_. Han ønsker å avdekke om _Doktor Malthusius_ har fanget mutanter og holdt dem fanget – en forbrytelse straffbart med døden. For å finne ut av dette, vil Kassel ansette folk som er mindre mistenkelige enn ham selv til å undersøke reiseshowet. Hvis mutanter oppdages, planlegger Kassel å bruke informasjonen til å presse Malthusius til å bli med i hans sak som en del av _De Sølvspir_ – en hemmelig kult dedikert til _Tzeentch_.
+* _Heksejeger Alprecht Kassel_ er i byen og interessert i _Zoocopeia_. Han ønsker å avdekke om _[[Campaign/NPCs/Doktor Malthusius\|Doktor Malthusius]]_ ([[Campaign/NPCs/Doktor Malthusius\|Hans Pfleifer]]) har fanget mutanter og holdt dem fanget – en forbrytelse straffbart med døden. For å finne ut av dette, vil Kassel ansette folk som er mindre mistenkelige enn ham selv til å undersøke reiseshowet. Hvis mutanter oppdages, planlegger Kassel å bruke informasjonen til å presse Malthusius til å bli med i hans sak som en del av _Sølvspirene_ – en hemmelig kult dedikert til _Tzeentch_.
 ## Hovedscene: Den rømte goblinen
 Karakterenes oppmerksomhet fanges av en voksende folkemengde og showeierens drønende stemme mens han samler tilskuere:  
 «Kom nærmere, kom nærmere! Om én time vil dere oppleve det mest originalt forbløffende zoologiske kuriositetskabinettet noensinne vist i vårt strålende imperium!»
 
 «Velkommen til _Doktor Malthusius’ Zoocopeia_! Samlet fra verdens ukjente hjørner til uhyrlige kostnader for deres underholdning og opplysning! Det uvanlige! Det bisarre! Til og med det lett motbydelige! Dette vil dere aldri se maken til, mine venner – ikke om dere lever i tusen år!»
 
-Hvis karakterene trenge seg frem, ser de at de fleste burene er dekket av presenninger. En underlig skapning – en liten, trebeint goblin – kikker ut fra et bur. Den klynger seg elendig til et hjørne, lenket til en påle med en jernkrage. Mens Doktor Malthusius underholder folkemengden, forbereder _Grunni_ seg ved burene.
+Hvis karakterene trenge seg frem, ser de at de fleste burene er dekket av presenninger. En underlig skapning – en liten, trebeint [[Campaign/NPCs/Mutant Goblin\|Mutant Goblin]] – kikker ut fra et bur. Den klynger seg elendig til et hjørne, lenket til en påle med en jernkrage. Mens Doktor Malthusius underholder folkemengden, forbereder _Grunni_ seg ved burene.
 
-Goblinen får panikk ved synet av dvergen og rycker desperat i kragen. Plutselig knirker den dårlig smidd jernkragen – og går i stykker. Den magre goblinen vrir seg gjennom burtuppene og stikker av. Mens mengden gisper og skriker, løper skapningen rett mot karakterene.
-
-Etter å ha knekt den dårlig smidde jernkragen, vrir den magre goblinen seg gjennom burtuppene og stikker av. Mens mengden gisper og skriker, løper den paniske skapningen rett mot karakterene, som kan gjøre en _Utfordrende (+0) Nærkamp (Slåssing)-test_ for å fange den. Hvis goblinen unngår karakterene, fanges den av andre i mengden.
+Goblinen får panikk ved synet av dvergen og rykker desperat i kragen. Plutselig knirker den dårlig smidd jernkragen – og går i stykker. Den magre goblinen vrir seg gjennom burspilene og stikker av. Mens mengden gisper og skriker, løper den paniske skapningen rett mot karakterene, som kan gjøre en **Challenging (+0) [[Rules/Skills/Melee\|Melee]] (Brawling)-test** for å fange den. Hvis goblinen unngår karakterene, fanges den av andre i mengden.
 
 Uansett utfall er _Doktor Malthusius_ svært takknemlig for hjelpen til å få tilbake «utstillingen» sin og gir hver karakter (pluss eventuelle hjelpere fra folkemengden) 1 shilling hver, samt gratis adgang til showet.
 
 Når roen er gjenopprettet, begynner Grunni å samle inngangsavgiften på 1 shilling mens han slipper de oppspilte tilskuerne inn i tauringen. Når alle er inne, sjekker Malthusius diskré om det er heksejegere i mengden. Fornøyd tar han deretter senterplassen mens Grunni presenterer en rekke merkelige kuriositeter.
 
-Mens Grunni fører goblinen ut, snur den plutselig, biter ham i hånden og prøver å rømme igjen. Mengden får panikk, blokkerer veien og hindrer effektivt karakterene i å forfølge goblinen før den forsvinner inn i et lite hull i bymuren bak Malthusius – der et jerngitter har rustet helt bort. Karakterene har ingen realistisk sjanse til å stoppe flukten.
+Mens Grunni fører [[Campaign/NPCs/Mutant Goblin\|Mutant Goblin]]’en ut, snur den plutselig, biter ham i hånden og prøver å rømme igjen. Mengden får panikk, blokkerer veien og hindrer effektivt karakterene i å forfølge goblinen før den forsvinner inn i et lite hull i bymuren bak Malthusius – der et jerngitter har rustet helt bort. Karakterene har ingen realistisk sjanse til å stoppe flukten.
 
 Snart ankommer en vaktpatrulje fra statshæren for å undersøke bråket. Når de kommer, har Grunni allerede plassert de fleste av Malthusius’ utstillingsobjekter tilbake i burene – bortsett fra goblinen, selvfølgelig. Hvis karakterene ikke frivillig forteller hva som skjedde, tar Malthusius teatralsk ordet og forklarer hendelsene, mens han unngår å nevne at goblinen var en mutant: «Selvfølgelig kan utstillingene mine bli litt hissige, men vi sørger alltid for at alt er fullstendig lovlig. Det var jo bare en goblin, mine herrer!» Hvis karakterene nevner det ekstra beinet, rynker soldatene på pannen, mens Malthusius smiler så uskyldig han kan.
 
