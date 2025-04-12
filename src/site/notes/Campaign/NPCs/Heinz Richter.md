@@ -14,7 +14,7 @@ Richter er ingen dåre og lar seg ikke enkelt bløffe eller lure. Han snakker me
 
 **Skills:** [[Rules/Skills/Art\|Art]] (Writing) 59, [[Rules/Skills/Charm\|Charm]] 74, [[Rules/Skills/Consume Alcohol\|Consume Alcohol]] 57, [[Rules/Skills/Endurance\|Endurance]] 72, [[Rules/Skills/Entertain\|Entertain]] (Speeches) 74, [[Rules/Skills/Gossip\|Gossip]] 69, [[Rules/Skills/Haggle\|Haggle]] 69, [[Rules/Skills/Intuition\|Intuition]] 90, [[Rules/Skills/Language\|Language]] (Classical 72, Guilder 77), [[Rules/Skills/Lore\|Lore]] (Bögenhafen 72, Law 82, Theology 72), [[Rules/Skills/Perception\|Perception]] 75, [[Rules/Skills/Research\|Research]] 82, [[Rules/Skills/Secret Signs\|Secret Signs]] (Guilder) 70
 
-**Talents:** [[Rules/Talents/Bookish\|Bookish]] 4, [[Rules/Talents/Doomed\|Doomed]] (By Cat or by Dog, it comes in the Fog), [[Rules/Talents/Etiquette\|Etiquette]] (Guilder, Scholar), [[Rules/Talents/Gregarious\|Gregarious]] 3, [[Read/Write\|Read/Write]], [[Savant\|Savant]] (Law), [[Rules/Talents/Savvy\|Savvy]], [[Rules/Talents/Sharp\|Sharp]], [[Rules/Talents/Wealthy\|Wealthy]] 3
+**Talents:** [[Rules/Talents/Bookish\|Bookish]] 4, [[Rules/Talents/Doomed\|Doomed]] (By Cat or by Dog, it comes in the Fog), [[Rules/Talents/Etiquette\|Etiquette]] (Guilder, Scholar), [[Rules/Talents/Gregarious\|Gregarious]] 3, [[Rules/Talents/ReadWrite\|ReadWrite]], [[Rules/Talents/Savant (Lore)\|Savant]] (Law), [[Rules/Talents/Savvy\|Savvy]], [[Rules/Talents/Sharp\|Sharp]], [[Rules/Talents/Wealthy\|Wealthy]] 3
 
 **Traits:** Weapon (Sword) +7
 
