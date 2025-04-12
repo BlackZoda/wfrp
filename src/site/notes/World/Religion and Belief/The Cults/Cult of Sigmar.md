@@ -9,7 +9,7 @@ Home: [[World/Religion and Belief/The Cults/The Cults\|The Cults]], [[World/Reli
 **Primary Orders:** [[Order of the Anvil\|Order of the Anvil]], [[Order of the Cleansing Flame\|Order of the Cleansing Flame]], [[Order of the Silver Hammer\|Order of the Silver Hammer]], [[Order of the Torch\|Order of the Torch]]
 **Major Festivals:** [[Sigmarday\|Sigmarday]] (28th Sigmarzeit)
 **Popular Hoy Books:** [[The Book of Sigmar\|The Book of Sigmar]], [[Deus Sigmar\|Deus Sigmar]], [[The Geistbuch\|The Geistbuch]]
-**Common Holy Symbols:** [[World/Religion and Belief/Holy Items/Ghal-Maraz\|Ghal-Maraz]] ([[World/Religion and Belief/Gods/Sigmar\|Sigmar]]’s Warhammer), [[World/Religion and Belief/Miracles/Twin-tailed Comet\|twin-tailed comets]], [[Griffon\|griffons]]
+**Common Holy Symbols:** [[World/Religion and Belief/Holy Items/Ghal-Maraz\|Ghal-Maraz]] ([[World/Religion and Belief/Gods/Sigmar\|Sigmar]]’s Warhammer), [[World/Religion and Belief/Miracles/Twin-tailed Comet\|twin-tailed comets]], [[World/Bestiary/Creatures/Griffon\|griffons]]
 
 * [[World/Religion and Belief/Gods/Sigmar\|Sigmar]] is [[World/The Empire/Imperiet\|Imperiet]]’s patron, and his cult dominates the realm.
 * [[World/Religion and Belief/Worshippers/Worshippers of Sigmar\|Worshippers of Sigmar]] are the folks of[[World/The Empire/Imperiet\|Imperiet]].

@@ -10,5 +10,5 @@ Andre hendelser og møter kan også finne sted hvis du ønsker. Hvis du legger t
 
 * [[0_GM/Enemy in Shadows/Chapters/0821 Day 1\|0821 Day 1]]
 * [[0_GM/Enemy in Shadows/Chapters/0822 Day 2\|0822 Day 2]]
-* [[0823 Day 3\|0823 Day 3]]
-* [[0824 Day 4\|0824 Day 4]]
+* [[0_GM/Enemy in Shadows/Chapters/0823 Day 3 - Dagen før Ritualet\|0823 Day 3 - Dagen før Ritualet]]
+* [[0_GM/Enemy in Shadows/Chapters/0824 Day 4 - Ritualdagen\|0824 Day 4 - Ritualdagen]] 

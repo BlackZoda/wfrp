@@ -3,6 +3,12 @@
 ---
 
 Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/08 Chasing Shadows\|08 Chasing Shadows]]
+## Dag 2: Leiepøbler
+Rett etter mørkets frambrudd samler ni menn seg mot karakterene fra alle kanter. Alle er kledd i fillete, grove klær og bærer køller, stolben og lignende våpen ([[Campaign/NPCs/Thugs\|Thugs]]). Hvis eventyrerne er innendørs, blir de kun konfrontert av én av bøllene, mens de andre står truende i bakgrunnen. [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]] har hyret inn disse bandittene for å skremme karakterene bort. Ingen av dem vet hvem de egentlig jobber for – de følger instrukser fra [[Gurney Dumkopf\|Gurney Dumkopf]] i Stuvarnes Gilde (se side 94).
+
+Ved en vellykket **Average (+20) [[Rules/Skills/Perception\|Perception]] Test** legger man merke til at noen av dem bærer billige metallmedaljonger med et talje-og-tau-emblem. En vellykket **Easy (+40) [[Rules/Skills/Lore\|Lore]] ([[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]])**, **Average (+20) [[Rules/Skills/Lore\|Lore]] ([[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]])**, eller **Challenging (+0) [[Intelligence\|Intelligence]] Test** (med +20 bonus for karakterer som har fullført en **stevedore**- eller **merchant Career**) identifiserer emblemet som tilhørende [[Sjauerlauget\|Sjauerlauget]].
+
+Når karakterene er omringet, snakker én av bøllene: «Vi har en beskjed til dere. Hold nesa deres unna det som ikke angår dere, ellers kan dere våkne en morgen på bunnen av elva. Hvorfor ikke prøve lykken et annet sted? Jeg hører [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] er nydelig på denne tiden av året.» Bøllene vil deretter spre seg. De tar ingen aggressive handlinger med mindre de blir angrepet eller provosert.
 # Hired Muscle
 Det finnes forskjellige kjeltringer i Bögenhafen som kan true karakterene. De fleste er lossearbeidere ansatt av [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]] eller leiesoldater som støtter en av de andre innflytelsesrike NPC-ene. I de fleste tilfeller er kjeltringene barske, brutale og snakker med en arbeiderklasse-dialekt.
 

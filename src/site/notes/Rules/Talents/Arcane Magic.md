@@ -5,7 +5,7 @@
 Home: [[Rules/Talents/Talent List\|Talent List]]
 **Max:** 1
 
-You either study one of the 8 [[Arcane Lore\|Arcane Lore]]s of [[World/Magic/Magic\|Magic]] – [[Beasts\|Beasts]], [[Rules/Injuries/Death\|Death]], [[Fire\|Fire]], [[Heavens\|Heavens]], [[Metal\|Metal]], [[Rules/Talents/Shadow\|Shadow]], [[Rules/Magic/Spells/Petty Spells/Light\|Light]], or [[Life\|Life]] – or practice a lesser known [[Rules/Skills/Lore\|Lore]], such as [[World/Magic/Hedgecraft\|Hedgecraft]] or [[Necromancy\|Necromancy]]. You may now memorise spells from your chosen Lore for the following XP.
+You either study one of the 8 *Arcane Lores* of [[World/Magic/Magic\|Magic]] – [[Beasts\|Beasts]], [[Rules/Injuries/Death\|Death]], [[Fire\|Fire]], [[Heavens\|Heavens]], [[Metal\|Metal]], [[Rules/Talents/Shadow\|Shadow]], [[Rules/Magic/Spells/Petty Spells/Light\|Light]], or [[Life\|Life]] – or practice a lesser known [[Rules/Skills/Lore\|Lore]], such as [[World/Magic/Hedgecraft\|Hedgecraft]] or [[Necromancy\|Necromancy]]. You may now memorise spells from your chosen Lore for the following XP.
 
 | Number of Spells Currently Known | XP Cost for a new spell |
 | -------------------------------- | ----------------------- |

@@ -29,6 +29,7 @@ Once your [[Rules/Class/Class\|Class]] is established, choose one of the Careers
 	* [[Pyromancer\|Pyromancer]]
 	* [[Shaman\|Shaman]]
 	* [[Magister Vigilant\|Magister Vigilant]]
+	* [[Rules/Career/Cult Magus of Tzeentch\|Cult Magus of Tzeentch]]
 ## [[Rules/Class/Burgher\|Burgher]]
 * [[Rules/Career/Agitator\|Agitator]]
 * [[Rules/Career/Artisan\|Artisan]]

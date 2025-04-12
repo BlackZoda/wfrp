@@ -8,7 +8,7 @@ Gideon bærer en gullring med en svart, fasettslippen obsidianstein. Ringen ble 
 
 Ringen ble stjålet fra [[Høyastromantiker Perls\|Høyastromantiker Perls]] av [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]] for fem år siden. Gideon hevdet å trenge den for å stabilisere sin fysiske form når han ikke befant seg i et stjålet legeme. Videre var ringen nødvendig for å utføre ritualet som skulle ‘redde Teugens sjel’. Perls, en hofftrollmann som spår fremtider for adelige i Altdorf, ønsker den tilbake og har utlovet en belønning på 10 GC for dens gjenlevering.
 ## Regler
-Enhver _demon_ som bærer ringen kan ignorere _ustabil skapningsegenskap_ ([[World/Bestiary/Traits/Unstable\|Unstable]]) og kan ikke oppdages av _Andresyn_ ([[Rules/Talents/Second Sight (Talent)\|Second Sight (Talent)]]). Videre kan dens magi ikke oppdages av _Andresyn_ før den kastes, noe som gjør at dens tryllinger ikke kan _oppheves_ ([[Rules/Magic/Other Rules/Dispelling\|Dispelling]]) av andre karakterer.
+Enhver _demon_ som bærer ringen kan ignorere _ustabil skapningsegenskap_ ([[World/Bestiary/Traits/Unstable\|Unstable]]) og kan ikke oppdages av _Andresyn_ ([[Rules/Talents/Second Sight\|Second Sight]]). Videre kan dens magi ikke oppdages av _Andresyn_ før den kastes, noe som gjør at dens tryllinger ikke kan _oppheves_ ([[Rules/Magic/Other Rules/Dispelling\|Dispelling]]) av andre karakterer.
 
 Dødelige som bærer ringen får i stedet alle effektene av [[Rules/Magic/Spells/Arcane Spells/Mundane Aura\|Mundane Aura]].
 

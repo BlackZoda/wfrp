@@ -12,4 +12,4 @@ In combat, a successful **Opposed Animal Training/Willpower** [[Rules/Tests/Test
 
 **Example:** *Facing a slavering war-hound, Ilse passes an **Opposed Animal Training (Dog) roll**, in the first round of combat, causing Fear in the beast, and gaining +1 Advantage. In the next round she ‘attacks’ her target with her Animal Training Skill, beating the dog’s defence. Her GM allows her to instruct the beast to flee, which it does, its tail between its legs.*
 
-**Specialisations:** [[Demigryph\|Demigryph]], [[World/Bestiary/Creatures/Dog\|Dog]], [[World/Bestiary/Creatures/Horse\|Horse]], [[Pegasus\|Pegasus]], [[World/Bestiary/Creatures/Pigeon\|Pigeon]]
+**Specialisations:** [[World/Bestiary/Creatures/Demigryph\|Demigryph]], [[World/Bestiary/Creatures/Dog\|Dog]], [[World/Bestiary/Creatures/Horse\|Horse]], [[World/Bestiary/Creatures/Pegasus\|Pegasus]], [[World/Bestiary/Creatures/Pigeon\|Pigeon]]

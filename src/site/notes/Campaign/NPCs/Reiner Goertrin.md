@@ -3,6 +3,9 @@
 ---
 
 Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/08 Chasing Shadows\|08 Chasing Shadows]]
+# Vakthuset  
+## Vaktkapteinen  
+Goertrin er høy og slank med hår i fargen bleket ben og et ansikt som er nesten likblekt i sin tynnhet. Han er for tiden opptatt av å sikre at loven blir overholdt under [[Campaign/Events/Schaffenfest\|Schaffenfest]], og har lite tid til annet. Han har en brysk væremåte og er veldig vant til å skremme folk med lavere sosial status – noe som gjelder de fleste. Han har en markert overklasseaksent og avbryter alle som snakker for lenge. Han har rett og slett ikke tid til å kaste bort på meningsløse samtaler
 ## Reiner Goertrin – Human/Watch Captain (gold 1)
 
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |
@@ -16,3 +19,5 @@ Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/08 Chasing Shadows\|08 Ch
 **Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] (Sleeved Mail Shirt and Helmet) 3, [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Criminals), [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Lower Classes), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Sword) +7
 
 **Trappings:** Basic Weapon (Sword), Helmet, Medallion (gold, with Bögenhafen’s coat of arms), Sleeved Mail Shirt
+
+![Pasted image 20250412215557.png](/img/user/9_Attachments/Pasted%20image%2020250412215557.png)

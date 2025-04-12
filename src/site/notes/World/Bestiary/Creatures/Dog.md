@@ -5,9 +5,8 @@
 Home: [[World/Bestiary/The Beasts of the Reikland\|The Beasts of the Reikland]]
 
 Dogs are bred for myriad purposes throughout [[World/Other Nations/Den Gamle Verden\|Den Gamle Verden]]. While the pampered pooches of the courtiers of [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] pose only a threat to an adventurer’s dignity, larger breeds, including those bred for war and dogfighting can be a formidable threat.
-
-Home: [[NPCs\|NPCs]]
 ## Dog 
+* [[World/Bestiary/Creatures/Guard Dog\|Guard Dog]]
 
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

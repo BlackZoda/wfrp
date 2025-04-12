@@ -13,9 +13,9 @@ Våre helter, etter å ha avdekket et hemmelig kaostempel under gatene i Bögenh
 * [[0_GM/Enemy in Shadows/Rumors\|Rumors]]
 ## NPCs
 * [[Campaign/NPCs/Thugs\|Thugs]]
-* [[Campaign/NPCs/Ulthar the Ustabile\|Ulthar the Ustabile]]
+* [[Campaign/NPCs/Ulthar den Ustabile\|Ulthar den Ustabile]]
 * [[Campaign/NPCs/Franz Steinhäger\|Franz Steinhäger]]
-* [[Gerhard Schutz\|Gerhard Schutz]] (Vakt)
+* [[Campaign/NPCs/Gerhard Schutz\|Gerhard Schutz]] (Vakt)
 * [[Campaign/NPCs/Reiner Goertrin\|Reiner Goertrin]] (Watch Captain)
 * [[Campaign/NPCs/Friedrich Magirius\|Friedrich Magirius]] (The Merchant Guild Master)
 ## Rewards

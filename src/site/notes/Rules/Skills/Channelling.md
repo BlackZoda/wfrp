@@ -11,7 +11,7 @@ The Channeling Skill measures your ability to call upon and control the various 
 * [[Aqshy\|Aqshy]]
 * [[World/Magic/Azyr\|Azyr]]
 * [[Chamon\|Chamon]]
-* [[Dhar\|Dhar]]
+* [[World/Magic/Dhar\|Dhar]]
 * [[Ghur\|Ghur]]
 * [[Ghyran\|Ghyran]]
 * [[Hysh\|Hysh]]

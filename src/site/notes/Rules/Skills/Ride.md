@@ -12,8 +12,8 @@ If mounted on a steed, you move using the steed’s Movement statistic; if you w
 The Ride skill can be used extensively in [[Rules/Combat/Combat\|Combat]]. See **Chapter 5: Rules**, for more on mounted combat.
 
 ## Specialisations
-* [[Demigryph\|Demigryph]]
+* [[World/Bestiary/Creatures/Demigryph\|Demigryph]]
 * [[Great Wolf\|Great Wolf]]
-* [[Griffon\|Griffon]]
+* [[World/Bestiary/Creatures/Griffon\|Griffon]]
 * [[World/Bestiary/Creatures/Horse\|Horse]]
-* [[Pegasus\|Pegasus]]
+* [[World/Bestiary/Creatures/Pegasus\|Pegasus]]

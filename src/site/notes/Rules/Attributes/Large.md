@@ -6,7 +6,7 @@ Home: [[Rules/Attributes/Size\|Size]]
 
 | Height or Length | Examples                | Modifier |
 | ---------------- | ----------------------- | -------- |
-| Up to 12 feet | [[World/Bestiary/Creatures/Horse\|Horse]], [[World/Races/Ogre\|Ogre]], [[Troll\|Troll]] | +20         |
+| Up to 12 feet | [[World/Bestiary/Creatures/Horse\|Horse]], [[World/Races/Ogre\|Ogre]], [[World/Bestiary/Creatures/Troll\|Troll]] | +20         |
 
 ```math
 cm_min = 7ft in cm =>

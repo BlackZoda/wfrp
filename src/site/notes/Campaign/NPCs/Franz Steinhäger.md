@@ -3,8 +3,14 @@
 ---
 
 Home: [[NPCs\|NPCs]]
+## Dag 2
+Mens [[Campaign/NPCs/Friedrich Magirius\|Friedrich Magirius]] eller Franz blir overvåket så faller det en lapp ut av lommen deres:
 
-# The Merchant Prince
+**HÅNDOUT 8: TIMEN ETTER SOLNEDGANG**  
+_En time etter solnedgang i mitt hus._  
+_Alle medlemmer av Indre Råd må møte._  
+_Johannes Teugen_
+# Handelsprinsem
 Franz Steinhäger er lav, gråhåret og korpulent, og lunter tungt når han går. Han ser [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]’s plan som en snarvei til å bli rik.
 
 Når ritualet er fullført, håper han å styrte Teugen og overta ledelsen av _Ordo Septenarius_. For å støtte dette lærer han nå grunnleggende magi av Teugen og [[Campaign/NPCs/Gideon\|Gideon]], noe han selv ble overrasket over at han kunne mestre (i virkeligheten er det Gideons kaotiske innflytelse som endrer Steinhägers sjel, og gjør det mulig for ham å lære magi).

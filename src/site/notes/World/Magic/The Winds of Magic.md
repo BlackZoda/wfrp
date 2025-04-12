@@ -5,10 +5,11 @@
 Home: [[World/Magic/The Aethyr\|The Aethyr]]
 
 * [[World/Magic/Azyr\|Azyr]]
+* [[World/Magic/Dhar\|Dhar]]
 
 As magical poowers burst into the mortal realm and sweeps down from the north, it splinters and separates, like light splitting through a prism. The [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Colleges of Magic\|Colleges of Magic]] state this creates eight discrete Winds referred to by colour, each with its own character and strengths. The [[World/Races/Elf\|Elves]] support this, teaching the same eight winds to their appprentices before moving on to more powerful magics.
 
-Only a small minority of [[World/Races/Human\|Humans]] can perceive the [[Winds\|Winds]], and even fewer can bend them to their will. Most [[World/Races/Elf\|Elves]] are sensitive to them, and many possess the ability to see the [[Winds\|Winds]] clearly – commonly known as [[Rules/Talents/Second Sight (Talent)\|Second Sight (Talent)]], or just *the Sight* – with many also able to learn how to cast magic. [[World/Races/Dwarf\|Dwarfs]] disdain magic, perhaps because they are partially immune to it, and no [[World/Races/Dwarf\|Dwarf]] [[Rules/Career/Wizard\|Wizards]] are known. [[World/Races/Halfling\|Halflings]] are largely indifferent towards magic: except when it delivers impressive or entertaining spectacles.
+Only a small minority of [[World/Races/Human\|Humans]] can perceive the [[Winds\|Winds]], and even fewer can bend them to their will. Most [[World/Races/Elf\|Elves]] are sensitive to them, and many possess the ability to see the [[Winds\|Winds]] clearly – commonly known as [[Rules/Talents/Second Sight\|Second Sight]], or just *the Sight* – with many also able to learn how to cast magic. [[World/Races/Dwarf\|Dwarfs]] disdain magic, perhaps because they are partially immune to it, and no [[World/Races/Dwarf\|Dwarf]] [[Rules/Career/Wizard\|Wizards]] are known. [[World/Races/Halfling\|Halflings]] are largely indifferent towards magic: except when it delivers impressive or entertaining spectacles.
 
 The [[World/Races/Elf\|Elves]] directed (as a condition of their tuition) that [[World/Races/Human\|Human]] spellcasters should each only use a single *Wind of Magic*. They argued that while it is possible to cast spells by drawing from multiple winds, doing so is a risy proposition for the feeble, corruptible [[World/Races/Human\|Human]] mind. This wisdom has been adopted by the Colleges, and each specialises in a single colour.
 

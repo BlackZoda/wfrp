@@ -37,9 +37,10 @@ Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 * [[Rules/Tables/Major Miscast Table\|Major Miscast Table]]
 ## Religion
 * [[Rules/Tables/Wrath of the Gods Table\|Wrath of the Gods Table]]
-## Corruption
+## Corruption & Chaos
 * [[Rules/Tables/Physical Corruption Table\|Physical Corruption Table]]
 * [[Rules/Tables/Mental Corruption Table\|Mental Corruption Table]]
+* [[Rules/Tables/Daemonic Mien Effects Table\|Daemonic Mien Effects Table]]
 ## Trappings
 * [[Rules/Tables/Encumberance Table\|Encumberance Table]]
 * [[Rules/Trappings/Encumberance/Overburdened Table\|Overburdened Table]]

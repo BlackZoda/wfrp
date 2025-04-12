@@ -7,7 +7,7 @@ Home: [[Rules/Skills/Skill List\|Skill List]]
 
 A measure of your ability to lead others and command their respect. While most often associated with martial situations, a resolute leader can quickly direct a fast response to a fire or other such calamity, and [[Rules/Career/Noble\|Nobles]] use the [[Rules/Skills/Skill\|Skill]] frequently to command their lessers.
 
-A successful Leadership [[Rules/Tests/Tests\|Tests]] allows you to issue orders to a number of targets equal to your Fellowship Bonus + SL. If the targets are your natural subordinates — a noble commanding serfs, or a sergeant commanding his troops — commands are usually unopposed. If there is no natural hierarchy in place, or the order is particularly challenging — such as ordering your soldiers to charge a [[Hydra\|Hydra]] head on — the Test is Opposed by your targets’ [[Rules/Skills/Cool\|Cool]].
+A successful Leadership [[Rules/Tests/Tests\|Tests]] allows you to issue orders to a number of targets equal to your Fellowship Bonus + SL. If the targets are your natural subordinates — a noble commanding serfs, or a sergeant commanding his troops — commands are usually unopposed. If there is no natural hierarchy in place, or the order is particularly challenging — such as ordering your soldiers to charge a [[World/Bestiary/Creatures/Hydra\|Hydra]] head on — the Test is Opposed by your targets’ [[Rules/Skills/Cool\|Cool]].
 
 In combat, you may use Leadership to encourage your subordinates. A successful Leadership Test confers a bonus of +10 to all [[Rules/Psychology/Psychology\|Psychology]] Tests until the end of the next round (see page 190).
 

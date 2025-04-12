@@ -3,9 +3,16 @@
 ---
 
 Home: [[NPCs\|NPCs]]
-# Handelslauget
-## Laugmesteren
-augmester Friedrich Magirius har velstelt grått hår, himmelblå øyne og et kort, kløftet skjegg. Han fremstår distingvert og vennlig, og har alltid et beredvillig smil selv når han er irritert. Magirius leder en av byens mindre handelsfamilier, men jobber hardt og har sikret seg en plass i byrådet i Bögenhafen.
+## Handelslauget
+## Dag 2
+Mens Friedrich eller [[Campaign/NPCs/Franz Steinhäger\|Franz Steinhäger]] blir overvåket så faller det en lapp ut av lommen deres:
+
+**HÅNDOUT 8: TIMEN ETTER SOLNEDGANG**  
+_En time etter solnedgang i mitt hus._  
+_Alle medlemmer av Indre Råd må møte._  
+_Johannes Teugen_
+# Laugmesteren
+Laugmester Friedrich Magirius har velstelt grått hår, himmelblå øyne og et kort, kløftet skjegg. Han fremstår distingvert og vennlig, og har alltid et beredvillig smil selv når han er irritert. Magirius leder en av byens mindre handelsfamilier, men jobber hardt og har sikret seg en plass i byrådet i Bögenhafen.
 
 Friedrich er blitt fullstendig lurt av [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]s gyldne løfter om å gjøre Bögenhafen til [[World/The Empire/Imperiet\|Imperiet]]s fremste handelssenter. Det er et mål han støtter fullt ut, og det gjør ham blind for farene han går inn i. Han tror oppriktig at Teugen bare ønsker byens beste og vil være vantro hvis karakterene forteller ham noe annet.
 
@@ -23,3 +30,5 @@ Magirius forteller fakta som han ser dem, men avslører ingenting om ritualet Te
 **Traits:** [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Fists) +4
 
 **Trappings:** Merchant Clothing (Finest Quality), Rings (Jewelled, worth 3 GC and 12 GC)
+
+![Pasted image 20250412215627.png](/img/user/9_Attachments/Pasted%20image%2020250412215627.png)

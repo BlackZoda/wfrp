@@ -10,5 +10,5 @@ Home: [[World/Bestiary/Traits/Size (trait)\|Size (trait)]], [[0_GM/GM Screen/Sec
 | [[Rules/Attributes/Little\|Little]]    | [[Cat\|Cat]], [[Hawk\|Hawk]], [[Human Baby\|Human Baby]]         |
 | [[Rules/Attributes/Average\|Average]]   | [[World/Races/Dwarf\|Dwarf]], [[World/Races/Elf\|Elf]], [[Human Child\|Human Child]]       |
 | [[Rules/Attributes/Large\|Large]]     | [[World/Bestiary/Creatures/Horse\|Horse]], [[World/Races/Ogre\|Ogre]], [[Trol\|Trol]]             |
-| [[Rules/Attributes/Enormous\|Enormous]]  | [[Griffon\|Griffon]], [[Wyvern\|Wyvern]], [[Manticore\|Manticore]]    |
-| [[Rules/Attributes/Monstrous\|Monstrous]] | [[Dragon\|Dragon]], [[Giant\|Giant]], [[Greater Daemon\|Greater Daemon]] |
+| [[Rules/Attributes/Enormous\|Enormous]]  | [[World/Bestiary/Creatures/Griffon\|Griffon]], [[World/Bestiary/Creatures/Wyvern\|Wyvern]], [[World/Bestiary/Creatures/Manticore\|Manticore]]    |
+| [[Rules/Attributes/Monstrous\|Monstrous]] | [[World/Bestiary/Creatures/Dragon\|Dragon]], [[World/Bestiary/Creatures/Giant\|Giant]], [[Greater Daemon\|Greater Daemon]] |

@@ -4,7 +4,7 @@
 
 Home: [[Rules/Combat/Taking Your Turn\|Taking Your Turn]]
 
-In combat, your *Action* is used to do something. Whether that’s swing a sword at a [[Mutant\|Mutant]], jump from rooftop to rooftop, or take a moment to gauge the situation, that’s up to you. Your *Action* is only limited by your imagination, the physical constraints of the fight location and the capabilities of your [[Character\|Character]].
+In combat, your *Action* is used to do something. Whether that’s swing a sword at a [[World/Bestiary/Creatures/Mutant\|Mutant]], jump from rooftop to rooftop, or take a moment to gauge the situation, that’s up to you. Your *Action* is only limited by your imagination, the physical constraints of the fight location and the capabilities of your [[Character\|Character]].
 
 Describe what you want your Character to do. The GM will then tell you if you need to make a [[Rules/Tests/Tests\|Tests]] to succeed at your planned *Action*. The results will then be narrated by you and the GM, ending your *Action*.
 

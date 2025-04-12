@@ -6,7 +6,7 @@ Home: [[Rules/Attributes/Size\|Size]]
 
 | Height or Length | Examples                | Modifier |
 | ---------------- | ----------------------- | -------- |
-| Up to 20 feet | [[Griffon\|Griffon]], [[Wyvern\|Wyvern]], [[Manticore\|Manticore]] | +40         |
+| Up to 20 feet | [[World/Bestiary/Creatures/Griffon\|Griffon]], [[World/Bestiary/Creatures/Wyvern\|Wyvern]], [[World/Bestiary/Creatures/Manticore\|Manticore]] | +40         |
 
 ```math
 cm_min = 12ft in cm =>

@@ -4,5 +4,5 @@
 
 Home: [[Beastiary\|Beastiary]]
 
-* [[Orc\|Orc]]
-* [[Goblin\|Goblin]]
+* [[World/Bestiary/Creatures/Orc\|Orc]]
+* [[World/Bestiary/Creatures/Goblin\|Goblin]]

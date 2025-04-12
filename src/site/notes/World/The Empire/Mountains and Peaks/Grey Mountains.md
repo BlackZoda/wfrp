@@ -5,7 +5,7 @@
 
 The forbidding peaks of the Grey Mountains are riddled with crumbling tunnels and topped with ruined skybridges from the time when Dwarfs ruled the region. But that era has passed, and only a handful of determined clans remain to defend their ancestral holds, with recently reclaimed [[Karak Azgaraz\|Karak Azgaraz]] and towering [[Karak Ziflin\|Karak Ziflin]] being two of the largest still standing.
 
-The mountains and the tunnels beneath them are now overrun with [[Orc\|Orc]]s and [[Goblin\|Goblin]]s, Mountain [[Troll\|Troll]]s, [[World/Races/Skaven\|Skaven]], and worse. While this makes the Grey Mountains especially dangerous, many claim the fallen Dwarf holds hide treasure lost to time, so the foolhardy and desperate are drawn to the ancient halls like moths to a flame. Few survive their greed.
+The mountains and the tunnels beneath them are now overrun with [[World/Bestiary/Creatures/Orc\|Orc]]s and [[World/Bestiary/Creatures/Goblin\|Goblin]]s, Mountain [[World/Bestiary/Creatures/Troll\|Troll]]s, [[World/Races/Skaven\|Skaven]], and worse. While this makes the Grey Mountains especially dangerous, many claim the fallen Dwarf holds hide treasure lost to time, so the foolhardy and desperate are drawn to the ancient halls like moths to a flame. Few survive their greed.
 
 Clinging precariously to the craggy edge of the Gray Mountains, the southern lords of the Reikland have sunk many mines seeking to extract the signigicant mining and metal wealth of the range. These are protected by lone watchtowers and high fortresses that stand guard against attack from the mountains, each surrounded by the rubble of older forrifications that failed.
 
