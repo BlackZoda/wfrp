@@ -17,3 +17,6 @@ Crusher’ Braugen er et fjell av en mann som kunne skremme en vegg. Når han jo
 **Traits:** Weapon (Fist) +5
 
 **Trappings:** Crushed Rose, Tattoos
+
+![Pasted image 20250413102209.png](/img/user/9_Attachments/Pasted%20image%2020250413102209.png)
+
