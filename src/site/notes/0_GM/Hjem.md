@@ -8,6 +8,7 @@
 * [[World/Other Nations/Den Gamle Verden\|Den Gamle Verden]]
 * [[World/The Empire/Imperiet\|Imperiet]]
 ## Den indre fienden
+* [[0_GM/Enemy in Shadows/Rumors\|Rumors]]
 ### Fiender i Skyggene
 * [[0_GM/Enemy in Shadows/Chapters/000 Kapitler\|000 Kapitler]]
 ### Organizations

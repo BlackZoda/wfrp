@@ -15,6 +15,6 @@ Hvis karakterene laget et kart mens de var i kloakken, kan de kanskje spore kloa
 
 For å finne en bestemt lokalisering må karakteren som laget kartet lykkes med en _håpløs_ (−40) _[[Rules/Skills/Navigation\|Navigation]]_-test for å lokalisere én enkelt plassering.
 
-De mest sannsynlige stedene karakterene vil forsøke å spore er [[Steinhäger-kontorene\|Steinhäger-kontorene]] (se side 89) over det _Skjulte Templet_ (se side 76), og [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/De Kryssede Spyd\|De Kryssede Spyd]] (se side 87) over døren til [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/De Kryssede Spyd\|De Kryssede Spyd]] (se side 74). Kloakkluker kan også spores over bakken, forutsatt at de er markert på karakterenes kart.
+De mest sannsynlige stedene karakterene vil forsøke å spore er [[Steinhäger-kontorene\|Steinhäger-kontorene]] (se side 89) over det _Skjulte Templet_ (se side 76), og [[Campaign/Locations/De Kryssede Spyd\|De Kryssede Spyd]] (se side 87) over døren til [[Campaign/Locations/De Kryssede Spyd\|De Kryssede Spyd]] (se side 74). Kloakkluker kan også spores over bakken, forutsatt at de er markert på karakterenes kart.
 ## Overvåking 
 Karakterene kan bestemme seg for å overvåke et sted. Noen av de mest sannsynlige stedene, og hva som observeres der, er beskrevet i dette kapittelet. Når de overvåker et område, bør en _gjennomsnittlig_ (+20) [[Rules/Skills/Stealth\|Stealth]] (Urban)-test gjøres hver time (oftere i enkelte områder) for å unngå å vekke mistanke og bli jaget vekk av byvakten.

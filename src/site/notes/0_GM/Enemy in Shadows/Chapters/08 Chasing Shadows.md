@@ -8,7 +8,7 @@ Våre helter, etter å ha avdekket et hemmelig kaostempel under gatene i Bögenh
 
 * [[0_GM/Enemy in Shadows/Chapters/081 The Investigation Begins!\|081 The Investigation Begins!]]
 * [[0_GM/Enemy in Shadows/Chapters/082 Events\|082 Events]]
-* [[083 Primary Locations\|083 Primary Locations]]
+* [[0_GM/Enemy in Shadows/Chapters/083 Primary Locations\|083 Primary Locations]]
 * [[084 The Ritual Draws Closer\|084 The Ritual Draws Closer]]
 * [[0_GM/Enemy in Shadows/Rumors\|Rumors]]
 ## NPCs
