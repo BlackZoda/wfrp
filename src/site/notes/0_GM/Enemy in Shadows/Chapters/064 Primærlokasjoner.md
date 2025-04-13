@@ -7,6 +7,8 @@ Home: [[0_GM/Enemy in Shadows/Chapters/06 The Shaffenfest\|06 The Shaffenfest]]
 Schaffenfestivalen tilbyr en enorm rekke ulike attraksjoner for karakterene å utforske. Følgende er de mest sentrale stedene for eventyret og festivalen, men du bør føle deg fri til å utvide disse etter gruppens interesser.
 
 Kanskje finnes det en stor sirkustelt der det berømte _Cuppolalinni-familiesirkuset_ forbløffer folkemengden? Eller kanskje to myrmidianske nonner gir en imponerende demonstrasjon av kampsport for å rekruttere nye medlemmer til sin orden? Eller kanskje _Keiserinne Edna_ – en av Guillibert og Solomons store komiske operaer – gjaller over festivalen fra _Admiralens Mannskap_, en underholdningsgruppe fra Altdorf? Valget er ditt.
+
+![Pasted image 20250413113124.png](/img/user/9_Attachments/Pasted%20image%2020250413113124.png)
 ## Brytering
 En prangende kledd underholder, [[Campaign/NPCs/Klaus Schattiger\|Klaus Schattiger]], står foran et avsperret område og inviterer håpefulle utfordrere fra mengden til å kjempe mot en tatovert og tydelig utmattet mester for en mulig premie på 4 kroner.
 
@@ -102,6 +104,7 @@ En skyldig karakter bøtelegges 1–20 shilling avhengig av forbrytelsens alvorl
 * Idet karakterene passerer _Festivaldomstolen_, skyter en hobbit forbi og løper inn i mengden. «Stopp ham!» roper en soldat mens han snubler i sin hillebard og lander ansikt først i søla. Halflingen – ‘Uskyldige’ Lowhaven – har _[[Rules/Attributes/Movement (M)\|Movement]] 3_ og _[[Rules/Skills/Athletics\|Athletics]] 39_. Hvis karakterene jager ham, bruk [[Rules/Combat/Pursuit\|Pursuit]] reglene og sett startavstanden til 2. Hvis han blir fanget, gir ‘Uskyldige’ seg umiddelbart. Hvis karakterene avslår bestikkelsen på 6 shilling for å glemme de så ham, vender han tilbake til domstolen uten klager. «Jeg er uskyldig, herr! Og jeg lyver aldri.» Richter gir en belønning på 1 shilling for hans pågripelse. ‘Uskyldige’ smiler og bemerker: ‘Jeg glemmer ikke – eller tilgir – din rolle i dette, kamerat!’
 * Hei, kamerat – har du noe drit til overs? Vi har gått tom for drit å kaste på forbryterne. Vi har ikke penger eller noe, men vi bruker det for en god sak!» De foretaksomme gateguttene planlegger å selge gjenstander karakterene gir dem for 1d til folk som vil kaste på dem i gapestokken.
 
+![Pasted image 20250413113022.png](/img/user/9_Attachments/Pasted%20image%2020250413113022.png)
 ### Nøkkelscene: Den Fulle Dvergen
 Når karakterene passerer gapestokkene utenfor _Festivaldomstolen_, finner de en av de to gapestokkene okkupert av _[[Campaign/NPCs/Gottri Gurnisson\|Gottri Gurnisson]]_, en noe beruset dverg. En liten gruppe gategutter (inkludert [[Campaign/NPCs/Gideon\|Gideon]]) håner den ulykkelige fangen ved å kaste råtne frukter og diverse gjenstander på ham. Hvis noen kommer innen hørevidde, trygler Gottri patetisk om å få låne de 2 shillingene han trenger for å betale boten og bli løslatt.
 

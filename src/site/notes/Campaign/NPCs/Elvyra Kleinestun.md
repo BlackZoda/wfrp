@@ -17,3 +17,5 @@ På slutten av 30-årene med lysbrunt hår og mørkeblå øyne har Elvyra en inn
 **Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Bookish folk), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Dagger) +4
 
 **Trappings:** Bandages (10), Chest (containing 6 GCs 17/6), Dagger, Drugs and Herbs (availability as a City), Guild Licence, Key (for chest), Healing Draughts (10), Market Stall (Collapsible), Trade Tools (Apothecary)
+
+![Pasted image 20250413113311.png](/img/user/9_Attachments/Pasted%20image%2020250413113311.png)

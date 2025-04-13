@@ -28,3 +28,15 @@ Våre helter har funnet ut at arven var tull, og trenger trolig å muntres opp l
 * [[Campaign/NPCs/Wolmar Rotte\|Wolmar Rotte]]
 * [[Campaign/NPCs/Graf Wilhelm von Saponatheim\|Graf Wilhelm von Saponatheim]]
 * [[Campaign/NPCs/Nastassia von Saponatheim\|Nastassia von Saponatheim]]
+* [[Campaign/NPCs/Elara Winterdraum\|Elara Winterdraum]]
+## Rewards
+As well as XP for good roleplaying and fun times at the end of your gaming session, XP should be awarded for the following:
+* 5 points for facing ‘Crusher’ Braugen
+* 10 points for defeating ‘Crusher’ Braugen
+* 5 points for having your fortune told by ‘Mystic’ Megret
+* 10 points for freeing Gottri Gurnisson
+* 5–10 points for recapturing the Goblin when it initially attempts escape
+* 5–10 points for dealing with a difficult Random Event
+* 10 points for agreeing to track down the Mutant Goblin. As always, if you wish to grant an award fo
+
+![Pasted image 20250413113224.png](/img/user/9_Attachments/Pasted%20image%2020250413113224.png)

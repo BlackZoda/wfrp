@@ -6,6 +6,13 @@ Home: [[NPCs\|NPCs]]
 ## Megret See – Human/Sage (brass 3)
 En spinkel kvinne i 50-årene med grånende blondt hår og skifergrå øyne, 'Mystic Megret', har reist rundt i bakveiene i Vorbergland de siste 20 årene. Hun flytter fra by til by og tjener det hun kan på spådommer, slik faren hennes gjorde før henne. Siden hun vet at publikum ønsker en autentisk opplevelse, bruker Megret vanligvis en svart parykk og tar til et fryktelig sylviansk aksent når hun leser i hånden. Hun liker også å rulle øynene opp i hodet og vifte med hendene påfløyelig. Alt unødvendig, men det gir resultater. Hennes naturlige aksent, som hennes sanne karakter, er jordnær reiklandsk.
 
+* “Stille…. jeg hører… et sus i skyggene… syv tråder rives, før den åttende knyttes på nytt…”
+* “Elven… den bærer en sorg så dyp… en kald hånd stiger fra strømmen, etter det som ble lovet i det skjulte…”
+* “Vinden… den bringer et rop uten ord… en ung blomst visner ved nattens ende, for å gi næring til en eldgammel hunger…”
+* (griper tak i armen til en av karakterene) “Vær forsiktig… stien er dekket av tåke… en kjent stemme kan lede dere inn i mørket”
+* “Månen… den skifter farge… når den runder sitt løp, vil sløret falle…”
+
+
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 22  | 34  | 30  | 37  | 40  | 49  | 50  | 48  | 54  | 51  | 17  |
@@ -17,3 +24,5 @@ En spinkel kvinne i 50-årene med grånende blondt hår og skifergrå øyne, 'My
 **Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Those who ignore her), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Dagger) +4
 
 **Trappings:** 34/12, Amulets (large selection), Bedroll, Jewellery (cheap and gaudy), Pack of Cards (Reiklander Tarock), Slingbag, Tent (blue and white)
+
+![Pasted image 20250413113341.png](/img/user/9_Attachments/Pasted%20image%2020250413113341.png)
