@@ -24,11 +24,11 @@ Enten velg eventer eller rull på tabellen, viss karakterene vandrer tilfeldig r
 | 91–95 | Tyv             |
 | 96–00 | Vaktpatrulje    |
 ## Beskyldning
-En bodselger eller annen festivaldeltaker beskylder en karakter for tyveri og lager ståhei – alle NPC-er i nærheten (borgere) prøver å holde karakterene fast til en vaktpatrulje ankommer for å arrestere dem. Det har åpenbart skjedd en feiltagelse, og så lenge karakterene ikke prøver å bevise sin uskyld ved å slåss med vakten, blir de til slutt løslatt. Vaktpatruljesersjanten krever imidlertid fortsatt en del overbevisning.
+En bodselger eller annen festivaldeltaker beskylder en karakter for tyveri og lager ståhei – alle NPC-er i nærheten (borgere) prøver å holde karakterene fast til en [[Campaign/NPCs/Byvakter\|Byvakter]] ankommer for å arrestere dem. Det har åpenbart skjedd en feiltagelse, og så lenge karakterene ikke prøver å bevise sin uskyld ved å slåss med vakten, blir de til slutt løslatt. Vaktpatruljesersjanten krever imidlertid fortsatt en del overbevisning.
 ## Arrestasjon
 Karakterene ser noen bli dratt bort av en vaktpatrulje, mens de roper høyt om sin uskyld. Du kan velge å gi ytterligere hint om den anklagedes skyld eller uskyld. Hvis denne hendelsen kjøres etter _tyv-hendelsen_, kan NPC-en godt være den samme. Hva karakterene velger å gjøre – om noe – er opp til dem.
 ## Øltelt
-Dette stedet er en improvisert taverna hvor festivalbesøkende får forfriskninger, utveksler sladder og generelt tar en pause fra støy og stim. Et hvert sted fylles gradvis opp gjennom dagen, og gjestene blir mer bråkete. Det er 10 % sjanse for at en slåsskamp pågår i et øltelt karakterene passerer (se _Slagsmål-hendelsen_). Det mest omtalte ryktet handler om _Mutant-ediktet_ (se side 57).
+Dette stedet er en improvisert taverna hvor festivalbesøkende får forfriskninger, utveksler sladder og generelt tar en pause fra støy og stim. Et hvert sted fylles gradvis opp gjennom dagen, og gjestene blir mer bråkete. Det er 10 % sjanse for at en slåsskamp pågår i et øltelt karakterene passerer (se _Slagsmål-hendelsen_). Det mest omtalte ryktet handler om _Mutant-ediktet_ (se side 57). [[0_GM/Enemy in Shadows/Rumors\|Rumors]]
 ## Tigger
 Karakterene blir antastet av en tigger (en _skurk_) som ynkelig spør om noen kan spare noen få mynter. Hvis karakterene gir tiggeren penger, er det 50 % sjanse for at en annen tigger antaster dem i løpet av de neste tre møtene.
 
@@ -47,7 +47,7 @@ Det er 1d10+10 bondetamp, som blir mer og mer støtende – kanskje de til og me
 * **Sigmar ville spyttet på dere langørede fe-dyrkere! Kom tilbake når dere kan bære en ekte mans byrde!**
 ### Hobbiter
 * **Ser vi på ei rotte i menneskeklær nå? Dra tilbake til ertemarkene deres før vi bruker dere som agn!**
-* **Mattyven har nok stjålet fra kornlagre igjen – se på de små, grådige hendene!**
+* **Mattyven har nok stjålet fra kornlagre igjen – se på de små, grådige hendene! Sikker på at’a var i lommene mine!**
 * **Bare fordi dere kan gjemme dere i kloakkene betyr ikke at vi ikke finner dere, tassetroll!**
 ## Livvakt
 En av karakterene blir dyttet til side av en livvakt (kriger) som følger en av byens adelige eller kjøpmenn på festivalen (borger).
