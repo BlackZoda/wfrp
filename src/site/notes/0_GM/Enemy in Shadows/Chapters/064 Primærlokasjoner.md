@@ -85,9 +85,11 @@ Et øyeblikk av absolutt stillhet faller. Selv fuglene ser ut til å holde puste
 
 Jorden vibrerer under de galopperende hestenes tunge hover. Lyden øker raskt fra en lav rumling til et øredøvende torden idet de to ridderne nærmer seg hverandre i halsbrekkende fart. Lannsene deres senkes, armene strammes, fokuset er intenst.
 
-Smellet er infernalsk da de treffer hverandre midt på banen. Tresplinter flyr i alle retninger idet den ene lansen knuses mot motstanderens rustning. Det er et øyeblikk av ren, rå kraft, en demonstrasjon av styrke, mot og dødsforakt. Rytteren deiser i bakken og rister litt, men kommer seg etterhvert på bena.
+Smellet er infernalsk da de treffer hverandre midt på banen. Tresplinter flyr i alle retninger idet den ene lansen knuses mot motstanderens skjold. Det er et øyeblikk av ren, rå kraft, en demonstrasjon av styrke, mot og dødsforakt. Rytteren deiser i bakken og rister litt, men kommer seg etterhvert på bena.
 
 Et brøl stiger fra publikum – et ekko av sjokk, spenning og beundring. Adelen klapper med anerkjennelse, mens folket jubler vilt.
+
+![Pasted image 20250413102059.png](/img/user/9_Attachments/Pasted%20image%2020250413102059.png)
 ## Festivalretten og gapestokk
 **Festivalretten** er et stort telt med byens våpenskjold hengende utenfor. Den er satt opp under Schaffenfestivalen for å behandle klager som oppstår under messen og administrere straff på stedet. To halberdiersoldater fra _Bögenhafen-statens hær_ vokter inngangen. De har ordre om kun å slippe inn de med interesse i en sak – vanligvis saksøker, saksøkte og eventuelle vitner.
 

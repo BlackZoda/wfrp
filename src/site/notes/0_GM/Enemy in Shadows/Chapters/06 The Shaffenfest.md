@@ -28,4 +28,3 @@ Våre helter har funnet ut at arven var tull, og trenger trolig å muntres opp l
 * [[Campaign/NPCs/Wolmar Rotte\|Wolmar Rotte]]
 * [[Campaign/NPCs/Graf Wilhelm von Saponatheim\|Graf Wilhelm von Saponatheim]]
 * [[Campaign/NPCs/Nastassia von Saponatheim\|Nastassia von Saponatheim]]
-* [[]]
