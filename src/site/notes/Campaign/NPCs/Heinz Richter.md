@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Campaign/NPCs/Heinz Richter/"}
 ---
 
-Home: [[NPCs\|NPCs]]
+Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/064 Primærlokasjoner\|064 Primærlokasjoner]]
 ## Heinz Richter – Human/Judge (Gold 2)
 Rådmann Heinz Richter er i 50-årene, med velstelt grått hår og lyseblå øyne. Han prøver å virke streng, men klarer ikke å skjule sin grunnleggende godmodighet og hjertelighet. Han er velkledd og har en praktfull advokatparykk, som passer til hans stilling. Under sine universitetsdager i Nuln var Richter et bilde på muskuløs helse, men nå er hans en gang velbygde kropp blitt myk og slapp etter for mange år med god levemåte.
 
@@ -19,3 +19,5 @@ Richter er ingen dåre og lar seg ikke enkelt bløffe eller lure. Han snakker me
 **Traits:** Weapon (Sword) +7
 
 **Trappings:** Amulets (Verenean), Gavel, Robes (Lawyer), Signet Ring (Lawyers’ Guild), Sword of Office, Town Seal, Wig
+
+![Pasted image 20250413105756.png](/img/user/9_Attachments/Pasted%20image%2020250413105756.png)

@@ -91,7 +91,7 @@ Et brøl stiger fra publikum – et ekko av sjokk, spenning og beundring. Adelen
 
 ![Pasted image 20250413102059.png](/img/user/9_Attachments/Pasted%20image%2020250413102059.png)
 ## Festivalretten og gapestokk
-**Festivalretten** er et stort telt med byens våpenskjold hengende utenfor. Den er satt opp under Schaffenfestivalen for å behandle klager som oppstår under messen og administrere straff på stedet. To halberdiersoldater fra _Bögenhafen-statens hær_ vokter inngangen. De har ordre om kun å slippe inn de med interesse i en sak – vanligvis saksøker, saksøkte og eventuelle vitner.
+[[Campaign/Events/Festivalretten\|Festivalretten]] er et stort telt med byens våpenskjold hengende utenfor. Den er satt opp under Schaffenfestivalen for å behandle klager som oppstår under messen og administrere straff på stedet. To halberdiersoldater fra _Bögenhafen-statens hær_ vokter inngangen. De har ordre om kun å slippe inn de med interesse i en sak – vanligvis saksøker, saksøkte og eventuelle vitner.
 
 Inne i teltet venter to flere halberdiersoldater og _Hoveddommer [[Campaign/NPCs/Heinz Richter\|Heinz Richter]]_, som håndterer en konstant strøm av småsaker hele dagen. Hvis karakterene tilfeldigvis lytter til en sak, improviserer du detaljer, eventuelt inspirert av _Valgfrie møter_ (se side 73).
 
@@ -103,7 +103,7 @@ En skyldig karakter bøtelegges 1–20 shilling avhengig av forbrytelsens alvorl
 * Hei, kamerat – har du noe drit til overs? Vi har gått tom for drit å kaste på forbryterne. Vi har ikke penger eller noe, men vi bruker det for en god sak!» De foretaksomme gateguttene planlegger å selge gjenstander karakterene gir dem for 1d til folk som vil kaste på dem i gapestokken.
 
 ### Nøkkelscene: Den Fulle Dvergen
-Når karakterene passerer gapestokkene utenfor _Festivaldomstolen_, finner de en av de to gapestokkene okkupert av _[[Campaign/NPCs/Gottri Gurnisson\|Gottri Gurnisson]]_, en noe beruset dverg. En liten gruppe gategutter håner den ulykkelige fangen ved å kaste råtne frukter og diverse gjenstander på ham. Hvis noen kommer innen hørevidde, trygler Gottri patetisk om å få låne de 2 shillingene han trenger for å betale boten og bli løslatt.
+Når karakterene passerer gapestokkene utenfor _Festivaldomstolen_, finner de en av de to gapestokkene okkupert av _[[Campaign/NPCs/Gottri Gurnisson\|Gottri Gurnisson]]_, en noe beruset dverg. En liten gruppe gategutter (inkludert [[Campaign/NPCs/Gideon\|Gideon]]) håner den ulykkelige fangen ved å kaste råtne frukter og diverse gjenstander på ham. Hvis noen kommer innen hørevidde, trygler Gottri patetisk om å få låne de 2 shillingene han trenger for å betale boten og bli løslatt.
 
 Hvis en karakter betaler boten hans, vil han falle i søvnaktig beundring for sin redningsmann på en pinlig måte, sverge evig vennskap og fortelle alle og enhver om sin nye «gode venn». Etter kort tid dreier samtalen seg imidlertid om hans yndlingstema: drikke og hvordan han skal skaffe neste runde. Spill rollen til fulle ved å understreke hvor grov, pinlig og illeluktende dvergen er – slik at karakterene angrer på å ha hjulpet ham.
 
@@ -132,9 +132,14 @@ Uansett utfall er _Doktor Malthusius_ svært takknemlig for hjelpen til å få
 
 Når roen er gjenopprettet, begynner Grunni å samle inngangsavgiften på 1 shilling mens han slipper de oppspilte tilskuerne inn i tauringen. Når alle er inne, sjekker Malthusius diskré om det er heksejegere i mengden. Fornøyd tar han deretter senterplassen mens Grunni presenterer en rekke merkelige kuriositeter.
 
-Mens Grunni fører [[Campaign/NPCs/Mutant Goblin\|Mutant Goblin]]’en ut, snur den plutselig, biter ham i hånden og prøver å rømme igjen. Mengden får panikk, blokkerer veien og hindrer effektivt karakterene i å forfølge goblinen før den forsvinner inn i et lite hull i bymuren bak Malthusius – der et jerngitter har rustet helt bort. Karakterene har ingen realistisk sjanse til å stoppe flukten.
+* **Den grufullt hårete grusomheten fra Hochland!** – Kildene beskriver dette som en langhåret ape som Malthusius kjøpte i Marienburg.
+* **Den utrolige enøyde hunden fra Diesdorf!** – Dette er en mutant med ett øye i pannen, noe som også gjør den ulovlig.
+* **Det umåtelige gapet fra Midtfjellene!** – Dette viser seg å være en relativt liten Squig.
+* **Den motbydelige trebente goblinen fra Grissenwald!**
 
-Snart ankommer en vaktpatrulje fra statshæren for å undersøke bråket. Når de kommer, har Grunni allerede plassert de fleste av Malthusius’ utstillingsobjekter tilbake i burene – bortsett fra goblinen, selvfølgelig. Hvis karakterene ikke frivillig forteller hva som skjedde, tar Malthusius teatralsk ordet og forklarer hendelsene, mens han unngår å nevne at goblinen var en mutant: «Selvfølgelig kan utstillingene mine bli litt hissige, men vi sørger alltid for at alt er fullstendig lovlig. Det var jo bare en goblin, mine herrer!» Hvis karakterene nevner det ekstra beinet, rynker soldatene på pannen, mens Malthusius smiler så uskyldig han kan.
+Mens [[Campaign/NPCs/Grunni\|Grunni]] fører [[Campaign/NPCs/Mutant Goblin\|Mutant Goblin]]’en ut, snur den plutselig, biter ham i hånden og prøver å rømme igjen. Mengden får panikk, blokkerer veien og hindrer effektivt karakterene i å forfølge goblinen før den forsvinner inn i et lite hull i bymuren bak Malthusius – der et jerngitter har rustet helt bort. Karakterene har ingen realistisk sjanse til å stoppe flukten.
+
+Snart ankommer en [[Campaign/NPCs/Byvakter\|Byvakter]] patrule fra statshæren for å undersøke bråket. Når de kommer, har Grunni allerede plassert de fleste av Malthusius’ utstillingsobjekter tilbake i burene – bortsett fra goblinen, selvfølgelig. Hvis karakterene ikke frivillig forteller hva som skjedde, tar Malthusius teatralsk ordet og forklarer hendelsene, mens han unngår å nevne at goblinen var en mutant: «Selvfølgelig kan utstillingene mine bli litt hissige, men vi sørger alltid for at alt er fullstendig lovlig. Det var jo bare en goblin, mine herrer!» Hvis karakterene nevner det ekstra beinet, rynker soldatene på pannen, mens Malthusius smiler så uskyldig han kan.
 
 Da soldatene skjønner at dette er mer enn de takler, eskorterer de umiddelbart _Doktor Malthusius_, Grunni og karakterene til _Festivaldomstolen_, hvor dommer Heinz Richter hører deres forklaringer. Malthusius tilbyr straks karakterene en belønning på 5 kroner for å returnere goblinen trygt, og erklærer at han er «en engasjert borger, og det er viktig at jeg bidrar til å fjerne denne trusselen!» Richter nikker imponert over slik samfunnsinnsats og tilbyr karakterene samme sum fra bykassen for å rydde goblinen ut av kloakken. Han legger til, hvis karakterene tidligere har fanget goblinen: «Siden dere har fanget den før, bør dette ikke være en altfor strevsom oppgave.»
 

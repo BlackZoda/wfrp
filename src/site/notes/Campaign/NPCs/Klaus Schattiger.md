@@ -19,3 +19,5 @@ Mørkhårede Schattiger er typisk for underholdere som jobber på markedene i de
 **Traits:** Armour (Leathers) 1, [[Rules/Psychology/Prejudice\|Prejudice]] (The Clever), Weapon (Dagger) +5
 
 **Trappings:** 1 GCs 15/10, Cart, Chest (containing 5 GCs 107/56), Clothing (colourful), Dagger, Key (for chest), Leather Jack (under clothing), Mule, Sand-Glass (times 3½ minutes), Wrestling Ring (collapsible)
+
+![Pasted image 20250413105709.png](/img/user/9_Attachments/Pasted%20image%2020250413105709.png)
