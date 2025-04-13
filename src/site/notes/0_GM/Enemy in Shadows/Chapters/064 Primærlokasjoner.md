@@ -120,7 +120,7 @@ Når karakterene første gang passerer _Doktor Malthusius’ Zoocopeia_, er det
 * _Heksejeger Alprecht Kassel_ er i byen og interessert i _Zoocopeia_. Han ønsker å avdekke om _[[Campaign/NPCs/Doctor Malthusius\|Doctor Malthusius]]_ ([[Campaign/NPCs/Doctor Malthusius\|Hans Pfleifer]]) har fanget mutanter og holdt dem fanget – en forbrytelse straffbart med døden. For å finne ut av dette, vil Kassel ansette folk som er mindre mistenkelige enn ham selv til å undersøke reiseshowet. Hvis mutanter oppdages, planlegger Kassel å bruke informasjonen til å presse Malthusius til å bli med i hans sak som en del av _Sølvspirene_ – en hemmelig kult dedikert til _Tzeentch_.
 ### Hovedscene: Den rømte goblinen
 Karakterenes oppmerksomhet fanges av en voksende folkemengde og showeierens drønende stemme mens han samler tilskuere:  
-«Kom nærmere, kom nærmere! Om én time vil dere oppleve det mest originalt forbløffende zoologiske kuriositetskabinettet noensinne vist i vårt strålende imperium!»
+«Kom nærmere, kom nærmere! Dere vil nå kunne oppleve det mest originalt forbløffende zoologiske kuriositetskabinettet noensinne vist i vårt strålende Imperium!»
 
 «Velkommen til _Doktor Malthusius’ Zoocopeia_! Samlet fra verdens ukjente hjørner til uhyrlige kostnader for deres underholdning og opplysning! Det uvanlige! Det bisarre! Til og med det lett motbydelige! Dette vil dere aldri se maken til, mine venner – ikke om dere lever i tusen år!»
 
