@@ -13,8 +13,8 @@ Home: [[NPCs\|NPCs]]
 
 **Talents:**
 
-**Traits:** [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (choose one), [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] ([[World/Races/Greenskin\|Greenskins]]), [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (choose one), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] + 7
+**Traits:** [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (choose one), [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] ([[World/Races/Greenskin\|Greenskins]]), [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (choose one), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] + 7
 
 **Trappings:**
 
-**Optional:** [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Ranged (trait)\|Ranged (trait)]] + 8 (50)
+**Optional:** [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Armed Ranged\|Armed Ranged]] + 8 (50)

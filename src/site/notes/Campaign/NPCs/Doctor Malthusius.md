@@ -14,7 +14,7 @@ Han er kanskje ikke den høyeste mannen eller den mest kjekke, men øynene hans 
 
 **Talents:** [[Rules/Talents/Attractive\|Attractive]], [[Rules/Talents/Criminal\|Criminal]] 3, [[Rules/Talents/Mimic\|Mimic]], [[Rules/Talents/Secret Identity\|Secret Identity]]
 
-**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (People who think they are better than him), [[World/Bestiary/Traits/Ranged (trait)\|Ranged (trait)]] (Whip 6) +4, [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Dagger) +4
+**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (People who think they are better than him), [[World/Bestiary/Traits/Armed Ranged\|Armed Ranged]] (Whip 6) +4, [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Dagger) +4
 
 **Trappings:** Chest (containing 4 GCs 38/56), Clothes (gaudy but worn), Dagger, Key (for the chest), Whip, Zoocopeia
 

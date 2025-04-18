@@ -10,9 +10,9 @@ Som skjeletter er zombier udøde skapninger gjenopplivet og bundet sammen av ure
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 15  | -   | 30  | 30  | 5   | 10  | 15  | -   | -   | -   | 12  |
 
-**Traits:** [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision (trait)\|Dark Vision (trait)]], [[World/Bestiary/Traits/Fear (trait)\|Fear (trait)]] 2, [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+7
+**Traits:** [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]], [[World/Bestiary/Traits/Feared\|Feared]] 2, [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+7
 
-**Optional:** [[Rules/Trappings/Armour/Armour\|Armour]], [[World/Bestiary/Traits/Corrupted (trait)\|Corrupted (trait)]] (Minor), [[World/Bestiary/Traits/Disease (trait)\|Disease (trait)]], [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infestation\|Infestation]], [[World/Bestiary/Traits/Territorial\|Territorial]]
+**Optional:** [[Rules/Trappings/Armour/Armour\|Armour]], [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Diseased\|Diseased]], [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
 ![Pasted image 20250412145328.png](/img/user/9_Attachments/Pasted%20image%2020250412145328.png)
 ### De urolige døde

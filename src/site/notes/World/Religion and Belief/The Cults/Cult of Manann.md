@@ -4,7 +4,7 @@
 
 Home: [[World/Religion and Belief/The Cults/The Cults\|The Cults]]
 
-**Seat of Power:** [[Marienburg\|Marienburg]], [[World/Other Nations/Wasteland\|Wasteland]]
+**Seat of Power:** [[World/Other Nations/Marienburg/Marienburg\|Marienburg]], [[World/Other Nations/Wasteland/Wasteland\|Wasteland]]
 **Head of the Cult:** [[Matriarch of the Sea\|Matriarch of the Sea]]
 **Primary Orders:** [[Order of the Albatross\|Order of the Albatross]], [[Order of the Mariner\|Order of the Mariner]]
 **Major Festivals:** [[Spring Equinox\|Spring Equinox]], [[Automn Equinox\|Automn Equinox]]

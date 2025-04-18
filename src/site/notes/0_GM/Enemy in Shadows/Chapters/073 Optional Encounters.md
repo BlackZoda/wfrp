@@ -40,7 +40,7 @@ I en hovedsjakt kan karakterene bare unngå å utløse muggens sporfrigjøring v
 * **Rød mugg:** Sporskyen varer i 3 runder. Karakterer i det berørte området må utføre en _utfordrende_ (+0) _[[Rules/Skills/Endurance\|Endurance]]_-test eller få 1 _[[Rules/Conditions/Blinded\|Blinded]]_-tilstand, pluss ytterligere +1 _[[Rules/Conditions/Blinded\|Blinded]]_-tilstand per −SL.
 * **Gul mugg:** Sporskyen varer i 1d10 runder. Karakterer i det berørte området må utføre en _middels vanskelig_ (+20) _[[Rules/Skills/Endurance\|Endurance]]_-test eller få 1 _[[Rules/Conditions/Blinded\|Blinded]]_-tilstand, pluss ytterligere +1 _[[Rules/Conditions/Blinded\|Blinded]]_-tilstand per −SL. I tillegg mister alle karakterer 1 _[[Rules/Injuries/Wound\|Wound]]_ for hver runde de tilbringer i skyen, uavhengig av modifikatorer.
 ### Rotter
-Eventyrerne forstyrrer en sverm med rotter. Den velter nedover kloakken mot karakterene og leverer 1 angrep med WS 25 og _[[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] +4_-egenskapen mot hver karakter den passerer, før den forsvinner inn i ulike små hull og sprekk. Støvler teller som 1 rustningspoeng mot dette angrepet.
+Eventyrerne forstyrrer en sverm med rotter. Den velter nedover kloakken mot karakterene og leverer 1 angrep med WS 25 og _[[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] +4_-egenskapen mot hver karakter den passerer, før den forsvinner inn i ulike små hull og sprekk. Støvler teller som 1 rustningspoeng mot dette angrepet.
 
 Deretter må hver karakter bestå en _utfordrende_ (+0) _[[Rules/Skills/Dodge\|Dodge]]_-test eller falle i avløpsvannet mens de prøver å unngå de pipende rottene, og de får også en _[[Rules/Conditions/Prone\|Prone]]_-tilstand.
 ### Kloakktyv

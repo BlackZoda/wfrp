@@ -194,13 +194,13 @@ CurrentWounds = max(Wounds - WoundsLost, 0) =>
 ## [[Rules/Trappings/Trappings\|Trappings]]
 | Name            | Enc |
 | --------------- | --- |
-| [[Clothing\|Clothing]]    | 0   |
+| [[Campaign/Items/Clothing\|Clothing]]    | 0   |
 | [[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]      | 0   |
-| [[Pouch\|Pouch]]       | 0   |
-| [[Sling Bag\|Sling Bag]]   | 1   |
+| [[Campaign/Items/Pouch\|Pouch]]       | 0   |
+| [[Campaign/Items/Sling Bag\|Sling Bag]]   | 1   |
 | [[Candles\|Candles]]     | 0   |
 | 10x [[Matches\|Matches]] | 0   |
-| [[Hood\|Hood]]        | 0   |
+| [[Campaign/Items/Hood\|Hood]]        | 0   |
 | [[Bottle of Liqor\|Bottle of Liqor]]                | 0    |
 
 [[Rules/Tables/Encumberance Table\|Encumberance Table]]

@@ -14,7 +14,7 @@ Skiferøyde Grunni er langt mer lurvet i utseendet enn arbeidsgiveren sin. Han k
 
 **Talents:**
 
-**Traits:** [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Lowhaven Halflings), [[World/Bestiary/Traits/Hardy (trait)\|Hardy (trait)]], [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Greenskins), [[World/Bestiary/Traits/Magic Resistance (trait)\|Magic Resistance (trait)]], [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Everybody), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Dagger +6), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Pointy Stick) +4
+**Traits:** [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Lowhaven Halflings), [[World/Bestiary/Traits/Hardy (trait)\|Hardy (trait)]], [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Greenskins), [[World/Bestiary/Traits/Magic Resistance (trait)\|Magic Resistance (trait)]], [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Everybody), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Dagger +6), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Pointy Stick) +4
 
 **Trappings:**
 

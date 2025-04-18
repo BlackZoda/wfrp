@@ -15,8 +15,8 @@ Home: [[NPCs\|NPCs]]
 
 **Talents:**
 
-**Traits:** [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[Rules/Attributes/Size\|Size]] ([[Rules/Attributes/Small\|Small]]), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] + 5
+**Traits:** [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[Rules/Attributes/Size\|Size]] ([[Rules/Attributes/Small\|Small]]), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] + 5
 
 **Trappings:**
 
-**Optional:** [[World/Bestiary/Traits/Ranged (trait)\|Ranged (trait)]] + 7 (25), [[World/Bestiary/Traits/Stealthy\|Stealthy]]
+**Optional:** [[World/Bestiary/Traits/Armed Ranged\|Armed Ranged]] + 7 (25), [[World/Bestiary/Traits/Stealthy\|Stealthy]]

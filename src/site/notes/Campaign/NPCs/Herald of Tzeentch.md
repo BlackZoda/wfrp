@@ -12,4 +12,4 @@ Hvis den snakker, kommer vokter-demonen sin stemme i fnisende fragmenter mens hu
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 39  | 49  | 49  | 39  | 39  | 59  | 39  | 49  | 99  | 19  | 19  |
 
-**Traits:** [[World/Bestiary/Traits/Corrupted (trait)\|Corrupted (trait)]]] (Moderate), [[World/Bestiary/Traits/Daemonic\|Daemonic]] 8+, [[World/Bestiary/Traits/Fear (trait)\|Fear (trait)]] 2, [[World/Bestiary/Traits/Horns\|Horns]] +8, [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Territorial\|Territorial]] (Hidden Temple), [[World/Bestiary/Traits/Unstable\|Unstable]] (Outside of Hidden Temple), [[Rules/Trappings/Weapons/Weapon\|Weapon]] +9
+**Traits:** [[World/Bestiary/Traits/Corrupted\|Corrupted]]] (Moderate), [[World/Bestiary/Traits/Daemonic\|Daemonic]] 8+, [[World/Bestiary/Traits/Feared\|Feared]] 2, [[World/Bestiary/Traits/Horns\|Horns]] +8, [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Territorial\|Territorial]] (Hidden Temple), [[World/Bestiary/Traits/Unstable\|Unstable]] (Outside of Hidden Temple), [[Rules/Trappings/Weapons/Weapon\|Weapon]] +9

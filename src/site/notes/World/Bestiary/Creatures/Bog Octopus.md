@@ -11,8 +11,8 @@ Sumpblekkspruter lurer i grunne farvann, vanligvis i myr- og sumpområder. De ve
 | 3   | 35  | -   | 80  | 75  | 15  | 55  | -   | 5   | 65  | 0   | 56  |
 
 
-**Traits:** [[World/Bestiary/Traits/Amphibious\|Amphibious]], [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Constrictor\|Constrictor]], [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Stealthy\|Stealthy]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], 8×[[World/Bestiary/Traits/Tentacles\|Tentacles]]+9
+**Traits:** [[World/Bestiary/Traits/Amphibious\|Amphibious]], [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Constrictor\|Constrictor]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Stealthy\|Stealthy]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], 8×[[World/Bestiary/Traits/Tentacles\|Tentacles]]+9
 
-**Optional:** [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Enormous\|Enormous]]–[[Rules/Attributes/Monstrous\|Monstrous]]), [[World/Bestiary/Traits/Territorial\|Territorial]]
+**Optional:** [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Enormous\|Enormous]]–[[Rules/Attributes/Monstrous\|Monstrous]]), [[World/Bestiary/Traits/Territorial\|Territorial]]
 
 ![Pasted image 20250412122807.png](/img/user/9_Attachments/Pasted%20image%2020250412122807.png)

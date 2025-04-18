@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Tables/Size Table/"}
 ---
 
-Home: [[World/Bestiary/Traits/Size (trait)\|Size (trait)]], [[0_GM/GM Screen/Sections/Tables\|Tables]]
+Home: [[World/Bestiary/Traits/Sized\|Sized]], [[0_GM/GM Screen/Sections/Tables\|Tables]]
 
 | Size          | Examples                                  |
 | ------------- | ----------------------------------------- |

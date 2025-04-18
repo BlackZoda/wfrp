@@ -10,7 +10,7 @@ Heldigvis sjeldne er mantikorer ubønnhørlig brutale, drevet av et behov for å
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6   | 55  | -   | 55  | 55  | 50  | 65  | -   | 10  | 35  | -   | 72  |
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] 2, [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Bite\|Bite]]+9, [[Rules/Magic/Spells/Arcane Spells/Flight\|Flight]] 80, [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Enormous\|Enormous]]), [[World/Bestiary/Traits/Tail Attack\|Tail Attack]]+8, [[World/Bestiary/Traits/Territorial\|Territorial]], [[World/Bestiary/Traits/Venom\|Venom]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+9
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 2, [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Bite\|Bite]]+9, [[Rules/Magic/Spells/Arcane Spells/Flight\|Flight]] 80, [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Enormous\|Enormous]]), [[World/Bestiary/Traits/Tail Attack\|Tail Attack]]+8, [[World/Bestiary/Traits/Territorial\|Territorial]], [[World/Bestiary/Traits/Venom\|Venom]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+9
 
 **Trappings:** [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Predators), [[Rules/Mutations/Mutation\|Mutation]], [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Magic, Mount)
 

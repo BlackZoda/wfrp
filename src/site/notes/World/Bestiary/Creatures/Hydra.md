@@ -10,7 +10,7 @@ Den mangehodede, øgleaktige Hydraen har en massiv kropp som bærer en labyrint 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6   | 45  | -   | 50  | 55  | 15  | 35  | -   | 15  | 25  | -   | 68  |
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] 3, [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Breath (trait)\|Breath (trait)]]+10 (Fire), [[World/Bestiary/Traits/Constrictor\|Constrictor]], [[Rules/Talents/Night Vision\|Night Vision]], [[World/Bestiary/Traits/Regenerate (trait)\|Regenerate (trait)]], [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Enormous\|Enormous]]), [[World/Bestiary/Traits/Stealthy\|Stealthy]], [[World/Bestiary/Traits/Stride\|Stride]], [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+9
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 3, [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Breathing\|Breathing]]+10 (Fire), [[World/Bestiary/Traits/Constrictor\|Constrictor]], [[Rules/Talents/Night Vision\|Night Vision]], [[World/Bestiary/Traits/Regenerate (trait)\|Regenerate (trait)]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Enormous\|Enormous]]), [[World/Bestiary/Traits/Stealthy\|Stealthy]], [[World/Bestiary/Traits/Stride\|Stride]], [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+9
 
 **Trappings:** [[World/Bestiary/Traits/Belligerent\|Belligerent]], [[World/Bestiary/Traits/Territorial\|Territorial]], [[World/Bestiary/Traits/Venom\|Venom]]
 

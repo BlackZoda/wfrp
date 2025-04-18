@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/Rules/Economy/Bargaining and Trading/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]], [[World/The Empire/Imperiet\|Imperiet]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]], [[World/The Empire/The Empire\|The Empire]]
 
-People of [[World/The Empire/Imperiet\|Imperiet]] love a good bargain, and crowds of eagershoppers fill town squares every day looking for the best deals. When buying goods, there are two primary [[Skills\|Skills]] to Test: [[Rules/Skills/Evaluate\|Evaluate]] and [[Rules/Skills/Haggle\|Haggle]].
+People of [[World/The Empire/The Empire\|The Empire]] love a good bargain, and crowds of eagershoppers fill town squares every day looking for the best deals. When buying goods, there are two primary [[Skills\|Skills]] to Test: [[Rules/Skills/Evaluate\|Evaluate]] and [[Rules/Skills/Haggle\|Haggle]].
 
 [[Rules/Skills/Evaluate\|Evaluate]] is used by consumers to identify the quality of an item (see [[Rules/Economy/Craftmanship\|Craftmanship]]). Similarly, the vendor can use [[Rules/Skills/Evaluate\|Evaluate]] to appraise coins for their echange value, or spot counterfeits. Anyone can also use Evaluate to estimate the prices of [[Rare\|Rare]] or [[Exotic\|Exotic]] items to within +/- 10%.
 

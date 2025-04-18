@@ -10,8 +10,8 @@ Frambrakt av trollmenn fra myrers og sumpers søle, er _Fenbeasts_ tilsynelate
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5   | 35  | -   | 50  | 10  | 15  | 15  | 10  | -   | -   | -   | 40  |
 
-**Traits:** [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision (trait)\|Dark Vision (trait)]], [[World/Bestiary/Traits/Die Hard\|Die Hard]], [[World/Bestiary/Traits/Infected\|Infected]], [[Rules/Magic/Spells/Life Spells/Regenerate\|Regenerate]], [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Large\|Large]]), [[Stupidity\|Stupidity]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+8
+**Traits:** [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]], [[World/Bestiary/Traits/Die Hard\|Die Hard]], [[World/Bestiary/Traits/Infected\|Infected]], [[Rules/Magic/Spells/Life Spells/Regenerate\|Regenerate]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[Stupidity\|Stupidity]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+8
 
-**Optional:** [[World/Bestiary/Traits/Frenzy (Trait)\|Frenzy (Trait)]], [[World/Bestiary/Traits/Hungry\|Hungry]], [[World/Bestiary/Traits/Infestation\|Infestation]], [[World/Bestiary/Traits/Territorial\|Territorial]]
+**Optional:** [[World/Bestiary/Traits/Frenzied\|Frenzied]], [[World/Bestiary/Traits/Hungry\|Hungry]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
 ![Pasted image 20250412125700.png](/img/user/9_Attachments/Pasted%20image%2020250412125700.png)

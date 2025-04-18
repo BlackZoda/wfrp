@@ -12,7 +12,7 @@ Fimir-samfunnet er matriarkalsk. Lederen for hver klan er en mektig heks kalt _
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6   | 35  | 20  | 45  | 40  | 30  | 20  | 20  | 30  | 30  | 15  | 30  |
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] 2, [[World/Bestiary/Traits/Cold-blooded\|Cold-blooded]], [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+8
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 2, [[World/Bestiary/Traits/Cold-blooded\|Cold-blooded]], [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+8
 
 **Optional:** [[World/Bestiary/Traits/Tail Attack\|Tail Attack]]+7, [[World/Bestiary/Traits/Spellcaster\|Spellcaster]] ([[Rules/Magic/Spells/Daemonology/Lore of Daemonology Spells\|Daemonology]])
 

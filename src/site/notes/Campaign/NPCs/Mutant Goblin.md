@@ -16,6 +16,6 @@ Doktor Malthusius vet at det er ulovlig å holde en mutant (eller i det minste v
 
 **Talents:**
 
-**Traits:** [[World/Bestiary/Traits/Afraid\|Afraid]] (Dwarfs, Elves), [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Everyone), [[Rules/Trappings/Weapons/Quaity/Fast\|Fast]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Mutation (trait)\|Mutation (trait)]] (Extra Leg, Profane Urgency), [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] (Small), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Teeth and Claws) +5
+**Traits:** [[World/Bestiary/Traits/Afraid\|Afraid]] (Dwarfs, Elves), [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Everyone), [[Rules/Trappings/Weapons/Quaity/Fast\|Fast]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Mutated\|Mutated]] (Extra Leg, Profane Urgency), [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Sized\|Sized]] (Small), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Teeth and Claws) +5
 
 **Trappings:**

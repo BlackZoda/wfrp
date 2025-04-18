@@ -14,6 +14,6 @@ It is recommended to use the supplied Characteristics for any Amoeba encountered
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 30  | -   | 40  | 40  | -   | 20  | 10  | -   | -   | -   | 16  |
 
-**Traits:** [[World/Bestiary/Traits/Absorb\|Absorb]], [[World/Bestiary/Traits/Amorphous\|Amorphous]], [[World/Bestiary/Traits/Amphibious\|Amphibious]], [[Engulfing\|Engulfing]], [[World/Bestiary/Traits/Mindless\|Mindless]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], 2 [[World/Bestiary/Traits/Tentacles\|Tentacles]] +6, [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] +6
+**Traits:** [[World/Bestiary/Traits/Absorb\|Absorb]], [[World/Bestiary/Traits/Amorphous\|Amorphous]], [[World/Bestiary/Traits/Amphibious\|Amphibious]], [[Engulfing\|Engulfing]], [[World/Bestiary/Traits/Mindless\|Mindless]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], 2 [[World/Bestiary/Traits/Tentacles\|Tentacles]] +6, [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] +6
 
-**Optional:** [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] (Large–Enormous), 3+ [[World/Bestiary/Traits/Tentacles\|Tentacles]], [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Venom\|Venom]] (Average–Hard)
+**Optional:** [[World/Bestiary/Traits/Sized\|Sized]] (Large–Enormous), 3+ [[World/Bestiary/Traits/Tentacles\|Tentacles]], [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Venom\|Venom]] (Average–Hard)

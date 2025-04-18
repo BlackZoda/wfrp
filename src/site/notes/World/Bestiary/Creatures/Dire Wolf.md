@@ -10,8 +10,8 @@ Når jorden gir slipp på de døde, er det ikke bare mennesker som reiser seg; m
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 9   | 30  | -   | 35  | 35  | 30  | 30  | -   | -   | -   | -   | 24  |
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] 1, [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision (trait)\|Dark Vision (trait)]], [[World/Bestiary/Traits/Fear (trait)\|Fear (trait)]] 2, [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Stride\|Stride]], [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+6
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 1, [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]], [[World/Bestiary/Traits/Feared\|Feared]] 2, [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Stride\|Stride]], [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+6
 
-**Trappings:** [[World/Bestiary/Traits/Corrupted (trait)\|Corrupted (trait)]] (Minor), [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Territorial\|Territorial]]
+**Trappings:** [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
 ![Pasted image 20250412145616.png](/img/user/9_Attachments/Pasted%20image%2020250412145616.png)

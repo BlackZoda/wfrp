@@ -12,6 +12,10 @@ Learned people who use their educationto make a living. Often, Academics are the
 * [[Rules/Career/Nun\|Nun]]
 * [[Rules/Career/Physician\|Physician]]
 * [[Rules/Career/Priest\|Priest]]
+	* [[Rules/Career/Thief-Priest\|Thief-Priest]]
+	* [[Rules/Career/Gambler-Priest\|Gambler-Priest]]
+	* [[Trickster-Priest\|Trickster-Priest]]
+	* [[Liberator-Priest\|Liberator-Priest]]
 * [[Rules/Career/Scholar\|Scholar]]
 * [[Rules/Career/Wizard\|Wizard]]
 	* Hierophant

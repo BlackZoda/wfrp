@@ -26,6 +26,6 @@ Både Teugen og Gideon mistenker Steinhägers plan, men ser ingen grunn til ikke
 
 **Talents:** [[Rules/Talents/Blather\|Blather]], [[Rules/Talents/Briber\|Briber]] 4, [[Rules/Talents/Coolheaded\|Coolheaded]], [[Rules/Talents/Dealmaker\|Dealmaker]] 3, [[Rules/Talents/Doomed\|Doomed]] (From below It comes), [[Rules/Talents/Etiquette\|Etiquette]] (Guilder) 3, [[Rules/Talents/Hardy\|Hardy]], [[Rules/Talents/Petty Magic\|Petty Magic]] ([[Magic Alarm\|Magic Alarm]], [[Magic Lock\|Magic Lock]]), [[Rules/Talents/ReadWrite\|ReadWrite]], [[Rules/Talents/Savvy\|Savvy]], [[Rules/Talents/Schemer\|Schemer]] 3, [[Rules/Talents/Suave\|Suave]], [[Rules/Talents/Very Resilient\|Very Resilient]], [[Rules/Talents/Wealthy\|Wealthy]] 10
 
-**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (The Poor), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Cosh) +9
+**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (The Poor), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Cosh) +9
 
 **Trappings:** House Steinhäger, Merchant Clothing (Best Quality)

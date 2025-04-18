@@ -16,7 +16,7 @@ Verstand er fra seg selv, drikker tungt og river ut det som gjenstår av det gr�
 
 **Talents:** [[Rules/Talents/Acute Sense\|Acute Sense]] (Sight), [[Rules/Talents/Beneath Notice\|Beneath Notice]], [[Rules/Talents/Etiquette\|Etiquette]] (Servants) 2, [[Rules/Talents/Savvy\|Savvy]], [[Rules/Talents/Well-Prepared\|Well-prepared]] 3
 
-**Traits:** [[World/Bestiary/Traits/Afraid\|Afraid]] (Lady Kirstin Gottlieb), [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Lady Kirstin Gottlieb), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Fists) +4
+**Traits:** [[World/Bestiary/Traits/Afraid\|Afraid]] (Lady Kirstin Gottlieb), [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Lady Kirstin Gottlieb), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Fists) +4
 
 **Trappings:** Floor Brush, Quality Livery, Storm Lantern, Tinderbox and Lantern Oil, 5d10 silver shillings
 ### En mann for alle formål

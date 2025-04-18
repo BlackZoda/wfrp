@@ -10,7 +10,7 @@ Pegasuser er statlige hvite hester med svanelignende vinger. De er utholdende og
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8   | 35  | -   | 45  | 40  | 30  | 45  | -   | 20  | 25  | -   | 28  |
 
-**Traits:** [[Rules/Magic/Spells/Arcane Spells/Flight\|Flight]] 100, [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Stride\|Stride]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+7
+**Traits:** [[Rules/Magic/Spells/Arcane Spells/Flight\|Flight]] 100, [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Stride\|Stride]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+7
 
 **Trappings:** [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Drive, Magic, Mount, War)
 

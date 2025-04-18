@@ -12,9 +12,9 @@ Orker kan vokse til enorm størrelse, der større orker er sterkere, mer hardfø
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 35  | 30  | 35  | 45  | 20  | 25  | 20  | 25  | 35  | 20  | 14  |
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] 3, [[World/Bestiary/Traits/Belligerent\|Belligerent]], [[World/Bestiary/Traits/Die Hard\|Die Hard]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+8
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 3, [[World/Bestiary/Traits/Belligerent\|Belligerent]], [[World/Bestiary/Traits/Die Hard\|Die Hard]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+8
 
-**Optional:** [[World/Bestiary/Traits/Painless\|Painless]], [[Rules/Skills/Ranged\|Ranged]]+8 (50), [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Large\|Large]])
+**Optional:** [[World/Bestiary/Traits/Painless\|Painless]], [[Rules/Skills/Ranged\|Ranged]]+8 (50), [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]])
 
 ![Pasted image 20250412141938.png](/img/user/9_Attachments/Pasted%20image%2020250412141938.png)
 

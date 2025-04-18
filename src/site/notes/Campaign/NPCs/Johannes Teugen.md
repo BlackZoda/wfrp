@@ -16,7 +16,7 @@ Teugen er en ansett byrådsmedlem og en sentral figur i Kjøpmannslauget. Han er
 
 **Talents:** [[Rules/Talents/Acute Sense\|Acute Sense]] (Hearing), [[Rules/Talents/Arcane Magic\|Arcane Magic]] ([[Daemonology\|Daemonology]]), [[Rules/Talents/Cat-tongued\|Cat-tongued]] 2, [[Rules/Talents/Concoct\|Concoct]], [[Rules/Talents/Detect Artifact\|Detect Artifact]], [[Rules/Talents/Etiquette\|Etiquette]] (Guilder), [[Rules/Talents/Doomed\|Doomed]] (*Ranald’s tongue turns against thee*), [[Rules/Talents/Linguistics\|Linguistics]], [[Rules/Talents/Magical Sense\|Magical Sense]], [[Rules/Talents/Numismatics\|Numismatics]], [[Rules/Talents/Petty Magic\|Petty Magic]], [[Rules/Skills/Public Speaking\|Public Speaking]] 3, [[Rules/Talents/ReadWrite\|ReadWrite]], [[Rules/Talents/Second Sight\|Second Sight]], [[Rules/Talents/Super Numerate\|Super Numerate]], [[Rules/Talents/Wealthy\|Wealthy]] 9
 
-**Traits:** [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] ([[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]) +6
+**Traits:** [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] ([[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]) +6
 
 **Trappings:** Teugen er en velstående skikkelse, og hans eiendeler omfatter alt man kan forvente av noen i hans sosiale stilling. Hvis man mener Teugen bør eie noe, har han det ganske enkelt. Utenfor kontoret og hjemmet ledsages han alltid av to uniformerte livvakter iført ermede ringbrynjer, brystplater og hjelmer.
 ### Spells

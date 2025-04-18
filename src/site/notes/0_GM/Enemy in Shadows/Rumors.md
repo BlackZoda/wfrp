@@ -23,8 +23,8 @@
 18. En landsby i Reikland har blitt angrepet av en flokk blodtørstige flaggermus som drikker av beboernes blod.
 19. En mystisk fremmed med et kaosbrennemerke på hånden har blitt sett på vertshus i [[Averheim\|Averheim]].
 20. En profeti sier at en stor krig nærmer seg, og mange forbereder seg på det verste.
-21. En merkelig pest har brutt ut i [[Marienburg\|Marienburg]], og folk dør i hopetall uten noen åpenbar årsak.
-22. En demon ble angivelig påkalt i en skjult kjeller under et tempel i [[Middenheim\|Middenheim]].
+21. En merkelig pest har brutt ut i [[World/Other Nations/Marienburg/Marienburg\|Marienburg]], og folk dør i hopetall uten noen åpenbar årsak.
+22. En demon ble angivelig påkalt i en skjult kjeller under et tempel i [[World/The Empire/Fristadts/Middenheim\|Middenheim]].
 23. En kvinne som kan spå fremtiden, har dukket opp i [[0_GM/Maps/Kart – Bögenhafen\|Kart – Bögenhafen]], men noen hevder hun er en heks.
 24. En tjuv har stjålet en viktig relikvie fra tempelet i [[Talabheim\|Talabheim]], og prestene er desperate etter å få den tilbake.
 25. En gruppe kultister ble funnet utført rituelle ofringer i skogene nær [[Carroburg\|Carroburg]].
@@ -35,10 +35,10 @@
 30. Et skjult skattekart har blitt funnet i en gammel bok, og mange leter etter den skjulte formuen.
 31. En gruppe ulver har blitt sett bevege seg nærmere landsbyene i [[Talabecland\|Talabecland]], som om de ble drevet av en ukjent kraft.
 32. En karavane med gull fra [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]] til Altdorf har forsvunnet sporløst.
-33. En kvinnelig ridder fra [[World/Other Nations/Bretonnia\|Bretonnia]] har kommet til Imperiet på jakt etter en forsvunnet hellig relikvie.
-34. En sjørøverskatt ligger begravet et sted i nærheten av [[Marienburg\|Marienburg]], men ingen vet nøyaktig hvor.
+33. En kvinnelig ridder fra [[World/Other Nations/Bretonnia/Bretonnia\|Bretonnia]] har kommet til Imperiet på jakt etter en forsvunnet hellig relikvie.
+34. En sjørøverskatt ligger begravet et sted i nærheten av [[World/Other Nations/Marienburg/Marienburg\|Marienburg]], men ingen vet nøyaktig hvor.
 35. En trollmann i [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] hevder å kunne kontrollere vær, og mange frykter hans makt.
-36. En flokk varger har herjet landsbyene i [[Hochland\|Hochland]], og ingen vet hvordan de skal stoppe dem.
+36. En flokk varger har herjet landsbyene i [[World/The Empire/Electorial Provinces/Hochland/Hochland\|Hochland]], og ingen vet hvordan de skal stoppe dem.
 37. En gruppe alver fra [[Ulthuan\|Ulthuan]] har blitt sett i skogene i [[Loren\|Loren]], og mange spekulerer på hva de planlegger.
 38. En legendarisk sverdduelist har vendt tilbake fra dødens rand, og mange ønsker å utfordre ham.
 39. En vakker kvinne i rødt har blitt sett i nærheten av Altdorf, og de som ser henne blir aldri sett igjen.
@@ -55,7 +55,7 @@
 50. En gruppe dverger leter etter en gammel stamme som forsvant i [[Karak Kadrin\|Karak Kadrin]].
 51. En mystisk lykt har blitt sett flygende over [[Drakwald\|Drakwald]], og noen sier det er et ånd som søker hevn.
 52. En vakker melodi kan høres fra dypet av [[World/The Empire/Forests and Hills/Great Forest\|Great Forest]], og de som følger den, forsvinner.
-53. En smed i [[Middenheim\|Middenheim]] hevder å kunne smi magiske våpen, men ingen vet om det er sant.
+53. En smed i [[World/The Empire/Fristadts/Middenheim\|Middenheim]] hevder å kunne smi magiske våpen, men ingen vet om det er sant.
 54. En gruppe barbarer har kommet ned fra nord og truer grenseområdene i Imperiet.
 55. En tapt magisk bok har blitt funnet, og mange trollmenn søker etter dens hemmeligheter.
 56. En profeti sier at en stor helt vil stige frem fra [[Talabecland\|Talabecland]], men ingen vet hvem det vil være.
@@ -69,7 +69,7 @@
 64. En mystisk kvinne med rødt hår har blitt sett vandre gjennom skogene, og de som følger henne, forsvinner.
 65. En gruppe nekromantikere har begynt å samle en hær av døde i [[Stirland\|Stirland]].
 66. En mystisk eliksir som gir udødelighet sies å være skjult et sted i [[World/The Empire/Mountains and Peaks/Grey Mountains\|Grey Mountains]].
-67. En demon har besatt en høytstående adelsmann i [[Middenheim\|Middenheim]], og ingen vet hvordan de skal få den ut.
+67. En demon har besatt en høytstående adelsmann i [[World/The Empire/Fristadts/Middenheim\|Middenheim]], og ingen vet hvordan de skal få den ut.
 68. En skjult landsby av mutanter har blitt oppdaget i [[Drakwald\|Drakwald]], og mange frykter dem.
 69. En gammel kriger med et magisk sverd har kommet tilbake fra dødens rand for å kjempe igjen.
 70. En mystisk portal til en annen dimensjon har blitt oppdaget i en grotte nær [[Talabheim\|Talabheim]].
@@ -77,7 +77,7 @@
 72. En gruppe dverger søker etter en tapt gruve full av edelstener i [[World/Other Nations/World's Edge Mountains\|World's Edge Mountains]].
 73. En demonisk skygge hjemsøker en gammel ruin i [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]], og ingen tør å gå nær.
 74. En profeti sier at en stor flom vil ødelegge [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]], og mange forbereder seg på det verste.
-75. En gruppe vampyrer har infiltrert adelen i [[Middenheim\|Middenheim]], og ingen vet hvem de kan stole på.
+75. En gruppe vampyrer har infiltrert adelen i [[World/The Empire/Fristadts/Middenheim\|Middenheim]], og ingen vet hvem de kan stole på.
 76. En mystisk mann med en magisk stav har blitt sett vandre gjennom skogene i [[Loren\|Loren]].
 77. En gammel legende sier at en stor skatt ligger begravet under et gammelt tempel i [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]].
 78. En kriger fra øst har kommet til Imperiet på jakt etter en gammel relikvie.
@@ -122,8 +122,8 @@
 ## Chasing Shadows
 Følgende sladder kan samles inn fra NPC-er i Bögenhafen. Ingen enkeltperson kan gi alt; karakterene må snakke med flere NPC-er, både viktige og mindre betydningsfulle, før de kan samle all informasjonen. Ingen av opplysningene er spesielt hemmelige, og kan vanligvis skaffes med en vellykket _gjennomsnittlig_ (+20) [[Rules/Skills/Gossip\|Gossip]]-test.
 * Adressene til de store handelshusene på [[Adel Ring\|Adel Ring]] (se side 90) er kjent av de fleste byfolk. På [[Adel Ring\|Adel Ring]] har hvert gods familiens symbol klart synlig på portstolpene.
-* Ordfører og byrådsleder Magirius er medlem av [[Campaign/Organizations/Kjøpmannslauget (Bögenhafen)\|Kjøpmannslauget (Bögenhafen)]]. Hans familie er den mest fremtredende blant de mindre handelshusene i byen. Magirius kan ofte finnes på laugets lokaler.
+* Ordfører og byrådsleder Magirius er medlem av [[Campaign/Organizations/Kjøpmannslauget i Bögenhafen\|Kjøpmannslauget i Bögenhafen]]. Hans familie er den mest fremtredende blant de mindre handelshusene i byen. Magirius kan ofte finnes på laugets lokaler.
 * Haagen, Ruggbroder, Steinhäger, and Teugen are the town’s leading merchant families. The information given in the section [[Handelsfamilier (Bögenhafen)\|Handelsfamilier (Bögenhafen)]] (see page 119) is common knowledge.
-* Johannes er overhode for Teugen-familien, en ledende byrådsmedlem og mester for [[Campaign/Organizations/Kjøpmannslauget (Bögenhafen)\|Kjøpmannslauget (Bögenhafen)]]. Han ble født for 50 år siden som andre sønn av Friedrich og Gunnhilde Teugen. Hans eldre bror Karl overtok som familieoverhode etter Friedrichs død, og Johannes dro for å studere som akademiker ved _Universitetet i [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]]_. Da Karl døde for to år siden, returnerte Johannes til Bögenhafen og overtok familiebedriften – og snudde dramatisk den nedgangen familiens økonomi hadde lidd under Karls ledelse.
+* Johannes er overhode for Teugen-familien, en ledende byrådsmedlem og mester for [[Campaign/Organizations/Kjøpmannslauget i Bögenhafen\|Kjøpmannslauget i Bögenhafen]]. Han ble født for 50 år siden som andre sønn av Friedrich og Gunnhilde Teugen. Hans eldre bror Karl overtok som familieoverhode etter Friedrichs død, og Johannes dro for å studere som akademiker ved _Universitetet i [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]]_. Da Karl døde for to år siden, returnerte Johannes til Bögenhafen og overtok familiebedriften – og snudde dramatisk den nedgangen familiens økonomi hadde lidd under Karls ledelse.
 * Kun velstående borgere med handelskontakter vil i det hele tatt ha hørt om Gideon. De tror han er en fjern slektning av Johannes Teugen. Han kom først til byen sammen med [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]] da han returnerte fra [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]].
 * De fleste benekter å ha hørt om samfunnet, uavhengig av om de kjenner til dets eksistens. Hvis en karakter med _[[Secret Language\|Secret Language]] (Guilder)_-ferdigheten søker opp yngre handelsmenn, vil en vellykket _utfordrende_ (+0) _[[Rules/Skills/Gossip\|Gossip]]_-test gi samme informasjon om selskapets veldedige aktiviteter som [[Campaign/NPCs/Friedrich Magirius\|Friedrich Magirius]] opplyser (se side 99).

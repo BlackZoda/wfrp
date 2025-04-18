@@ -17,7 +17,7 @@ Targets of [[Rules/Magic/Spells/Spells\|Spells]] from the Lore of Tzeentch are r
 * [[Rules/Magic/Spells/Chaos Spells/Blue Fire of Tzeentch\|Blue Fire of Tzeentch]]
 * [[Rules/Magic/Spells/Chaos Spells/Bolt of Change\|Bolt of Change]]
 * [[Rules/Magic/Spells/Chaos Spells/The Flickering Flames of Fickle Fate\|The Flickering Flames of Fickle Fate]]
-* [[Master of Fortune\|Master of Fortune]]
+* [[Rules/Magic/Spells/Chaos Spells/Master of Fortune\|Master of Fortune]]
 * [[Rules/Magic/Spells/Chaos Spells/Mindfire\|Mindfire]]
 * [[Rules/Magic/Spells/Chaos Spells/Pink Fire of Tzeentch\|Pink Fire of Tzeentch]]
 * [[Rules/Magic/Spells/Chaos Spells/Sense of Skein\|Sense of Skein]]

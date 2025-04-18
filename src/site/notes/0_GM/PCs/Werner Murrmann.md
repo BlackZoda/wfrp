@@ -77,15 +77,15 @@ Home: [[Characters\|Characters]]
 | ----------------------- | --- |
 | [[Chalk\|Chalk]]               | –   |
 | [[Hooded Cloak\|Hooded Cloak]]        |     |
-| [[Clothing\|Clothing]]            |     |
+| [[Campaign/Items/Clothing\|Clothing]]            |     |
 | [[Rules/Trappings/Weapons/Melee Weapon/Dagger\|Dagger]]              |     |
 | 2 [[Rules/Trappings/Weapons/Ranged Weapon/Throwing Axe\|Throwing Axe]]      |     |
 | [[Sword\|Sword]]               |     |
 | Hat, [[Helmet\|Helmet]]         |     |
 | [[Rules/Trappings/Armour/Leather Jerkin\|Leather Jerkin]]      |     |
-| [[Pouch\|Pouch]]               |     |
+| [[Campaign/Items/Pouch\|Pouch]]               |     |
 | 10 [[Rags\|Rags]]             |     |
-| [[Sling Bag\|Sling Bag]]           |     |
+| [[Campaign/Items/Sling Bag\|Sling Bag]]           |     |
 | [[Lunch\|Lunch]]               |     |
 | [[Flask of Herbal Tea\|Flask of Herbal Tea]] |     |
 ## [[Rules/Trappings/Weapons/Weapon\|Weapons]]

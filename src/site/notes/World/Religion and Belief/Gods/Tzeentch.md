@@ -8,7 +8,7 @@ Home: [[World/Religion and Belief/Gods/Chaos Gods\|Chaos Gods]]
 
 Tzeentch is the most enigmatic of the four [[World/Religion and Belief/Chaos\|Ruinous Powers]]. He symbolises the potential of [[World/Religion and Belief/Chaos\|Chaos]] to bring about change in defiance of natural and mortal laws, from bodily mutation to political revolution.
 
-The cult of [[Campaign/Organizations/Den Lilla Hånden\|The Purple Hand]] is the most powerful and extensive cult of Tzeentch in [[World/The Empire/Imperiet\|Imperiet]], but it’s not the only one. As the Changer of the Ways, Tzeentch is popular with [[World/Bestiary/Creatures/Mutant\|Mutant]]s, but his worship also appeals to those who crave more money, power, or knowledge. He also welcomes the devotion of those who hunger for change: political, societal, or in personal circumstances.
+The cult of [[Campaign/Organizations/Den Lilla Hånden\|The Purple Hand]] is the most powerful and extensive cult of Tzeentch in [[World/The Empire/The Empire\|The Empire]], but it’s not the only one. As the Changer of the Ways, Tzeentch is popular with [[World/Bestiary/Creatures/Mutant\|Mutant]]s, but his worship also appeals to those who crave more money, power, or knowledge. He also welcomes the devotion of those who hunger for change: political, societal, or in personal circumstances.
 
 Most cults of Tzeentch are committed to the subversion and overthrow of the Empire, whether they know it or not. While the stated goals of one cult may be very different from those of another, some experts have suggested that each cult forms a part of a vast and intricate pattern. Further study of this hypothesis, and indeed, any serious assessment of the threat the Tzeentch cults pose to the Empire, is not easy.
 

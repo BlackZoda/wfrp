@@ -9,4 +9,4 @@ Home: [[Rules/Magic/Spells/Arcane Spells/Arcane Spells\|Arcane Spells]]
 **Target:** You
 **Duration:** [[Rules/Attributes/Willpower (WP)\|Willpower]] Bonus [[Rules/Combat/Round\|Rounds]]
 
-You boost your [[Rules/Talents/Second Sight\|Second Sight]] to assist your mudane senses. While the spell is active, gain the [[Rules/Magic/Spells/Arcane Spells/Dark Vision\|Dark Vision]] [[World/Bestiary/Creature Traits\|Creature Trait]].
+You boost your [[Rules/Talents/Second Sight\|Second Sight]] to assist your mudane senses. While the spell is active, gain the [[Rules/Magic/Spells/Arcane Spells/Dark Vision\|Rules/Magic/Spells/Arcane Spells/Dark Vision]] [[World/Bestiary/Creature Traits\|Creature Trait]].

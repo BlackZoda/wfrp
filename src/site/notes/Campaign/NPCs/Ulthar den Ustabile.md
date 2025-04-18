@@ -11,7 +11,7 @@ Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/08 Chasing Shadows\|08 Ch
 
 **Talents:** [[Rules/Talents/Alley Cat\|Alley Cat]], [[Rules/Talents/Beneath Notice\|Beneath Notice]], [[Rules/Talents/Blather\|Blather]] 2, [[Rules/Talents/ReadWrite\|ReadWrite]], [[Rules/Talents/Super Numerate\|Super Numerate]], [[Rules/Talents/Panhandle\|Panhandle]] 2, [[Rules/Talents/Speedreader\|Speedreader]] 4, [[Rules/Talents/Stone Soup\|Stone Soup]] 3
 
-**Traits:** [[World/Bestiary/Traits/Infestation\|Infestation]] (Several), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Staff ) +7
+**Traits:** [[World/Bestiary/Traits/Infested\|Infested]] (Several), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Staff ) +7
 
 **Trappings:** Begging Bowl, Blanket (half rotten), Book (A heavily annotated Deus Sigmar), Cup (Chipped), Fleas and bugs of all kinds, Pet (Karl the Cockroach), Staff (Crude)
 

@@ -4,7 +4,7 @@
 
 Home: [[World/Religion and Belief/The Cults/The Cults\|The Cults]]
 
-**Seat of Power:** [[Luccini\|Luccini]], [[World/Other Nations/Tilea\|Tilea]]
+**Seat of Power:** [[Luccini\|Luccini]], [[World/Other Nations/Tilea/Tilea\|Tilea]]
 **Head of the Cult:** [[Custode del Portale\|Custode del Portale]]
 **Primary Orders:** [[Order of the Shroud\|Order of the Shroud]], [[Order of the Black Guard\|Order of the Black Guard]], [[Order of the Augurs\|Order of the Augurs]]
 **Major Festivals:** [[Hexensnacht\|Hexensnacht]], [[Geheimisnacht\|Geheimisnacht]]

@@ -10,7 +10,7 @@ Spøkelser er åndene til pinefulle sjeler som døde med uavsluttede gjøremål.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6   | 30  | -   | 30  | 30  | 10  | 30  | 20  | 15  | 15  | -   | 10  |
 
-**Traits:** [[World/Bestiary/Traits/Dark Vision (trait)\|Dark Vision (trait)]], [[World/Bestiary/Traits/Ethereal\|Ethereal]], [[World/Bestiary/Traits/Fear (trait)\|Fear (trait)]] 2, [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+6
+**Traits:** [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]], [[World/Bestiary/Traits/Ethereal\|Ethereal]], [[World/Bestiary/Traits/Feared\|Feared]] 2, [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+6
 
 **Trappings:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]], [[World/Bestiary/Traits/Swarm\|Swarm]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 

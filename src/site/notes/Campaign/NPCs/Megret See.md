@@ -21,7 +21,7 @@ En spinkel kvinne i 50-årene med grånende blondt hår og skifergrå øyne, 'My
 
 **Talents:** [[Rules/Talents/Acute Sense\|Acute Sense]] (Sight), [[Rules/Talents/Attractive\|Attractive]], [[Rules/Talents/Detect Artifact\|Detect Artifact]], [[Rules/Talents/Doomed\|Doomed]] (A surprise ye shalt have), [[Rules/Talents/Hardy\|Hardy]], [[Rules/Talents/Holy Visions\|Holy Visions]] 4, [[Rules/Talents/Luck\|Luck]] 3, [[Rules/Talents/Nose for Trouble\|Nose for Trouble]], [[Rules/Talents/ReadWrite\|ReadWrite]], [[Rules/Talents/Petty Magic\|Petty Magic]] ([[Rules/Magic/Spells/Petty Spells/Animal Friend\|Animal Friend]], [[Rules/Magic/Spells/Petty Spells/Bearings\|Bearings]], [[Rules/Magic/Spells/Petty Spells/Eavesdrop\|Eavesdrop]], [[Rules/Magic/Spells/Petty Spells/Sly Hands\|Sly Hands]], [[Rules/Magic/Spells/Petty Spells/Warning\|Warning]]), [[Rules/Talents/Savvy\|Savvy]], [[Rules/Talents/Second Sight\|Second Sight]], [[Rules/Talents/Sixth Sense\|Sixth Sense]] 3, [[Rules/Talents/Suave\|Suave]], [[Rules/Talents/Rover\|Rover]], [[Wellprepared\|Wellprepared]] 4
 
-**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Those who ignore her), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Dagger) +4
+**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Those who ignore her), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Dagger) +4
 
 **Trappings:** 34/12, Amulets (large selection), Bedroll, Jewellery (cheap and gaudy), Pack of Cards (Reiklander Tarock), Slingbag, Tent (blue and white)
 

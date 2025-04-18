@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/World/The Empire/Legal/Law/"}
 ---
 
-Home: [[World/The Empire/Imperiet\|Imperiet]]
+Home: [[World/The Empire/The Empire\|The Empire]]
 
 The various law enforcement agencies have more than enough to keep them busy. Most of those needed are provided by the [[State Army\|State Army]], such as [[Rules/Career/Road Warden\|Road Warden]]s, and local town and city [[Watch\|Watch]]s, and similar. These institutions often operate on the principle of a suspect being guilty until proven innocent. People, especially rootless adventurers with no local ties, must be very careful when dealing with the law. Even if they are innocent, failing to show  proper respect to law officers, or doing anything that law officers might find even mildly irritating, is a sure way to get arrested.
 

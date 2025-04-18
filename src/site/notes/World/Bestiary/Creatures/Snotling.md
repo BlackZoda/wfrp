@@ -10,7 +10,7 @@ Ertehjerne-skapninger lik entusiastiske, ukontrollerte valper. Snotlinger er åt
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 25  | 15  | 25  | 20  | 20  | 30  | -   | 15  | 30  | -   | 6   |
 
-**Traits:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Small\|Small]]), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+4
+**Traits:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Small\|Small]]), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+4
 
 **Optional:** [[World/Bestiary/Traits/Swarm\|Swarm]], [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Fetch, Guard), [[World/Bestiary/Traits/Venom\|Venom]]
 

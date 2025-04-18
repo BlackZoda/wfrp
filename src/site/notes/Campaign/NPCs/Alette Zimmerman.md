@@ -14,7 +14,7 @@ Når de høystående snakker om de laveste – i sine mest bittre og fordomsfull
 
 **Talents:** [[Rules/Talents/Alley Cat\|Alley Cat]], [[Rules/Talents/Break and Enter\|Break and Enter]], [[Rules/Talents/Criminal\|Criminal]], [[Rules/Talents/Flee!\|Flee!]], [[Rules/Talents/Luck\|Luck]], [[Rules/Talents/Night Vision\|Night Vision]], [[Rules/Talents/Shadow\|Shadow]]
 
-**Traits:** [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Law Enforcement), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Crowbar) +5
+**Traits:** [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Law Enforcement), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Crowbar) +5
 
 **Trappings:** Crowbar, Leather Jerkin, Rope, Sack, Trade Tools (Thief ), 6d10 brass pennies
 ### **I klisteret som falskmynter**

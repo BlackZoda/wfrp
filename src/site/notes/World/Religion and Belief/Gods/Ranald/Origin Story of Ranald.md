@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/World/Religion and Belief/Gods/Ranald/Origin Story of Ranald/"}
+---
+
+Home: [[World/Religion and Belief/The Cults/Cult of Ranald\|Cult of Ranald]]
+
+Upon a Bezahltag evening, it is my habit to retire to the sallon bar of *The Crown and Two Chairmen* ith Professor Gronighof and Professor Pfaff and converse over a fe pints of Braakbroew ale. On such occasions it is our custom to discuss an esoteric matter decided upon at the ind of previous week’s sessions. Last week Gronighof put it to us that a fascinating topic would be origin stories told of the trickster Ranald, and hich roguish tendency of his followers endorsed with legend. I rather suspect Gronighof, who is alleged to have spent his younger days breaking into the catacombs of Nehekharan pyramids, has had cause to cross his fingers and seek the trickster’s benedictions more than once. Pfaff, predictably, dencounced Ranald and his works like the good pious Sigmarite he so often insists to be, but he deigned to attend, nevertheless.
+
+As it was, once we had settled into our seats and consumed a pint of the Wastelad’s finest, it was Pfaff who first broached the issue, though it seems to me he did so in order to frame the conversation within the context of damning followers of Ranald as slothful, blasphemous, and unlettered.
+
+“Of course, there is no official account of the origins of the Night Prowler,” he claimed, “his followers are either unable to write, or fearful of public scrutiny. I have heard many tales of the Night Prowler’s origins, and frangly, the one to which I attach most credence has it that he is an unintended by-blow of the machinations of the Dark Powers. A legend of the savage Bjornling Norse has it that those most henious of daemonic powers once waged war upon each other, and the Bloody God of Slaughter turned his axe on the Inconstant God of Sorcery and smote two of the fingers from his left hand. These fell from the hellish realm and landed in Marienburg, of all places, and one finger on top of the other in the shape of cross. Just as the fingers touched the muddy gound, they turned into the form of a man, ho sprang up as none other than the Night Prowler. He set out to corrupt people with the promise of enearned luck, the prospect of ill-gotten gains, and the unearned satisfaction of disrespecting authority.”
+
+Gronighof and I caught each other’s eye. Pfaff’s students complain that his lectures turn into sermons, and in my experience, a little ale only exacerbates this issue.
+
+“No doubt this account is shared by genteel folk such as yourself.” Gronighof said, “but of course, the tale most commonly told of how the Trickster came to be numbered among the gods that of how he fooled Shallya.”
+
+“A calumny beloved of cozeners and bandits!” Piaff was clearly unwilling to entertain this tale, but Gronighof persisted.
+
+“According to the legend, Ranald was once a mortal bandit roaming the wilds around Bordeleaux. Far from your typical Bretonnian brigand, he was cunning, dashing, and never brutal, using his wits to rob the rich and give to the poor. Gentle Shallya noticed this outlaw’s compassion towards the needy, and loved him for it. One day, Ranald stole tapestries from a greedy duke’s castle, who had barred his gates while the peasants outside died from a plague sent by the Lord of Flies. The outlaw succumbed to the pox himself and lay dying. Shallya could not bear to see her beloved taken from the world, so she let him sip from her holy chalice. The outlaw sprang from his deathbed, now a god himself. He looked at Shallya and laughed. His illness had been guile invented to trick her into granting him immortality. Ranald kissed her hand, bowed, and skipped away to tease the gods for eternity.”
+
+“A dreadful tale, providing a terrible example to the youth,” said Pfaff, but now it was my turn to tell a tale. I had found in the university library a colection of Tilean and Estallian folktales (*A Compendium of the Rustic Notions and Hedge Theology of the Southern Realms of the Old World*, The Empress Agnetha Univeristy of Nuln Press 2474 IC). It included a story of how Ranald had been a young ne’er-do-well from the city of Luccini. He boasted he could make the god Morr smile – and he challanged the sullen god of death that, were he do be successful, Morr would not take him through his gate when he died but elevate him to godhood. Morr accepted this wager because, as the text states, “the god of death always needs cheering up”. He summoned Ranald to his gloomy gardens of black roses, and in front of an audience of a thousand departed souls, the young mortal told Morr a joke so funny that one side of the death god’s mouth lifted just a fraction. Sadly, the joke itself has been lost, but Ranald was elevated to godhood, just as Morr promised.
+
+Pfaff was even less impressed with my recollection of this fable that than he was with Fronighof’s. “There will come a day,” he intoned, as grim as Morr himself, “when you will have to beg entrance to that god's realm of shades and may have to account for treating such impieties with such levity.”
+
+Bug Gronighof was energised by my story. “I have another!” He said. “Of ho Rhya hid the Trickster!”
+
+“And so the Old Gods are not safe from your scurrilous gossiping either!”
+
+“This I have from a student who heard it from a friend who visited Khypris in the Border Princedoms. Taal, thegod of the wilds and the beasts, was creating a particularly inticate mountain range, and Rhya as alone in their bower at the heart of the world. The Grey Wind knows as Ulgu blew through the land and when Rhya went to the river to fetch herself diring water she discovered a babe, crying by the riverbank. She passed into the mortal world and hid the infant fot in Al-Haikk. Ranald grew up around mortals, not knowing the identity of his mother until the day he snuck into the realms of the gods to take up his rightful place in the pantheon.”
+
+“The worst slander yet!” Pfaff rose from his chair. “I’ll take my leave now and you to may continue to utter such lunacies to one another ithout fear of my continued vexation. I shall see you next week, and, it being my turn to choose a topic for discussion, we will meditate on the lives and times of the historical Grand Theogonists and thier importance to the cohersion and moral fabric of our great Empire.”
+
+I tried to molify the professor, for he can be amusing and enlightening company despite his umbrages. I pointed out that in 2305 IC, Ranald’s cult briefly experienced respectability when Magnus the Pious instituted the Grand Conclave, where priests of the major religions met every five years to discuss their disputes and threats to the Empire. Whilst there was shock and disapproval when Magnus invited a priest of Ranald to attend, invite them he did.
+
+But Pfaff wasn’t having it. “It goes to show that even the greatest men may blunder,” he said as he pulled on his cloak.
+
+Gronighof became rather more enthused about the legends of Ranald in Pfaff’s absence and soon my misgivings about having alienated our colleague were forgotten.
+
+“The Trickster is worshipped through deeds that emulate the god’s own legends rather than in contemplation or prayer.” He claimed “Whenever Ranaldians gather, or when a priest meets other followers, they tell stories of Ranald’s exploit’s – old tales they know well, new tales they have heard, and perhaps a few they’ve made up themselves. The very act of sharing stories of Ranald’s adventures is considered a form of worship by these people – it imparts spiritual lessons, bringing the worshipper closer to their god and spreading his creed.”
+
+He doned his tankard of Braakbreow, and the dregs left at the bottom of Pfaff’s abandoned tankard, and a chaser of fiery Eilhart Obstler before continuing.
+
+“The most important stories of Ranald are always those legends that made the trickster famous. Rather like great jokes, the most popular tales have two qualities – they reveal the core of Ranald’s essence, and they compel the listener to repeat them to others. In this manner, legends of Ranald spread from inn to barracks to marketplace to a noble’s table Every listener feels entertained, while the essence of the tales imparts a fraction of Ranald’s mischief and trickery into their minds.”
+
+I was confuse myself as to the age of these tales. Whatever Ranald’s origins, people have worshipped him throughout the Old World for at least two thousand years. The Verenan monastery of Eyrie has lledgers in its library, which date from 752 IC. Within their pages is an entry where a forgotten Nulner clerk complains of the ‘petty thievery of the Magpie cultists.’ Similarly, in Talabheim, lawmakers executed a priest spreading subversive tales of the ‘Prince of Cats’ in 910 IC.
+
+Gronighof agreed. “The cult has been present since those times, if not even earlier, usually out of sight. Invoking Ranald’s name for luck is a long-held tradition, even amongst those who disapprove of the god. I sear I have seen Professor Pfaff cross his fingers before meeting ith the Chancellor about the relevancy of his syllabus and whether any of his lectures might clash ith those of a less tedious speaker. Open worship Ranald has always been rare, which is why his followers have left such little trace in the historical record.”
+
+I am sure the conversation would have continued, but we were interrupted by two of the doormen whodo such a good job of ensuring students and riff-raff are prevented from drinking in *The Mattheus II*, and rather roughly escorted from the premises.
+
+Gronighof tried to remonstrate ith them, and I heard them mutter about our having tried to settle our last bill with gold coin which turns out to have been made of lead. I’m afraid fistcuffs ensued between Gonighof and the men, who were more than a match for the inebraited scholar. So, as it was, I could make little sense of the matter of the forged coin and never really got to the bottom of it. I was left to heave the dead weight of a stupefied and beeding Professor Marius von Gronghof back to his dormitory. He is a liability at times – though I was able to wonder at his marvelous private collection of Nehekharian artefacts.

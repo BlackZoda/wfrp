@@ -11,6 +11,6 @@ Home [[0_GM/GM Screen/Sections/Rules\|Rules]]
 * [[Rules/Tables/Mental Corruption Table\|Mental Corruption Table]]
 * [[Rules/Mutations/Mutation\|Mutation]]
 
-Every Festag, [[World/Religion and Belief/The Cults/Cult of Sigmar\|Sigmarite]] priests preach from high pulpits about the dangers of the [[Ruinous Powers\|Ruinous Powers]], about how good folk must avoid the temptations of [[Daemon\|Daemon]] whispering from every shadow. They declare all souls are in perpetual peril, mere footsteps from falling to corruption and mutation. And they might be right.
+Every Festag, [[World/Religion and Belief/The Cults/Cult of Sigmar\|Sigmarite]] priests preach from high pulpits about the dangers of the [[Ruinous Powers\|Ruinous Powers]], about how good folk must avoid the temptations of [[World/Bestiary/Daemons\|Daemons]] whispering from every shadow. They declare all souls are in perpetual peril, mere footsteps from falling to corruption and mutation. And they might be right.
 
 Corruption points are used to show the slow, gradual slip of your soul to the [[Dark Gods\|Dark Gods]] of [[World/Religion and Belief/Chaos\|Chaos]]. Whenever you are exposed to a potential source of corruption, you may accrue [[Corruption Points\|Corruption Points]]. The more you have, the closer you are drawing to [[World/Religion and Belief/Chaos\|Chaos]], and the darker your soul becomes until, eventually, you change…

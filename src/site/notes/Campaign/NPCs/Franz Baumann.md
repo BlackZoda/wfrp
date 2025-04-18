@@ -5,7 +5,7 @@
 Home: [[NPCs\|NPCs]], [[0_GM/Enemy in Shadows/Chapters/074 Primary Locations\|074 Primary Locations]]
 ## Franz Bauman – Human/Priest of Ranald (gold 1)
 ### Ledelsen
-Baumann er en slank mann i midten av 30-årene med fettete hår og brune øyne. Han er ‘ledelsen’ i _De Korslagte Spyd_ og et høytstående medlem av _[[World/Religion and Belief/Gods/Ranald\|Ranald]]an [[Campaign/Organizations/Crooked Fingers\|Crooked Fingers]]_. Han er en sjarmerende skurk som foretrekker å unngå vold hvis mulig. Men hvis han føler at mannskapet hans risikerer å bli avslørt på noen måte, er han langt mindre fredelig. Han har gode forbindelser i byens underverden, og takket være et nettverk av utpressing, trusler og ‘spesielle avtaler’ har han en overraskende bred innflytelse på alle nivåer.
+Baumann er en slank mann i midten av 30-årene med fettete hår og brune øyne. Han er ‘ledelsen’ i _De Korslagte Spyd_ og et høytstående medlem av _[[World/Religion and Belief/Gods/Ranald\|Ranald]]an [[World/Religion and Belief/Gods/Ranald/Crooked Fingers\|Crooked Fingers]]_. Han er en sjarmerende skurk som foretrekker å unngå vold hvis mulig. Men hvis han føler at mannskapet hans risikerer å bli avslørt på noen måte, er han langt mindre fredelig. Han har gode forbindelser i byens underverden, og takket være et nettverk av utpressing, trusler og ‘spesielle avtaler’ har han en overraskende bred innflytelse på alle nivåer.
 
 For enhver karakter som vinner hans vennskap, blir han en svært nyttig beskytter, kilde eller mentor. Han snakker med en avslappet gate-Reikland-dialekt og renser ofte neglene sine med dolken.
 
@@ -19,7 +19,7 @@ _Merk:_ Baumann har ingen [[World/Religion and Belief/Blessings/Blessings\|Ble
 
 **Talents:** [[Rules/Talents/Acute Sense\|Acute Sense]] (Touch), [[Rules/Talents/Alley Cat\|Alley Cat]], [[Rules/Talents/Ambidextrous\|Ambidextrous]], Blather 2, Break and Enter 3, Criminal 7, Doomed (From the darkness it comes), Etiquette (Criminals) 2, Fast Hands, Flee!, Read/Write, Savvy, Shadow, Strike to Stun, Suave
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] (Leathers) 1, [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Cosh) +7
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] (Leathers) 1, [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Cosh) +7
 
 **Trappings:** Basic Weapon (Cosh), Book (The Riddles Ten), the Crossed Pikes, Dagger, Trade Tools (Thief), Strange Silver Coin with a black Cross engraved
 

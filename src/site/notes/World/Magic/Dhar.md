@@ -13,7 +13,7 @@ The following is a brief list of example sources of Dhar, which typically provid
 * [[World/Religion and Belief/Chaos\|Chaos]] Temple, Monolith or Holy Site
 * Broken [[Waystone\|Waystone]] (or [[World/Races/Beastman\|Beastman]] [[Herdstone\|Herdstone]])
 * Creatures or artefacts that are suffused with *Dhar*
-* [[World/Races/Skaven\|Skaven]], [[Necromancer\|Necromancer]]s, or [[World/Bestiary/Creatures/Vampire\|Vampire]] Lair.
+* [[Skaven\|Skaven]], [[Necromancer\|Necromancer]]s, or [[World/Bestiary/Creatures/Vampire\|Vampire]] Lair.
 
 * [[Rules/Magic/Channelling/Channelling Dhar\|Channelling Dhar]]
 * [[Rules/Magic/Casting/Casting Spells with Dhar\|Casting Spells with Dhar]]

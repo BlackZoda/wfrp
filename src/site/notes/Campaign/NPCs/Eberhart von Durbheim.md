@@ -17,7 +17,7 @@ Mens karakterene sitter til et måltid på en skysstasjon, begynner en trubadur 
 
 **Talents:** [[Rules/Talents/Attractive\|Attractive]], [[Rules/Talents/Carouser\|Carouser]], [[Rules/Talents/Noble Blood\|Noble Blood]], [[Rules/Talents/Suave\|Suave]], [[Rules/Talents/ReadWrite\|ReadWrite]]
 
-**Traits:** [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Foil and Main Gauche) +6
+**Traits:** [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Foil and Main Gauche) +6
 
 **Trappings:** Quality Courtly Garb, Foil, Harp, Quality Jewellery, Main Gauche, Valet, 3 gold crowns
 ### Status Quo

@@ -6,7 +6,7 @@
 * [[0_GM/GM Screen/GM Screen\|GM Screen]]
 ## Verden
 * [[World/Other Nations/Den Gamle Verden\|Den Gamle Verden]]
-* [[World/The Empire/Imperiet\|Imperiet]]
+* [[World/The Empire/The Empire\|The Empire]]
 ## Den indre fienden
 * [[0_GM/Enemy in Shadows/Rumors\|Rumors]]
 ### Fiender i Skyggene

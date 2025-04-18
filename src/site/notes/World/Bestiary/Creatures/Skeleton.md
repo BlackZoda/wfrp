@@ -10,9 +10,9 @@ Skjeletter er kjøttløse beinrester fra de lenge døde, gjenopplivet av svart m
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 25  | 25  | 30  | 30  | 25  | 25  | 25  | -   | -   | -   | 12  |
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] 2, [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision (trait)\|Dark Vision (trait)]], [[World/Bestiary/Traits/Fear (trait)\|Fear (trait)]] 2, [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]]+7
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 2, [[World/Bestiary/Traits/Construct\|Construct]], [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]], [[World/Bestiary/Traits/Feared\|Feared]] 2, [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+7
 
-**Trappings:** [[World/Bestiary/Traits/Corrupted (trait)\|Corrupted (trait)]] (Minor), [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Territorial\|Territorial]]
+**Trappings:** [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
 ![Pasted image 20250412144259.png](/img/user/9_Attachments/Pasted%20image%2020250412144259.png)
 ### Den er levende! Levende!  

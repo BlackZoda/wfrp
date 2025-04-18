@@ -9,7 +9,7 @@ Blessings are minor manifestations of divine will; a character with the [[Rules/
 >[!info] Petty Concerns
 >The gods grow irritated when the Blessed abuse their privileges. If the GM wishes, multiple uses of Blessings and Miracles in the same scene, on the same injury, on the same target, or similar can anger the gods, and result in [[World/Religion and Belief/Strictures/Sin Points\|Sin Points]], typically ranging from 1 to 3.
 ## Success Levels
-For every +2 SL ou score in a [[Rules/Skills/Pray\|Pray]] [[Rules/Tests/Tests\|Tests]] when attempting a Blessing, you may choose one of the following benefits:
+For every +2 SL you score in a [[Rules/Skills/Pray\|Pray]] [[Rules/Tests/Tests\|Tests]] when attempting a Blessing, you may choose one of the following benefits:
 
 * **Range:** +6 yards
 * **Target:** +1

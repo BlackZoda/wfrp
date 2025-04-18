@@ -6,7 +6,7 @@ Home: [[NPCs\|NPCs]]
 ## Dag 2
 Etter middag observerer Gideon karakterene nøye. Eventuelle karakterer med talentet [[Rules/Talents/Sixth Sense\|Sixth Sense]] får en følelse av å bli iakttatt, men klarer ikke å avgjøre hvem som overvåker dem. Enhver mindre NPC som karakterene avhører denne ettermiddagen har stor sannsynlighet for å være død innen de kommer tilbake med flere spørsmål, men de får aldri se Gideon.
 ## Sheru-Tar Geetaru – Herald of Tzeentch
-[[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]] fikk først kontakt med demonen han kaller Gideon for åtte år siden i [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]]. Gideon ble instruert om å inngå en pakt med Teugen av sin herre, en større demon av [[World/Religion and Belief/Gods/Tzeentch\|Tzeentch]] med langtsiktige planer for [[World/The Empire/Imperiet\|Imperiet]]. Til gjengjeld for Teugens sjel skulle Gideon gi stor rikdom og velstand i syv år.
+[[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]] fikk først kontakt med demonen han kaller Gideon for åtte år siden i [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]]. Gideon ble instruert om å inngå en pakt med Teugen av sin herre, en større demon av [[World/Religion and Belief/Gods/Tzeentch\|Tzeentch]] med langtsiktige planer for [[World/The Empire/The Empire\|The Empire]]. Til gjengjeld for Teugens sjel skulle Gideon gi stor rikdom og velstand i syv år.
 
 For å lokke Teugen til å inngå avtalen, fortalte Gideon ham at hvis han kunne overtale syv andre til å delta i et ritual før de syv årene var gått, ville Gideon ta disse sjelenes i stedet for Teugens. Dette ville avslutte pakten og frigjøre Teugen fra avtalen. Etter mye debatt gikk Teugen til slutt med på det. Men uten Teugens viten vil han ikke bare aldri kunne få tilbake sjelen sin – Gideon løy om dette – men ritualet for å bytte ut syv sjeler mot hans egen åpner faktisk en port til Kaosriket – noe Gideon også løy om!
 
@@ -16,7 +16,7 @@ Gideon er en mesterillusjonist og kan anta andre former. Dens naturlige form lig
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4   | 45  | 47  | 42  | 40  | 58  | 47  | 39  | 59  | 60  | 51  | 22  |
 
-**Traits:** [[World/Bestiary/Traits/Blighted\|Blighted]] ([[Rules/Disease and Infection/Purple Brain Fever\|Purple Brain Fever]]), [[World/Bestiary/Traits/Corrupted (trait)\|Corrupted (trait)]] (Moderate), [[World/Bestiary/Traits/Daemonic\|Daemonic]] 8+, [[World/Bestiary/Traits/Fear (trait)\|Fear (trait)]] 2, [[World/Bestiary/Traits/Fleshthief\|Fleshthief]], [[World/Bestiary/Traits/Hardy (trait)\|Hardy (trait)]], [[World/Bestiary/Traits/Night Vision (trait)\|Night Vision (trait)]], [[World/Bestiary/Traits/Spellcaster\|Spellcaster]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] +9
+**Traits:** [[World/Bestiary/Traits/Blighted\|Blighted]] ([[Rules/Disease and Infection/Purple Brain Fever\|Purple Brain Fever]]), [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Moderate), [[World/Bestiary/Traits/Daemonic\|Daemonic]] 8+, [[World/Bestiary/Traits/Feared\|Feared]] 2, [[World/Bestiary/Traits/Fleshthief\|Fleshthief]], [[World/Bestiary/Traits/Hardy (trait)\|Hardy (trait)]], [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Spellcaster\|Spellcaster]], [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] +9
 
 **Trappings:** [[Campaign/Items/Ring of Opsianon\|Ring of Opsianon]]
 ### Spells

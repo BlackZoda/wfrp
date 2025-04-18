@@ -14,7 +14,7 @@ Gottri er slapp, skitten, har filtret gråsprængt hår og et filtret skjegg, sa
 
 **Talents:**
 
-**Traits:** [[Addict\|Addict]] (Alcohol), [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Children), [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Greenskins), [[World/Bestiary/Traits/Infestation\|Infestation]], [[Rules/Talents/Night Vision\|Night Vision]], [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Folk who refuse to help him, the Watch), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Fists) +3
+**Traits:** [[Addict\|Addict]] (Alcohol), [[World/Bestiary/Traits/Animosity (trait)\|Animosity (trait)]] (Children), [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Greenskins), [[World/Bestiary/Traits/Infested\|Infested]], [[Rules/Talents/Night Vision\|Night Vision]], [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Folk who refuse to help him, the Watch), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Fists) +3
 
 **Trappings:** Fleas, Rags
 

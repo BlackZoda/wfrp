@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/World/The Empire/Accents/"}
 ---
 
-Home: [[World/The Empire/Imperiet\|Imperiet]], [[0_GM/GM Screen/Sections/Tables\|Tables]]
+Home: [[World/The Empire/The Empire\|The Empire]], [[0_GM/GM Screen/Sections/Tables\|Tables]]
 
 | Accents         | Guideline                                         | Norwegian        |
 | --------------- | ------------------------------------------------- | ---------------- |
 | [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]]     | Accent of your capital city                       | Oslo             |
 | [[Talabheim\|Talabheim]]   | Accent of a nearby capital city or important city | Bergen           |
-| [[Middenheim\|Middenheim]]  | Accent from a provincial city                     | Trondheim        |
+| [[World/The Empire/Fristadts/Middenheim\|Middenheim]]  | Accent from a provincial city                     | Trondheim        |
 | [[Averland\|Averland]]    | Sing-song tones                                   | Stavanger        |
-| [[Hochland\|Hochland]]    | Rustic with colloquialism                         | Hedmark/Oppland  |
+| [[World/The Empire/Electorial Provinces/Hochland/Hochland\|Hochland]]    | Rustic with colloquialism                         | Hedmark/Oppland  |
 | [[World/The Empire/Electorial Provinces/Middenland/Middenland\|Middenland]]  | Tough and direct                                  | Østfold          |
 | [[World/The Empire/Provinces/Mootland\|Mootland]]    | Thick rural accent                                | Sogn og Fjordane |
 | [[Nordland\|Nordland]]    | Aggressive and passionate                         | Finmark/Nordland |

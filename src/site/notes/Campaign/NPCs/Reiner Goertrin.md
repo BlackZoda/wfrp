@@ -16,7 +16,7 @@ Goertrin er høy og slank med hår i fargen bleket ben og et ansikt som er neste
 
 **Talents:** [[Rules/Talents/Commanding Presence\|Commanding Presence]], [[Rules/Talents/Disarm\|Disarm]] 2, [[Rules/Talents/Fearless\|Fearless]] (Criminals), [[Rules/Talents/Hardy\|Hardy]] 2, [[Rules/Talents/Menacing\|Menacing]], [[Rules/Talents/Noble Blood\|Noble Blood]], [[Rules/Talents/Public Speaker\|Public Speaker]] 4, [[Rules/Talents/Strike Mighty Blow\|Strike Mighty Blow]], [[Rules/Talents/Strike to Stun\|Strike to Stun]]
 
-**Traits:** [[World/Bestiary/Traits/Armour (trait)\|Armour (trait)]] (Sleeved Mail Shirt and Helmet) 3, [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Criminals), [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Lower Classes), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Sword) +7
+**Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] (Sleeved Mail Shirt and Helmet) 3, [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Criminals), [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Lower Classes), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Sword) +7
 
 **Trappings:** Basic Weapon (Sword), Helmet, Medallion (gold, with Bögenhafen’s coat of arms), Sleeved Mail Shirt
 

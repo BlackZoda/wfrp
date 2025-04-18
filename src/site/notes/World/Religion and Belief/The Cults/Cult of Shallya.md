@@ -4,7 +4,7 @@
 
 Home: [[World/Religion and Belief/The Cults/The Cults\|The Cults]]
 
-**Seat of Power:** [[Couronne\|Couronne]], [[World/Other Nations/Bretonnia\|Bretonnia]]
+**Seat of Power:** [[Couronne\|Couronne]], [[World/Other Nations/Bretonnia/Bretonnia\|Bretonnia]]
 **Head of the Cult:** [[Grande Matriarch\|Grande Matriarch]]
 **Primary Orders:** [[Order of the Bleeding Heart\|Order of the Bleeding Heart]], [[Order of the Chalice\|Order of the Chalice]]
 **Major Festivals:** None

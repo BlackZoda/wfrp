@@ -14,7 +14,7 @@ På slutten av 30-årene med lysbrunt hår og mørkeblå øyne har Elvyra en inn
 
 **Talents:** [[Rules/Talents/Blather\|Blather]], [[Rules/Talents/Coolheaded\|Coolheaded]], [[Rules/Talents/Concoct\|Concoct]], [[Rules/Talents/Craftsman\|Craftsman]] (Apothecary), [[Rules/Talents/Criminal\|Criminal]] 2, [[Rules/Talents/Doomed\|Doomed]] (A sister thine, shall unleash a crime), [[Rules/Talents/Etiquette\|Etiquette]] (Criminals), [[Rules/Talents/Fast Hands\|Fast Hands]], [[Rules/Talents/Field Dressing\|Field Dressing]], [[Master Tradesman\|Master Tradesman]] (Apothecary), [[Rules/Talents/Luck\|Luck]] 2, [[Rules/Talents/Pharmacist\|Pharmacist]], [[Rules/Talents/ReadWrite\|ReadWrite]], [[Rules/Talents/Resistance (Threat)\|Resistance (Threat)]] (Poison), [[Rules/Talents/Savvy\|Savvy]], [[Rules/Talents/Sharp\|Sharp]]
 
-**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Bookish folk), [[World/Bestiary/Traits/Weapon (trait)\|Weapon (trait)]] (Dagger) +4
+**Traits:** [[World/Bestiary/Traits/Prejudice (trait)\|Prejudice (trait)]] (Bookish folk), [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]] (Dagger) +4
 
 **Trappings:** Bandages (10), Chest (containing 6 GCs 17/6), Dagger, Drugs and Herbs (availability as a City), Guild Licence, Key (for chest), Healing Draughts (10), Market Stall (Collapsible), Trade Tools (Apothecary)
 

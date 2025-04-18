@@ -4,7 +4,7 @@
 
 Home: [[World/Religion and Belief/Blessings and Miracles\|Blessings and Miracles]]
 
-Miracles are major manifestations of a [[World/Religion and Belief/Gods/The Gods\|God]]’s will, awe-inspiring events everone will notice; a character with the [[Rules/Talents/Invoke (Divine Lore)\|Invoke (Divine Lore)]] [[Rules/Talents/Talent\|Talent]] canempower one of the Miraces for their cult from the following lists.
+Miracles are major manifestations of a [[World/Religion and Belief/Gods/The Gods\|God]]’s will, awe-inspiring events everone will notice; a character with the [[Rules/Talents/Invoke (Divine Lore)\|Invoke (Divine Lore)]] [[Rules/Talents/Talent\|Talent]] can empower one of the Miraces for their cult from the following lists.
 
 For every 2 Success Levels, you achieve in a Miracle [[Rules/Skills/Pray\|Pray]] [[Rules/Tests/Tests\|Tests]], you may add additional range, duration, or targets equal to the initial value listed in the *Miracle*. So, a Miracle with a range of 50 yards could be increased by an extra +50 yards for every +2 scored.
 

@@ -17,3 +17,5 @@ The **Optional** traits listed alongside each creature presents some of the most
 * [[World/Bestiary/The Restless Dead\|The Restless Dead]]
 * [[World/Bestiary/Slaves to Darkness\|Slaves to Darkness]]
 * [[World/Bestiary/Mutants in the Empire\|Mutants in the Empire]]
+
+

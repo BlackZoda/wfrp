@@ -11,4 +11,4 @@ Not having access to appropriate [[Trade Tools\|Trade Tools]] will incur a penal
 
 **Example:** *Irina has been commissioned to paint a portrait of a local noble, whose favour her party is currying. Her GM determines this requires a total of 10 SL in an **Extended Art** Test, with each Test representing a week’s work.*
 
-**Specialisations:** [[Cartography\|Cartography]], [[Engraving\|Engraving]], [[Mosaics\|Mosaics]], [[Painting\|Painting]], [[Sculpture\|Sculpture]], [[Tattoo\|Tattoo]], [[Weaving\|Weaving]]
+**Specialisations:** [[Cartography\|Cartography]], [[Engraving\|Engraving]], [[Mosaics\|Mosaics]], [[Painting\|Painting]], [[Sculpture\|Sculpture]], [[Campaign/Items/Tattoo\|Tattoo]], [[Weaving\|Weaving]]

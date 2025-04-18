@@ -18,4 +18,4 @@ Rats get everywhere and are especially prevalent in the cities and towns. The mo
 
 **Trappings:**
 
-**Optional:** [[Rules/Trappings/Armour/Armour\|Armour]] 1, [[World/Bestiary/Traits/Disease (trait)\|Disease (trait)]] ([[Rules/Disease and Infection/Ratte Fever\|Ratte Fever]] or [[Rules/Disease and Infection/The Black Plague\|The Black Plague]]), [[World/Bestiary/Traits/Size (trait)\|Size (trait)]] ([[Rules/Attributes/Little\|Little]] to [[Rules/Attributes/Average\|Average]]), [[World/Bestiary/Traits/Swarm\|Swarm]], [[World/Bestiary/Traits/Trained (War)\|Trained (War)]]
+**Optional:** [[Rules/Trappings/Armour/Armour\|Armour]] 1, [[World/Bestiary/Traits/Diseased\|Diseased]] ([[Rules/Disease and Infection/Ratte Fever\|Ratte Fever]] or [[Rules/Disease and Infection/The Black Plague\|The Black Plague]]), [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Little\|Little]] to [[Rules/Attributes/Average\|Average]]), [[World/Bestiary/Traits/Swarm\|Swarm]], [[World/Bestiary/Traits/Trained (War)\|Trained (War)]]
