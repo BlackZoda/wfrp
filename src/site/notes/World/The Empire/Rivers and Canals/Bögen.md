@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/World/The Empire/Rivers and Canals/Bögen/"}
+---
+
+Home: [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]], [[World/The Empire/Rivers and Canals/The Rivers, Canals, and Lakes of Reikland\|The Rivers, Canals, and Lakes of Reikland]]
+
+
+The people of [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]] claims [[World/Religion and Belief/Gods/Bögenauer\|Bögenauer]], their town’s patron deity, is responsible for the commerce-blessed state of the [[World/The Empire/Rivers and Canals/Bögen\|Bögen]]. A relatively placid river with a clear, smooth, but not overly swift flow, the Bögen readily allows traffic to sail upriver nearly as easily as down. Its great depth allows larger river going vessels to navigate safely from [[World/The Empire/Rivers and Canals/Reik\|The Reik]] all the way to [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]]. Though its source lies deep in the freezing peaks of the [[World/The Empire/Mountains and Peaks/Grey Mountains\|Grey Mountains]], the Bögen turns warm as it fows through the hilly [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Vorbergland\|Vorbergland]], which frequently causes heavy mists to gather along its banks. Most evenings, fingers of rolling fog rise from the Bögen, wrapping tendrils about nearby settlements and the surrounding [[World/The Empire/Forests and Hills/Reikwald\|Reikwald]]. This is frequently thick enough to obscure vision, so [[Rules/Career/Thief\|Thieves]], [[Rules/Career/Smuggler\|Smugglers]], and worse use it to conceal their nocturnal activities.
