@@ -10,4 +10,4 @@ Hatter av fin kvalitet er statussymboler i Imperiets byer og tettsteder. Jo mer 
 
 **Cost:** 12G
 **Enc:** 1
-**Availability:** [[Scarce\|Scarce]]
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]

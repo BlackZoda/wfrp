@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Soft Leather Armour\|Soft Leather Armour]]
 
 **Price:** 12/–
 **Enc:** 1
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Penalty:** –
 **Locations:** Arms, Body
 **APs:** 1

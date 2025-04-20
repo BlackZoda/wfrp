@@ -9,4 +9,4 @@ Home: [[Campaign/Items/Packs and Containers\|Packs and Containers]]
 **Cost:** 5/–
 **Enc:** 0
 **Carries:** 4
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]

@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Mail Armour\|Mail Armour]]
 
 **Price:** 1GC
 **Enc:** 2
-**Availability:** [[Scarce\|Scarce]]
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]
 **Penalty:** –10% [[Rules/Skills/Perception\|Perception]]
 **Locations:** Head
 **APs:** 2

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Skills/Skill/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 * [[Rules/Skills/Grouped Skills and Specialisation\|Grouped Skills and Specialisation]]
 * [[Rules/Skills/Skill List\|Skill List]]

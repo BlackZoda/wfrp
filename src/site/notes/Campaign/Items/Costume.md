@@ -6,4 +6,4 @@ Home: [[Campaign/Items/Clothing and Accessories\|Clothing and Accessories]]
 
 **Cost:** 1G
 **Enc:** 1
-**Availability:** [[Scarce\|Scarce]]
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]

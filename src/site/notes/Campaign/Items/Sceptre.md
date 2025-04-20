@@ -8,4 +8,4 @@ De høyest rangerte juridiske embetsmennene bærer septer for å vise sin status
 
 **Cost:** 8G
 **Enc:** 1
-**Availability:** [[Scarce\|Scarce]]
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]

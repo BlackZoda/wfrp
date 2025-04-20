@@ -11,7 +11,7 @@ Home: [[0_GM/GM Screen/Sections/Consumers’ Guide\|Consumers’ Guide]]
 
 Weapons used across the Empire vary according to provincial preference, religious requirement, individual inclination, and trusty old tradition. Here you will find a selection of the most commonly wielded melee and ranged weapons, which are presented using the following format.
 
-* **Weapon Group:** Each Weapon is listed by its Weapon Group. If a weapon is two-handed, it is marked (2H).
+* **[[Rules/Trappings/Weapons/Weapon Group\|Weapon Group]]:** Each Weapon is listed by its Weapon Group. If a weapon is two-handed, it is marked (2H).
 * **Price:** The price for an average example of the weapon.
 * **Enc:** The [[Rules/Trappings/Encumberance/Encumberance\|Encumberance]] for the weapon.
 * **Availability:** The [[Rules/Economy/Availability\|Availability]] of the weapon.

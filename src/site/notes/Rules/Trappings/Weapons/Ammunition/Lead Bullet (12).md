@@ -7,7 +7,7 @@ Home: [[Rules/Trappings/Weapons/Ammunition/Sling Ammunition\|Sling Ammunition]]
 **Weapon Group:** [[Rules/Trappings/Weapons/Ammunition/Ammunition\|Ammunition]]
 **Price:** 4d
 **Enc:** 0
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Range:** -10
 **Damage:** +1
 **Qualities and Flaws:** [[Rules/Trappings/Weapons/Weapon Quality/Pummel\|Pummel]]

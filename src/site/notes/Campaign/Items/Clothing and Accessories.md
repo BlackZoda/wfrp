@@ -8,24 +8,24 @@ Klesstiler i Imperiet varierer betydelig. Som en generell rettesnor bærer vanli
 
 | Item                 | Cost    | Enc | Availability |
 | -------------------- | ------- | --- | ------------ |
-| [[Campaign/Items/Amulets\|Amulets]]          | 2d      | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Boots\|Boots]]            | 5/_     | 1   | [[Common\|Common]]   |
-| [[Campaign/Items/Cloak\|Cloak]]            | 10/–    | 1   | [[Common\|Common]]   |
-| [[Campaign/Items/Clothing\|Clothing]]         | 6/–     | 1   | [[Common\|Common]]   |
-| [[Campaign/Items/Coat\|Coat]]             | 18/–    | 1   | [[Common\|Common]]   |
-| [[Campaign/Items/Costume\|Costume]]          | 1GC     | 1   | [[Scarce\|Scarce]]   |
-| [[Campaign/Items/Courtly Garb\|Courtly Garb]]     | 12GC    | 1   | [[Scarce\|Scarce]]   |
-| [[Campaign/Items/Face Powder\|Face Powder]]      | 10/–    | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Gloves\|Gloves]]           | 4/–     | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Hood\|Hood]]             | 5/–     | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Jewellery\|Jewellery]]        | Varies  | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Perfume\|Perfume]]          | 10/–    | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Pin\|Pin]]              | 10/–    | 0   | [[Scarce\|Scarce]]   |
-| [[Campaign/Items/Religious Symbol\|Religious Symbol]] | 6/8     | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Robes\|Robes]]            | 2GC     | 1   | [[Common\|Common]]   |
-| [[Campaign/Items/Sceptre\|Sceptre]]          | 8GC     | 1   | [[Rare\|Rare]]     |
-| [[Campaign/Items/Shoes\|Shoes]]            | 5/–     | 0   | [[Common\|Common]]   |
-| [[Campaign/Items/Signet Ring\|Signet Ring]]      | 5GC     | 0   | [[Rare\|Rare]]     |
-| [[Campaign/Items/Tattoo\|Tattoo]]           | 4/– +   | 0   | [[Scarce\|Scarce]]   |
-| [[Campaign/Items/Uniform\|Uniform]]          | 1GC 2/– | 1   | [[Scarce\|Scarce]]   |
-| [[Campaign/Items/Walking Cane\|Walking Cane]]     | 3GC     | 1   | [[Common\|Common]]   |
+| [[Campaign/Items/Amulets\|Amulets]]          | 2d      | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Boots\|Boots]]            | 5/_     | 1   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Cloak\|Cloak]]            | 10/–    | 1   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Clothing\|Clothing]]         | 6/–     | 1   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Coat\|Coat]]             | 18/–    | 1   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Costume\|Costume]]          | 1GC     | 1   | [[Rules/Economy/Scarce\|Scarce]]   |
+| [[Campaign/Items/Courtly Garb\|Courtly Garb]]     | 12GC    | 1   | [[Rules/Economy/Scarce\|Scarce]]   |
+| [[Campaign/Items/Face Powder\|Face Powder]]      | 10/–    | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Gloves\|Gloves]]           | 4/–     | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Hood\|Hood]]             | 5/–     | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Jewellery\|Jewellery]]        | Varies  | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Perfume\|Perfume]]          | 10/–    | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Pin\|Pin]]              | 10/–    | 0   | [[Rules/Economy/Scarce\|Scarce]]   |
+| [[Campaign/Items/Religious Symbol\|Religious Symbol]] | 6/8     | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Robes\|Robes]]            | 2GC     | 1   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Sceptre\|Sceptre]]          | 8GC     | 1   | [[Rules/Economy/Rare\|Rare]]     |
+| [[Campaign/Items/Shoes\|Shoes]]            | 5/–     | 0   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Signet Ring\|Signet Ring]]      | 5GC     | 0   | [[Rules/Economy/Rare\|Rare]]     |
+| [[Campaign/Items/Tattoo\|Tattoo]]           | 4/– +   | 0   | [[Rules/Economy/Scarce\|Scarce]]   |
+| [[Campaign/Items/Uniform\|Uniform]]          | 1GC 2/– | 1   | [[Rules/Economy/Scarce\|Scarce]]   |
+| [[Campaign/Items/Walking Cane\|Walking Cane]]     | 3GC     | 1   | [[Rules/Economy/Common\|Common]]   |

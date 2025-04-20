@@ -7,7 +7,7 @@ Home: [[Rules/Trappings/Weapons/Melee Weapon/Melee Weapon\|Melee Weapon]]
 **Weapon Group:** [[Rules/Trappings/Weapons/Melee Weapon/Flail Weapon\|Flail Weapon]], [[One-Handed\|One-Handed]]
 **Price:** 10/–
 **Enc:** 1
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Reach:** [[Rules/Attributes/Average\|Average]]
 **Damage:** +SB+3
 **Qualities and Flaws:** [[Rules/Trappings/Weapons/Quaity/Distract (Weapon Quality)\|Distract (Weapon Quality)]], [[Rules/Trappings/Weapons/Flaw/Imprecise\|Imprecise]], [[Rules/Trappings/Weapons/Weapon Quality/Wrap\|Wrap]]

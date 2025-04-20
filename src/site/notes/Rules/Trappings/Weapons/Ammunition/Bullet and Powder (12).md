@@ -7,7 +7,7 @@ Home: [[Rules/Trappings/Weapons/Ammunition/Blackpowder and Engineering Ammunitio
 **Weapon Group:** [[Rules/Trappings/Weapons/Ammunition/Ammunition\|Ammunition]]
 **Price:** 3/3
 **Enc:** 0
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Range:** As weapon
 **Damage:** +1
 **Qualities and Flaws:** [[Rules/Trappings/Weapons/Quaity/Impale\|Impale]], [[Rules/Trappings/Weapons/Quaity/Penetrating\|Penetrating]]

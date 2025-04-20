@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Mail Armour\|Mail Armour]]
 
 **Price:** 3GC
 **Enc:** 3
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Penalty:** –
 **Locations:** Arms, Body
 **APs:** 2

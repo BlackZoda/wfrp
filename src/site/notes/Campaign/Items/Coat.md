@@ -8,4 +8,4 @@ Beskytter brukeren mot vær og vind og ekstrem kulde; uten en god frakk eller l
 
 **Cost:** 18/–
 **Enc:** 1
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]

@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/044 What’s it all About/"}
+---
+
+Home: [[0_GM/Enemy in Shadows/Chapters/04 On to Bögenhafen\|04 On to Bögenhafen]]
+
+Fra denne informasjonen kan eventyrerne trekke følgende slutninger, viss de ikke har kommet til dem allerede. Viss noen spillere er trege med å forstå hvor viktig brevet er, så kan du dem ta en **Average (+20) [[Rules/Attributes/Intelligence (Int)\|Intelligence]]** Test for å resonere seg til føgende konklusjoner.
+* Den krafige mannens navn var [[Campaign/NPCs/Adolphus Kuftsos\|Adolphus Kuftsos]]. Fremtidige forespørsler hos lovens lange arm kan bekrefte at han var en vellrespektert dusørjeger.
+* Han var på sporet etter noen fra en hemmelig orden av noe slag, som hadde tittelen “magister impedimantae”. Enhver karakter som kan lese klassisk kan automatisk vite at tittelen betyr “forskyningsmester”, som antyder at han på en eller annen måte var ansvarlig for å sikre og ivareta forskyninger.
+* Magister Impedimentae’en sitt navn var [[Campaign/Plot/Kastor Lieberung\|Kastor Lieberung]]. Han var den samme personen som de fant liket til, når de fant brevet som sendte dem i retning Bögenhafen.
+* Det faktum at han reiste til [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] fra [[World/The Empire/Fristadts/Middenheim\|Middenheim]] kan være pga. en plan lagt av denne [[Campaign/NPCs/Adolphus Kuftsos\|Adolphus Kuftsos]].
+* Eventyrerne er kanskje fremdeles forvirret i forhold til de to mennene Adolphus drepte i [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]]. De kan godt ha forstått at han fyrte av de to boltene som drepte dem. Viss de kroppsvisiterte dem og fant Lilla Hånd tatoveringene deres, så kan de kanskje konkludere med at det er et tegn for den hemmelige ordenen nevnt i brevet.
+* Med litt kreativitet, så kan karakterene innse – eller mistenke – at brevet fra Lock, Stock og Barl i [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]] var et agn, konstruert av [[Campaign/NPCs/Adolphus Kuftsos\|Adolphus Kuftsos]] for å lokke [[Campaign/Plot/Kastor Lieberung\|Kastor Lieberung]] i en felle. De vil kanskje bestemme seg for å unngå [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]] og dra et annet sted eller de vil kanskje konkludere med at kontorene til [[Lock, Stock, and Barl\|Lock, Stock, and Barl]] i [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]] er det eneste sporet de har om hva som foregår.

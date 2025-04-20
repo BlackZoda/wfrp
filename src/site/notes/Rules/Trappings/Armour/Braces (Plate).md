@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Plate Armour\|Plate Armour]]
 
 **Price:** 8GC
 **Enc:** 3
-**Availability:** [[Rare\|Rare]]
+**Availability:** [[Rules/Economy/Rare\|Rare]]
 **Penalty:** –
 **Locations:** Arms
 **APs:** 2

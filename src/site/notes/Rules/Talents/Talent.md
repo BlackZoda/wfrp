@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Talents/Talent/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 * [[Rules/Talents/Talent List\|Talent List]]
 

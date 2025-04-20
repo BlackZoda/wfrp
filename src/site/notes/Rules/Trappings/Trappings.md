@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Trappings/Trappings/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 Your Trappings are the equipment, clothes, weapons, and other items your character carries. You begin with initial Trappings determined by your [[Rules/Class/Class\|Class]] and [[Rules/Career/Career\|Career]]. If you want to buy more (or sellwhat you already have!), refer to the [[0_GM/GM Screen/Sections/Consumers’ Guide\|Consumers’ Guide]].
 

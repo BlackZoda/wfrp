@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Mail Armour\|Mail Armour]]
 
 **Price:** 2GC
 **Enc:** 3
-**Availability:** [[Scarce\|Scarce]]
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]
 **Penalty:** –
 **Locations:** Legs
 **APs:** 2

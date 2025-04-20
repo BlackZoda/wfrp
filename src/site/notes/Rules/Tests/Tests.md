@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Tests/Tests/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 * [[Rules/Tests/Simple Test\|Simple Test]]
 * [[Rules/Tests/Automatic Failure and Success\|Automatic Failure and Success]]

@@ -8,4 +8,4 @@ Polerte trestokker med metallbeslag er statussymboler blant velstående byfolk.
 
 **Cost:** 3G
 **Enc:** 1
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]

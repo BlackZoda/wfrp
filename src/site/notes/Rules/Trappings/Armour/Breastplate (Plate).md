@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Plate Armour\|Plate Armour]]
 
 **Price:** 10GC
 **Enc:** 3
-**Availability:** [[Scarce\|Scarce]]
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]
 **Penalty:** –
 **Locations:** Body
 **APs:** 2

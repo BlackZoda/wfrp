@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Tables/Attributes Table/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Tables\|Tables]], [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Tables\|Tables]], [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 * [[Rules/Attributes/Determine Characteristics\|Determine Characteristics]]
 

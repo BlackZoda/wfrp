@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/World/Religion and Belief/Religion and Belief/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 * [[World/Religion and Belief/Gods/The Gods\|The Gods]]
 * [[World/Religion and Belief/The Cults/The Cults\|The Cults]]

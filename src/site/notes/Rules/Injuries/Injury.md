@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Injuries/Injury/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 Almost all characters will suffer injuries during the course of play. The injury rules show you how to deal with them and how to heal them, when possible.
 

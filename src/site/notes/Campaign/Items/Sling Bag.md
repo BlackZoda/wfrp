@@ -9,4 +9,4 @@ Regnes som «på kroppen» når den henges over skulderen.
 **Cost:** 1/–
 **Enc:** 1
 **Carries:** 2
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]

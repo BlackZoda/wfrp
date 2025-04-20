@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Plate Armour\|Plate Armour]]
 
 **Price:** 10GC
 **Enc:** 3
-**Availability:** [[Rare\|Rare]]
+**Availability:** [[Rules/Economy/Rare\|Rare]]
 **Penalty:** –10 [[Rules/Skills/Stealth\|Stealth]]
 **Locations:** Legs
 **APs:** 2

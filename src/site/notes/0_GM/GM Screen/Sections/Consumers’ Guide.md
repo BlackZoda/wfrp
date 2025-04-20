@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/GM Screen/Sections/Consumers’ Guide/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
 
 * [[Rules/Economy/Money\|Money]]
 * [[Rules/Economy/The Cost of Living\|The Cost of Living]]
@@ -21,3 +21,4 @@ Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 * [[Campaign/Items/Packs and Containers\|Packs and Containers]]
 * [[Campaign/Items/Clothing and Accessories\|Clothing and Accessories]]
 * [[Campaign/Items/Food, Drink, and Lodging\|Food, Drink, and Lodging]]
+* [[Campaign/Items/Tools and Kits\|Tools and Kits]]

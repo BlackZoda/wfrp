@@ -9,4 +9,4 @@ Krever én hånd å bære.
 **Cost:** 1/–
 **Enc:** 2
 **Carries:** 4
-**Availability:** [[Common\|Common]] 
+**Availability:** [[Rules/Economy/Common\|Common]] 

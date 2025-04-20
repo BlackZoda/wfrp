@@ -6,7 +6,7 @@ Home: [[Rules/Trappings/Armour/Plate Armour\|Plate Armour]]
 
 **Price:** 2GC
 **Enc:** 1
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Penalty:** –10% [[Rules/Skills/Perception\|Perception]]
 **Locations:** Head
 **APs:** 2

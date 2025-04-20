@@ -8,4 +8,4 @@ Prisene varierer etter håndverk, metalltype og edelstensverdi. Som en tommelfin
 
 **Cost:** Varies
 **Enc:** 0
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]

@@ -7,7 +7,7 @@ Home: [[Rules/Trappings/Weapons/Ammunition/Blackpowder and Engineering Ammunitio
 **Weapon Group:** [[Rules/Trappings/Weapons/Ammunition/Ammunition\|Ammunition]]
 **Price:** 3d
 **Enc:** 0
-**Availability:** [[Common\|Common]]
+**Availability:** [[Rules/Economy/Common\|Common]]
 **Range:** Half weapon
 **Damage:** –
 **Qualities and Flaws:** –
