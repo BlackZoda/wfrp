@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/World/Religion and Belief/The Grand Conclave/"}
 ---
 
-When Emperor [[Magnus the Pious\|Magnus the Pious]] rebuilt [[World/The Empire/The Empire\|The Empire]] after [[World/The Empire/History/Great War Against Chaos\|Great War Against Chaos]], he realised precious shisms and civil wars besetting his realm were often sourced in religious unrest.
+When Emperor [[Floating/Magnus the Pious\|Magnus the Pious]] rebuilt [[World/The Empire/The Empire\|The Empire]] after [[World/The Empire/History/Great War Against Chaos\|Great War Against Chaos]], he realised precious shisms and civil wars besetting his realm were often sourced in religious unrest.
 
 To help prevent this happening again, Magnus created the Grand Conclave, a meeting of the primary cults in the Empire held every five years to air frievances and discuss resoltuions with the Emperor sitting as chair.
 
