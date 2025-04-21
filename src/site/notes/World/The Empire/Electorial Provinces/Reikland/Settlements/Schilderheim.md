@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/The Empire/Electorial Provinces/Reikland/Settlements/Schilderheim/"}
----
-
-Home: [[World/The Empire/Electorial Provinces/Reikland/Settlements/Reikland Settlements\|Reikland Settlements]]
-
-Standing proud at the confluence of the [[Shilder\|Shilder]] and [[World/The Empire/Rivers and Canals/Reik\|Reik]] rivers, *Shilderheim* is one of [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]]’s most important trading towns. It is also home to a surprisingly diverse array of wildfowl, particularly wading birds. Most notable is the red crane, a sedentary river bird found predominantly on the [[World/The Empire/Rivers and Canals/Reik\|Reik]] that is known for using heavy stones to crack open river clams.
-
-Though already a prosperous town, the [[Merchants’ Guild\|Merchants’ Guild]] and burgomeisters of Shilderheim have grander aspirations, eyeing the wealth of [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] and [[World/Other Nations/Marienburg/Marienburg\|Marienburg]] enviously. Wanting their piece of this pie, the local stevedore guild has recently raised its prices, a highly unpopular move that has brought much dissatisfaction, some of which has spilled into the streets. To avoid this extra fee, a number of merchants have occasionally sought to bypass the stevedores altogether, conducting their business on the river itself, swapping not just stock, but whole barges. Merchant houses connected to this practice have recently found wharves set alight, warehouses raided, and barges sunk; of course, the Stevedores claim it has nothing to do with hounurable members. The Merchants’ Guild, in turn, is willing to pay a lot of money to any who can prove it is.
