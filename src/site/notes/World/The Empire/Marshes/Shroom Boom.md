@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/The Empire/Marshes/Shroom Boom/"}
----
-
-Home: [[World/The Empire/Marshes/Grootscher Marsh\|Grootscher Marsh]]
-
-[[Rules/Career/Physician\|Physicians]], [[Rules/Career/Apothecary\|Apothecaries]], and [[Rules/Career/Scholar\|Scholars]] all pay high prices for the multitude of rare mushrooms and unusual plants that only grow in the perilous [[World/The Empire/Marshes/Grootscher Marsh\|Cursed Marsh]] about the city of [[World/Other Nations/Marienburg/Marienburg\|Marienburg]]. However, several crops of [[Daemon’s Tand\|Daemon’s Tand]], [[Rood Puffball\|Rood Puffball]], [[Dodeshors Polypore\|Dodeshors Polypore]], three of the most valuable [[World/Other Nations/Languages/Wastelander\|Wastelander]] fungi, have recently been discovered growing in the mur of the [[World/The Empire/Marshes/Grootscher Marsh\|Grootscher Marsh]]. Sensing heavy profits, [[Klas Adaans\|Klas Adaans]], an ever-frowing merchant lodging in the village of [[Oblerseert\|Oblerseert]] overlooking the marsh, is hiring mushroom-pickers willing to brave the wetlands. This brings increased activity that not only attract hungry [[River Troll\|River Troll]]s to the area, but also [[World/Bestiary/Creatures/Goblin\|Goblin]]s keen to capture them. Klaes cares little for such trivialities, and certainly won’t mention them; all he wants is a steady crop of lucrative fungus. Those with stern hearts and keen eyes can reap real rewards here… or become meat for a [[World/Bestiary/Creatures/Troll\|Troll]]’s larder.
