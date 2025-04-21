@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Campaign/Hooks/Behind Closed Doors/"}
----
-
-Home: [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]], [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]]
-
-* Looking for a place to stay in [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]], the party rent a room from [[Tilda Hurkle\|Frau Hurkle]]. She offers them a discouted rate in exchange for a farour. She is being pressured to selll her house to her wealthy neighbour, [[Duke Otto von Siert\|Duke Otto von Siert]], who is keen to expand his property. The next time he sends his bully boys round to intimidate her, all they need to do is stand up to them. But the thugs won’t take no for an answer, and are willing to risk death in order to remove Hurkle. Why?
-* [[Marie Selleaux\|Marie Selleaux]] is looking for a few hardy souls to accompany her as she catalogues [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]]'s folklore and legends. She intends to visit even the most dangerous district and talk to all manner ov citizens. First on her list is a bookseller [[Harrich Buchmann\|Harrich Buchmann]] on [[Kerzenmacherweg\|Kerzenmacherweg]], who allegedly knows all about the city’s dark decrets. How willing he will be to share them, and just how accurate they will be, remains uncertain. But that’s probably because he’s also a cultist of [[World/Religion and Belief/Gods/Tzeentch\|Tzeentch]]…
