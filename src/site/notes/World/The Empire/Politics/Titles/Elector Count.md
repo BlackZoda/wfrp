@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/The Empire/Politics/Titles/Elector Count/"}
----
-
-Home: [[World/The Empire/Politics/Entities/Electoral Province\|Electoral Province]], [[World/The Empire/Politics/Titles/Electors\|Electors]]
-
-The Elector Counts hold the most powerful titles in [[World/The Empire/The Empire\|The Empire]]. Each rules a vast [[Grand Province\|Grand Province]], and is responsibe for electing a new [[World/The Empire/Politics/Titles/Emperor\|Emperor]] when the uncumbent dies or abdicates. Their titles are incredibly old, dating back to the [[Time of Sigmar\|Time of Sigmar]] over two millennia ago. All Elector Counts and their immediate descendants for up to three generations are considered to be of royal blood, and this ranks their [[World/The Empire/Demography/Noble House\|Noble House]] above all others as a [[Royal Houses\|Royal Houses]]. The ancient title also grants them the right to wield a [[Runefang\|Runefang]] one of the magical swords forged for thegreatest tribal chieftians during the [[Time of Sigmar\|Time of Sigmar]]. Historically, especially during the [[Dark Ages\|Dark Ages]] when [[World/The Empire/The Empire\|The Empire]] collapsed, it was said a Noble House could not claim to be a Royal House without a [[Runefang\|Runefang]], meaning wars over their ownership were frequent and bitter.
