@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/The Empire/Rivers and Canals/Vorbergland Canals/"}
----
-
-Home: [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]], [[World/The Empire/Rivers and Canals/The Rivers, Canals, and Lakes of Reikland\|The Rivers, Canals, and Lakes of Reikland]]
-
-The Vorbergland Canals are an engineering marvel. Comissioned by the previous [[Archduke of Upper Teufel\|Archduke of Upper Teufel]] in conjunction with merchant houses from [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]] and [[World/Other Nations/Marienburg/Marienburg\|Marienburg]], the canals are the pride of the sough, carrying trade from [[Wissenland\|Wissenland]] across the [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Vorbergland\|Vorbergland]] and back again. Comprised of five canals connecting five major trigutaries of the [[World/The Empire/Rivers and Canals/Reik\|Reik]], the system links [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]] through [[Carroburg\|Carroburg]], skipping the high taxes of [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] completely.
-
-Recently, the [[World/Races/Dwarf\|Dwarfs]] of [[Karak Azgaraz\|Karak Azgaraz]] sent delegations to the lords of [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Suden Vorbergland\|Suden Vorbergland]] demanding the canals be shut, claiming old treaties from centuries past were being broken by an unacceptably large display of shoddy workmanship. this has caused an uproar from graduates of the [[Imperial Engineers’ School\|Imperial Engineers’ School]] sho see the stream locks and clever water-pumps as a pinnacle of human engineering.
