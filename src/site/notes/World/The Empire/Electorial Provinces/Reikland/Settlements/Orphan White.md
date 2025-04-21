@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/The Empire/Electorial Provinces/Reikland/Settlements/Orphan White/"}
----
-
-Home: [[World/The Empire/Electorial Provinces/Reikland/Settlements/Dunkelberg\|Dunkelberg]], [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]]
-
-Dunelberg has an excess of orphans, the result of frequent [[World/Bestiary/Creatures/Goblin\|Goblin]] raids, diseases, and other unpleasant occurences. Rather than leave them underfoot, the local duke has established a number of orphanages to provide shelter and sustenance for the children; however, to earn their keep, he puts the orphans, clad in their distinctive white uniforms to work in the bleachfields. Visitors to [[World/The Empire/Electorial Provinces/Reikland/Settlements/Dunkelberg\|Dunkelberg]] may be shocked to see so many urchins deployed as a labour force, though the callous disregard many of the wealthy of the town have developed toward orphan children is perhaps worse. [[Sister Alella\|Sister Alella]], a local [[World/Religion and Belief/The Cults/Cult of Shallya\|Shallyan]] priestess, has recently expressed concern over the wellbeing of these urchins, even claiming that a number of the children have vanished under suspicious circumstances, and is looking for help to uncover the truth of what’s *really* happening.
