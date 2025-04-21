@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/Fleeting/Character Creation/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 1. [[Rules/Species/Species\|Species]]
    * [[Rules/Tables/Random Species Table\|Random Species Table]]

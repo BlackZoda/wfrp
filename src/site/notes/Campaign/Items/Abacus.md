@@ -4,6 +4,6 @@
 
 Home: [[Campaign/Items/Tools and Kits\|Tools and Kits]]
 
-**Cost:** 
-**Enc:** 
-**Availability:** 
+**Cost:** 3/4
+**Enc:** 0
+**Availability:** [[Rules/Economy/Scarce\|Scarce]]

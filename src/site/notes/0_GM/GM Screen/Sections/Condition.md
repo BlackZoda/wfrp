@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/GM Screen/Sections/Condition/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 * [[Rules/Conditions/Ablaze\|Ablaze]]
 * [[Rules/Conditions/Bleeding\|Bleeding]]

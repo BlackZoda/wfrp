@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Economy/Bargaining and Trading/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]], [[World/The Empire/The Empire\|The Empire]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]], [[World/The Empire/The Empire\|The Empire]]
 
 People of [[World/The Empire/The Empire\|The Empire]] love a good bargain, and crowds of eagershoppers fill town squares every day looking for the best deals. When buying goods, there are two primary [[Skills\|Skills]] to Test: [[Rules/Skills/Evaluate\|Evaluate]] and [[Rules/Skills/Haggle\|Haggle]].
 

@@ -9,7 +9,7 @@ De fleste verktøy regnes som improviserte våpen når de brukes i kamp, men spi
 | Item                  | Cost    | Enc | Availability |
 | --------------------- | ------- | --- | ------------ |
 | [[Campaign/Items/Abacus\|Abacus]]            | 3/4     | 0   | [[Rules/Economy/Scarce\|Scarce]]   |
-| [[Animal Trap\|Animal Trap]]       | 2/6     | 1   | [[Rules/Economy/Common\|Common]]   |
+| [[Campaign/Items/Animal Trap\|Animal Trap]]       | 2/6     | 1   | [[Rules/Economy/Common\|Common]]   |
 | [[Antitoxin Kit\|Antitoxin Kit]]     | 3GC     | 0   | [[Rules/Economy/Scarce\|Scarce]]   |
 | [[Boat Hook\|Boat Hook]]         | 5/–     | 1   | [[Rules/Economy/Common\|Common]]   |
 | [[Broom\|Broom]]             | 10d     | 2   | [[Rules/Economy/Common\|Common]]   |

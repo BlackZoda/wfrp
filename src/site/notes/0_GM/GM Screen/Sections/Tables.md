@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0_GM/GM Screen/Sections/Tables/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 ## Combat
 * [[Rules/Tables/Hit Location Table\|Hit Location Table]]
 * [[Rules/Tables/Critical Tables\|Critical Tables]]

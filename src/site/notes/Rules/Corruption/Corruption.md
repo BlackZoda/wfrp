@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Corruption/Corruption/"}
 ---
 
-Home [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 * [[Rules/Corruption/Gaining Corruption Points\|Gaining Corruption Points]]
 * [[Rules/Corruption/Corrupting\|Corrupting]]

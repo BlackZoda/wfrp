@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Career/Career/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 Once your [[Rules/Class/Class\|Class]] is established, choose one of the Careers associated with it. There are 8 Careers in each Class, but some are restricte by Species.
 

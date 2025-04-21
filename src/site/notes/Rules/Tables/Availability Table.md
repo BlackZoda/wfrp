@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Tables/Availability Table/"}
 ---
 
-Home: [[Rules/Economy/Availability\|Availability]], [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[Rules/Economy/Availability\|Availability]], [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 |            | Village      | Town         | City         | Altdorf   |
 | ---------- | ------------ | ------------ | ------------ | --------- |

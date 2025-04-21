@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Combat/Combat/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 * [[Rules/Combat/Timing\|Timing]]
 * [[Rules/Combat/Combat Summary\|Combat Summary]]

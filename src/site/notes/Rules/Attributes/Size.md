@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Rules/Attributes/Size/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 
 * [[Rules/Combat/Size Difficulty\|Size Difficulty]]
 * [[Rules/Tables/Size Difficulty Table\|Size Difficulty Table]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Campaign/Hooks/Adventure Hooks/"}
 ---
 
-Home: [[0_GM/GM Screen/Sections/Rules\|0_GM/GM Screen/Sections/Rules]]
+Home: [[0_GM/GM Screen/Sections/Rules\|Rules]]
 ## Reikland
 * [[Campaign/Hooks/Sow Havoc, Reap Rewards?\|Sow Havoc, Reap Rewards?]]
 * [[Campaign/Hooks/The Bloody Hood\|The Bloody Hood]]
