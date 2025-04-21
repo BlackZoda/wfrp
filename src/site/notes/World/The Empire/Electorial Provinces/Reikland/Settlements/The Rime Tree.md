@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/The Empire/Electorial Provinces/Reikland/Settlements/The Rime Tree/"}
----
-
-Home: [[World/The Empire/Electorial Provinces/Reikland/Settlements/Holthusen\|Holthusen]], [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]]
-
-In the clearing a few miles to the north-east of [[World/The Empire/Electorial Provinces/Reikland/Settlements/Holthusen\|Holthusen]] stands a tree unique in all the [[World/The Empire/Forests and Hills/Reikwald\|Reikwald]]: a magnificent pine locked in ice all year round. [[World/The Empire/Electorial Provinces/Reikland/Settlements/The Rime Tree\|The Rime Tree]], as it is called, never melts, and sends constant flurries of ice and snow cascading down onto the forsty udergrowth below. The tree is freezing to the touch and even the mightiest axe blows barely crack the thick ice coating its bark. 
-
-The site has been caimed by the [[World/Religion and Belief/The Cults/Cult of Ulric\|Cult of Ulric]], and is the major terminus for devote [[World/Religion and Belief/Worshippers/Worshippers of Ulric\|Ulricans]] on pilgrimages south of the [[World/The Empire/Rivers and Canals/Reik\|Reik]]. For those of an arcane bent, the perpetually icy bark of the tree has certain useful – and therefore valuable – magical properties. But [[World/Religion and Belief/Worshippers/Worshippers of Ulric\|Ulricans]] are rarely happy to have wizards poking about their sacred sites, so obtaining some of the bark safely is something of a risk endeavour. Therefore, [[Lord Magister Schlotter\|Lord Magister Schlotter]] of the [[Bright Order\|Bright Order]] is willing to pay good coin for brave men to secure what he cannot.
