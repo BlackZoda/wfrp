@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Campaign/Hooks/For Whom the Bell Tolls/"}
----
-
-Home: [[Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Pfieffer Toll Gate\|Pfieffer Toll Gate]], [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Suden Vorbergland\|Suden Vorbergland]], [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]]
-
-* [[Alwhin Hollyfoot\|Alwhin Hollyfoot]] is deeply resentful of a rival who sets up stall across from him, offering “meat bread” at discount rates. He will pay someone toinvestigate how his rival can offer such low prices. The meat is of dubious origin, but the village has never been so free from vagrants.
-* As the party passes through the toll gate, they overhear a merchant express surprise that [[Tollich “Three Bells” Stamper\|”Three Bells”]] isn’t there. The toll keeper mumbles a surly response and sends them on their way, waiving the toll. The party can take the good luck of a saved coin, or indulge their curiosity, as [[Tollich “Three Bells” Stamper\|Stamper]] – the real toll keeper – lies trussed up in the strongroom, while a gang of thieves await their opportunity to slit his throat and flee with the month’s tolls.
-* At [[The Couched Lance\|The Couched Lance]], late at night, the toll bell begins to chime insistently, but [[Tollich “Three Bells” Stamper\|Tollich “Three Bells” Stamper]] is too drunk to attend. The party are “nominated” to investigate, but on arrival they find no one there. As they make their way back to the inn, they hear the bell again, but it seems to be sounding from the forest. Should they investigate, they will discover a [[Necromancer\|Necromancer]] at his grisly work in the ruins of a long-abandoned [[World/Religion and Belief/Gods/Shallya\|Shallyan]] Hospice, accompanied by the ghostly ringing of the hospital’s alarm bell that it seems the necromancer cannot hear.
