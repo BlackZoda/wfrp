@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/Religion and Belief/Gods/Ranald/The Riddles Ten/"}
----
-
-Home: [[World/Religion and Belief/The Cults/Cult of Ranald\|Cult of Ranald]]
-# De ti gåtene
-Vanligvis trykket som billige hefter illustrert med grove tresnitt, inneholder denne teksten ti gåter knyttet til [[World/Religion and Belief/Gods/Ranald\|Ranald]]s ulike aspekter. Løsningen på hver krever at leseren gjennomskuer flere lag av bedrag. De som løser gåtene har bevist at de kan bli gode prester for [[World/Religion and Belief/Gods/Ranald\|Ranald]], og de korrekte svarene gir hint om hvordan de kan begynne på initiasjonsveien.
-## Riddling Towards Ranald
-If a Character who is not a Priest of Ranald reads a copty of *The Riddles Ten*, they can take an [[Rules/Tests/Extended Test\|Extended Test]] to solve the puzzles. This requires the [[Rules/Talents/ReadWrite\|ReadWrite]] [[Rules/Talents/Talent\|Talent]] and a total of 8 [[Rules/Tests/Success Levels\|Success Levels]] against a [[Rules/Tests/Difficulty\|Difficulty]] (-10) [[Rules/Skills/Intuition\|Intuition]] [[Rules/Tests/Tests\|Test]]. Once the [[Rules/Tests/Extended Test\|Extended Test]] is complete the [[0_GM/Fleeting/Character Creation\|Character]] has all the clues they need and must pass a **Hard (-20) [[Rules/Attributes/Intelligence (Int)\|Intelligence]]** [[Rules/Tests/Tests\|Test]] in order to work out the puzzles. If they succeed (without assitance), then they gain 5 points in the [[Rules/Skills/Lore\|Lore]] ([[World/Religion and Belief/Gods/Ranald\|Ranald]]) [[Rules/Skills/Skill\|Skill]]. They can also find a priest of [[World/Religion and Belief/Gods/Ranald\|Ranald]] who can take themon as an Initiate.
