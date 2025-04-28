@@ -3,21 +3,5 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "devCommand": "npm run start",
-  "routes": [
-    { "src": "/logout", "dest": "/api/edge", "headers": { "Cache-Control": "no-store" } },
-    { "src": "/logged-out", "dest": "/logged-out" },
-    { "src": "/manifest.webmanifest", "dest": "/manifest.webmanifest" },
-    {
-      "src": "/(.*)",
-      "has": [
-        {
-          "type": "header",
-          "key": "X-Processed-By",
-          "value": "edge-function"
-        }
-      ],
-      "dest": "/$1"
-    },
-    { "src": "/(.*)", "dest": "/api/edge" }
-  ]
+  "routes": [{ "src": "/manifest.webmanifest", "dest": "/manifest.webmanifest" }]
 }
