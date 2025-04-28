@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/Religion and Belief/Holy Sites/Holy Sites of Myrmidia/"}
----
-
-Home: [[World/Religion and Belief/The Cults/Cult of Myrmidia\|Cult of Myrmidia]]
-
-Most of Myrmidia’s holy sites are found in [[World/Other Nations/Estalia/Estalia\|Estalia]] and [[World/Other Nations/Tilea/Tilea\|Tilea]], and are associated with the goddess’s campaigns across those realms when whe manifested as a mortal over two-thousand ears ago. In [[World/The Empire/The Empire\|The Empire]], the goddess has much less of a presence, with temples only in major towns and cities, and only a single monastic order cloistered in the [[Monastery of the Black Maiden\|Monastery of the Black Maiden]] in [[Wissenland\|Wissenland]]. Temples to Myrmidia tend to follow the architectural styles of [[World/Other Nations/Tilea/Tilea\|Tilea]] and [[World/Other Nations/Estalia/Estalia\|Estalia]], with domed roofs covering square or rectangular halls. Their exteriors are often carved with low reliefs showing battle scenes or tableaux of weapons and shields. Shrines may take the form of miniature temples, statues of the goddess, or free-standing sculptures of stacked weapons, shields, and armour. Myrmidia’s holy sites are also known for their scandalous depictions of the goddess and her saints, who are often presenting wearing little more than scarves about their waists, which many Sigmarites find completely unacceptable.
