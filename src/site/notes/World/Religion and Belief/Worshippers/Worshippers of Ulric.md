@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/Religion and Belief/Worshippers/Worshippers of Ulric/"}
----
-
-Home: [[World/Religion and Belief/The Cults/Cult of Ulric\|Cult of Ulric]]
-
-[[World/Religion and Belief/Gods/Ulric\|Ulric]]’s cult is strongest in the north of [[World/The Empire/The Empire\|The Empire]]. The city-state of [[World/The Empire/Fristadts/Middenheim\|Middenheim]], with its enormous [[High Temple to Ulric\|High Temple to Ulric]], is the heart of his cult, and the god is regarded as the city’s patron. Elsewhere, he is worshipped mainly by [[Rules/Class/Warrior\|Warriors]] and [[Rules/Career/Soldier\|Soldiers]]. Devout *Ulricans* can usually be spotted by their long hair and beards, for most choose not to cut it, imitating their wild deity. [[World/Religion and Belief/Gods/Ulric\|Ulric]]’s cult is split into just two orders: the priestly [[Howling Wolves\|Howling Wolves]], and the templar [[White Wolves\|White Wolves]]. The *Howling Wolves* are not very popular outside [[World/The Empire/Electorial Provinces/Middenland/Middenland\|Middenland]] and [[Nordland\|Nordland]], viewed by most folk to be too coarse for this enlightened era. By comparison, the *Knights of the White Wolf* are enormously popular, easily the largest knightly order in the Empire, and the oldest templar order in [[World/Other Nations/Den Gamle Verden\|Den Gamle Verden]]. [[World/Religion and Belief/Gods/Ulric\|Ulric]]’s priests wear black robes with a howling white wolf emblem on the chest. A wolf pelt across the shoulders is also common, as is fur trimmings.
