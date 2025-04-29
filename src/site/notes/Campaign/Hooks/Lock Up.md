@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/Campaign/Hooks/Lock Up/"}
+---
+
+
+Home: [[Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Hartsklein Lock and Lock Keeper’s House\|Hartsklein Lock and Lock Keeper’s House]], [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]], [[World/The Empire/Rivers and Canals/Weissbruck Canal\|Weissbruck Canal]]
+
+* The party find themselves falsely arrested by corrupt riverwardens, and forced to spend the night in the cell in [[Henrietta Garland\|Henrietta Garland]]’s house. She is a trusting soul, and provides them with supper, ale, and some of her [[Greenleaf\|Greenleaf]] to smoke. When she accidentally leaves the cell unlocked, the PCs have a choice: Stay, and try to prove their innocence, or flee, sullying Henrietta’s reputation in the process?
+* Offered supper as their barge clears the lock, the party find their eyes drooping heavily. They awake to find themselves trussed up, alongside Henrietta, who was forced by brigands, who have now stolen their barge, their money, and their weapons, alongside all of Henrietta’s savings.
+* The lock keeps being damaged. The [[Gruber Family\|Gruber Family]] suspect foul play. The party are hired to investigate why Hartsklein locals would want to sabotage the lock. Are they being paid by merchants plying other routes, or the [[World/The Empire/Infrastructure/Coaching Inn\|Coaching Inn]]s? Are they cultists, in thrall to the [[Dark Gods\|Dark Gods]]? Or are they simply resentful that a [[World/Races/Halfling\|Halfling]] occupies such a well-paid job, and not a local [[World/Races/Human\|Human]]?

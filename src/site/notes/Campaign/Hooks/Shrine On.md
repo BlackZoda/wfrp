@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/Campaign/Hooks/Shrine On/"}
+---
+
+
+Home: [[Campaign/Locations/Buildings of the Reikland/Religious Buildings/Wayside Shrine\|Wayside Shrine]], [[World/Religion and Belief/The Cults/Cult of Rhya\|Cult of Rhya]], [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]], [[World/The Empire/Electorial Provinces/Reikland/Settlements/Diesdorf\|Diesdorf]], [[World/The Empire/Rivers and Canals/Reik\|Reik]]
+
+* On a moonless night, the party, travelling late, stumble across a ritual taking place at the shrine. Elders from [[World/The Empire/Electorial Provinces/Reikland/Settlements/Diesdorf\|Diesdorf]] planto sacrifice a criminal on the ancient table, believing it will ensure their town has a year of bumper harvest. After all, what is the life of a terrible lawbreaker, weighed against food for the masses? However, when one of the Characters recognises the cries coming from an old friend, [[World/Religion and Belief/Gods/Verena\|Verena]]’s scales of Justice are suddenly weighted quite differently.
+* Disaster! [[World/The Empire/Electorial Provinces/Reikland/Settlements/Diesdorf\|Diesdorf]]’s harvest is ruined by a blight many miles across, centered on the shrine, which has been desecrated with unholy runes daubed in filth. The locals are at a loss, and are desperate to locate the perpetrators before the blight spreads, but have so far had no luck. Canthe Characters succeed where all others have failed?
+* As the party passes the shrine, the Characters notice movement in the undergrowth, then hear shrill laughter. A closer inspection reveals tiny footprints and a mound of dung heaped on the holy table. The shrin has been overrun by Snotlings! Should the Characters pursue the pesky creatures, they soon discover they are a precursor to a much larger [[World/Races/Greenskin\|Greenskin]] incursion. Can the party warn [[World/The Empire/Electorial Provinces/Reikland/Settlements/Diesdorf\|Diesdorf]] in time?

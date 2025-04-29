@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/Campaign/Hooks/Something Doesn't Smell Right/"}
+---
+
+
+Home: [[Campaign/Hooks/Adventure Hooks\|Adventure Hooks]], [[Campaign/Locations/Buildings of the Reikland/Commercial Building/Herbert Harzert Cheesmonger of Distinction\|Herbert Harzert Cheesmonger of Distinction]], [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Ubersreik/Ubersreik\|Ubersreik]]
+
+* The late [[Frau Harzert\|Frau Harzert]] was a frail young woman who sickened and passed away a year ago. Her brother, [[Volker Grüner\|Volker Grüner]], a shipping clerk from [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]], suspects foul play – his siter was always a picture of indefatigable health. More importantly, if it should turn out that his sister was murdered – say, by [[Herbert Harzert\|Herbert Harzert]]. and this could be proved – then the [[Cheese Shop\|Cheese Shop]] is inherited by him! He is looking for someone to travel to [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Ubersreik/Ubersreik\|Ubersreik]] to investigate.
+
+* It is a truth universially acknowledged that a young man in possession of a cheese shop must be in want of a wife. One of Hazert’s suppliers – the fragrant [[Mademoiselle Cloche\|Mademoiselle Cloche]] – has stolen his heart. The interfering [[Frau Duschen\|Frau Duschen]] resents the interloper as she has designs on Harzert herself, and his money. Helbert needs a friendly soul to carry love letters to his paramour, while Frau Duschen will go to any lengths to dig up dirt on “that stinkin’ Bretonnian gold-digger”.

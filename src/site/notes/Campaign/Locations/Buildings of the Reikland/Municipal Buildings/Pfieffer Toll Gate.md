@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Pfieffer Toll Gate/"}
+---
+
+
+Home: [[Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Toll Gate\|Toll Gate]], [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Suden Vorbergland\|Suden Vorbergland]]
+
+* [[Campaign/Hooks/For Whom the Bell Tolls\|For Whom the Bell Tolls]]
+
+![Screenshot 2024-06-14 at 16.59.55.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2016.59.55.png)
+
+Roads need maintenance and to be patrolled; this cost money, so tolls are a necessary price of travel and trade in the [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]]. As such, the [[World/The Empire/Infrastructure/Highway\|highways]] and [[World/The Empire/Infrastructure/Major Road\|byways]] of the province are punctuated regularly by toll bridges and toll gates. Many town and cities also charge a toll to enter.
+
+One such gate lies near [[Pfieffer\|Pfieffer]], a small village by [[World/The Empire/Electorial Provinces/Reikland/Settlements/Stimmigen\|Stimmigen]] in [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Suden Vorbergland\|Suden Vorbergland]]. As a major trade route, the roads are well-maintained and patrolled, so toll gates are regularly placed, and well-staffed. A low wall, topped with iron spikes, runs perpendicular to the road for dozens of yards stretching from the canal to the north and treeline on the south, making the gate hard to avoid. The gate itself is a sturdy affair, housed in a strong stone tower house, with a heavy bell hanging on either side, should travellers need to make their presence known to the toll keeper. The ground floor is taken up with the tunnel and gatehouse, which also has a tiny toll      both; a hall and a small cell for holding criminals; kitchens; and an office with a strongroom where the tolls are kept until they are collected monthly. On the top floor is the toll keeper’s bedroom, and a mess hall and bunhouse for visiting [[Rules/Career/Road Warden\|road wardens]]. Also inside the walls is a stable and a courtyard with a well. On most days, an enterprising [[World/Races/Halfling\|Halfling]] from [[Pfieffer\|Pfieffer]] – [[Alwhin Hollyfoot\|Alwhin Hollyfoot]] – sets up a stall in the courtyard offering delicious pastries to passing travellers.
+
+The toll keeper, [[Tollich “Three Bells” Stamper\|Tollich “Three Bells” Stamper]], is so-called due to his habit of locking the gate at night and walking the half-mile or so to [[Pfieffer\|Pfieffer]], and its inn [[The Couched Lance\|The Couched Lance]], trusting that anyone foolish enough to travel by night will ring the bell for his attention. In thewarmth of the inn’s tap room, it will take three rings for Tollich to stir; anything less doesn’t signify enough commitment to rouse him from his cups.
