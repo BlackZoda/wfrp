@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/0_GM/Enemy in Shadows/Chapters/021 Blood on the Road/"}
+---
+
+
+Home: [[0_GM/Enemy in Shadows/Chapters/02 Mistaken Identity\|02 Mistaken Identity]]
+
+Et par timer etter at drosja kommer ut på hovedveien, så runder den en sving, og kommer bardus på et grusomt syn. På huk i veien er en mennesklig skikkelse, med ryggen mot drosja, som bøyer seg over en [[World/The Empire/Infrastructure/Four Seasons Coaches of Altdorf\|Four Seaons Company]] drosjekusk. Figuren vender seg rundt, og karakterene ser en avrevet menneskehånd som henger ut av munnen på vesenets motbydelige munn. Skapningen er gjenkjennbart som et menneske, men kjøtt henger i filler ansiktet og hendene, og grønn gugge siver fra øynene. Den spytter ut hånda, og setter på sprang mot drosja med en blody dolk hevet.
+
+[[0_GM/PCs/Willburgh Vaughn\|Willburgh Vaughn]] innser sjokkert at denne mutanten er hans gamle kompis [[Campaign/NPCs/Rolf Hurtsis\|Rolf Hurtsis]], en barnsomsvenn å lommetyv fra gatene i [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Ubersreik/Ubersreik\|Ubersreik]].
+
+Mens Rolf kommer øpende mot drosja, så vrinsker hestene i panikk og røsker seletøyet fra drosja og galloperer avsted inn i skogen. [[Campaign/NPCs/Gunnar and Hultz\|Hultz]] som holdr i tøylene, blir dratt av drosja og etter dem. [[Campaign/NPCs/Gunnar and Hultz\|Gunnar]] sliter med å bruke bremsene og få stoppet drosja fra å krasje inn i trærne. Han lykkes med dette, men fryser i frykt når [[Campaign/NPCs/Rolf Hurtsis\|Rolf Hurtsis]] kommer byksende på ham. Det er opp til eventyrerne å redde dagen. Viss de ikke gjør noe så fpr Gunnar en [[Rules/Conditions/Surprised\|Surprised]] tistand, og vil ikke kunne forsvare seg på en runde. Drosjas passasjerer gjør ikke noe med mindre de er i personlig fare. Viss [[Campaign/NPCs/Phillipe Descartes\|Phillipe Descartes]] fremdeles er der, så vil han hjelpe eventyrerne, og bruke sverdet sitt heller en pistol for å unngå å treffe allierte. Han er en kapabel kriger og vil forsvare de svakeste karakterene. [[Campaign/NPCs/Marie Schutz\|Marie Schutz]] vil bli værende i drosja for å beskytte sin frue, og vill bare etterlate [[Campaign/NPCs/Lady Isolde von Strudeldorf\|Lady Isolde von Strudeldorf]] for å bedre beskytte henne.
+
+Så fort spillerne har mulighet til å inspisere den lemlestede kroppen til kusken fra [[World/The Empire/Infrastructure/Four Seasons Coaches of Altdorf\|The Four Seaons Company]], så vil de se en armbrøstbolt gjennom nakken på ham. Han har på seg en sleeved [[Rules/Trappings/Armour/Mail Shirt\|Mail Shirt]], som vil passe et vanlig menneske. Sporene fra drosjen hans kan bli sett fortsette langs veien vekk fra eventyrerene, og forsvinner ut av syne rundt svingen.
+
+Next: [[0_GM/Enemy in Shadows/Chapters/022 Howls of the Wind\|022 Howls of the Wind]]
