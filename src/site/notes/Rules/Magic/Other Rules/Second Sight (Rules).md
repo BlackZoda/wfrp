@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/Rules/Magic/Other Rules/Second Sight (Rules)/"}
+---
+
+
+Home: [[Rules/Magic/Magic Rules\|Magic Rules]]
+
+The [[Rules/Talents/Second Sight\|Second Sight]] allows you to perceive the [[World/Magic/The Winds of Magic\|Winds of Magic]], and how magic influences the world around you. *Second Sight* affects all your senses, and how it manifests i dependent on individual experience and training: So, where [[Aqshy\|Aqshy]] may have a hot, cinnamon odour to one pyromancer, it could feel like searing ear itches to another.
+
+If you have [[Rules/Talents/Second Sight\|Second Sight]], you may use any appropriate [[Rules/Skills/Skill\|Skills]] with your aethyric seses, most commonly your [[Rules/Skills/Intuition\|Intuition]], [[Rules/Skills/Perception\|Perception]], and [[Rules/Skills/Track\|Track]] skills. For example, a [[Magister\|Magister]] following the trail of a fleeing [[Rules/Career/Witch\|Witch]] could make a [[Rules/Skills/Track\|Track]] [[Rules/Tests/Tests\|Tests]], foloing the faint traces of [[World/Magic/Dhar\|Dhar]] in the witch’s path, rather than their literal footsteps. Or a [[Rules/Career/Witch\|Witch]] looking to see what kind of magic had gathered locally could use [[Rules/Skills/Perception\|Perception]] to examine the [[World/Magic/The Winds of Magic\|Winds]] more closely. Like the mundane senses, [[Rules/Talents/Second Sight\|Second Sight]] does not simply switch off, which is a source of great discomfort to those who would rather have no truck with the [[World/Magic/The Winds of Magic\|Winds of Magic]] but cannot help what they perceive. This means the GM may request [[Rules/Tests/Tests\|Tests]], or take [[Rules/Tests/Tests\|Tests]] on your behalf, to see if you spot subtle magical details in your surrounding environment, even if you’re not looking for them.
