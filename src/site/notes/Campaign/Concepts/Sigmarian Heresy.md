@@ -5,7 +5,7 @@
 
 Hjem: [[Campaign/Organizations/Den Lilla Hånden\|Den Lilla Hånden]], [[World/Religion and Belief/The Cults/Chaos Cults\|Kaoskulter]]
 
-De som tror på det Sigmarske Kjetteri hevder at [[World/Religion and Belief/Gods/Sigmar\|Sigmar]] Haldenhammer, grunnlegger av Imperiet og dets skytsgud, aldri steg opp til å bli en gud. I stedet så hevder kjetteriet at [[World/Religion and Belief/The Cults/Cult of Sigmar\|Sigmarkulten]] er en oppdiktet konstruksjon, uten tilknytning til det gudommelige. De hevder at Sigmarske mirakler er tryllet frem av individuell tro, og ikke guddommelig inblanding. Viss krrekt, så ville dette bety at Sigmars mirakler er magiske, og ikke guddommelige – en påstand fullstendig avskylig for Sigmarkulten, en instutisjon kjent for sine heksejegere, ikke hekser.
+De som tror på det Sigmarske Kjetteri hevder at [[World/Religion and Belief/Gods/Sigmar\|Sigmar]] Haldenhammer, grunnlegger av Imperiet og dets skytsgud, aldri steg opp til å bli en gud. I stedet så hevder kjetteriet at [[World/Religion and Belief/The Cults/Cult of Sigmar\|Sigmarkulten]] er en oppdiktet konstruksjon, uten tilknytning til det gudommelige. De hevder at Sigmarske mirakler er tryllet frem av individuell tro, og ikke guddommelig inblanding. Viss korrekt, så ville dette bety at Sigmars mirakler er magiske, og ikke guddommelige – en påstand fullstendig avskylig for Sigmarkulten, en instutisjon kjent for sine heksejegere, ikke hekser.
 
 De teologiske og magiske argumentene for kjetteriet som er fremmet, ved å sitere gamle leksjoner av Historiemester [[Teclis\|Teclis]] (høyalven som grunnla Magihøyskolene i Imperiet) er komplekse og abstruse. For subtile for alle bortsette fra lærde å forstå. Viktigheten er imidlertid, om enn ukorrekt, at Sigmar ikke er en gud.
 
