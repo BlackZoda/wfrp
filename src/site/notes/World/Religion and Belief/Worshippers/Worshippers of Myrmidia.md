@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/World/Religion and Belief/Worshippers/Worshippers of Myrmidia/"}
+---
+
+
+Home: [[World/Religion and Belief/The Cults/Cult of Myrmidia\|Cult of Myrmidia]]
+
+Myrmidia grants generals the insight to win battles with minimal losses, and soldiers the skill-at-arms to defeat enemies quickly and without significant losses. Becase of this, her cult is steadily growing among the armies and garrisons of [[World/The Empire/The Empire\|The Empire]], especially in the [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]], [[Averland\|Averland]], and [[Wissenland\|Wissenland]]. In [[World/The Empire/The Empire\|The Empire]], the cult has three orders significance. The [[Order of the Eagle\|Order of the Eagle]] tends to the temples and their surrounding communities, and is led from [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]] by the [[Eagle of the North\|Eagle of the North]], the most powerful Myrmidian north of [[The Vaults\|The Vaults]]. The templar [[Order of the Righteous Spear\|Order of the Righteous Spear]] has a chapterhouse attached to each of these temples, each commanded by the local high priest. A second templar order, the [[Order of the Blazing Sun\|Order of the Blazing Sun]], is the oldest Myrmidian order in the Empire, and works independently of the [[Order of the Eagle\|Order of the Eagle]].
