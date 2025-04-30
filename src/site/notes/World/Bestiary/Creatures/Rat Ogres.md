@@ -15,4 +15,4 @@ Rotteogre er massive bruter, avlet frem i Underrikets mørke huler av de forrykt
 
 **Optional:** [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]]e ([[Rules/Disease and Infection/Ratte Fever\|Ratte Fever]]), [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Tail Attack\|Tail Attack]]+8, [[World/Bestiary/Traits/Tracker\|Tracker]], [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Guard, Mount, War)
 
-![Pasted image 20250416190343.png](/img/user/9_Attachments/Pasted%20image%2020250416190343.png)
+image removed

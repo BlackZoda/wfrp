@@ -17,4 +17,4 @@ Den har også en klebrig tunge som kan slynge ut og dra byttet inn i sin gapende
 
 **Optional:** [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412133320.png](/img/user/9_Attachments/Pasted%20image%2020250412133320.png)
+image removed

@@ -32,4 +32,4 @@ Magirius forteller fakta som han ser dem, men avslører ingenting om ritualet Te
 
 **Trappings:** Merchant Clothing (Finest Quality), Rings (Jewelled, worth 3 GC and 12 GC)
 
-![Pasted image 20250412215627.png](/img/user/9_Attachments/Pasted%20image%2020250412215627.png)
+image removed

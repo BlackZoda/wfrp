@@ -5,7 +5,7 @@
 
 Home: [[Campaign/Locations/Buildings of the Reikland/Commercial Building/Reikland Commercial Building\|Reikland Commercial Building]]
 
-![Pasted image 20240614090544.png](/img/user/9_Attachments/Pasted%20image%2020240614090544.png)
+image removed
 
 * [[Campaign/Hooks/Something Doesn't Smell Right\|Something Doesn't Smell Right]]
 

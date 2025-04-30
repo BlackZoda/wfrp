@@ -28,7 +28,7 @@ En gamblerprest opphøyer [[World/Religion and Belief/Gods/Ranald/Ranald the Ga
 > «Hør her, dette er _Tobaran Straight Draw_… helt annerledes enn _Luccini Straight Draw_. Du br satse på langt, jeg holder meg til kopper til jeg får flush eller kjører båten. Hold øye med Spillmakeren der borte – hun spiller fair så lenge vi respekterer spillet.»  
     – _[[Pollo Quicksleeves\|Pollo Quicksleeves]], halfling-kortkunstner_
 
-![Pasted image 20250415170834.png](/img/user/9_Attachments/Pasted%20image%2020250415170834.png)
+image removed
 
 Noen gamblerprester reiser mellom ulike vertshus og spillhuler, tjener til livets opphold gjennom veddemål og formidler [[World/Religion and Belief/Gods/Ranald\|Ranald]]s lærdommer. Andre driver spillhaller selv, og styrer husets spill som andre prester leder en menighet. Hvert terningkast eller kort vendt er en liten fromhetshandling til [[World/Religion and Belief/Gods/Ranald\|Ranald]]. Et liv som gamblerprest er fylt av ekstreme svingninger – perioder med gunstig flaks og velstand veksler med tider der [[World/Religion and Belief/Gods/Ranald\|Ranald]] tester dem med uhell. Dette er en del av den åndelige reisen de må gjennomgå. De vet de må bære opp- og nedturene med verdighet.
 

@@ -19,4 +19,4 @@ Pegasuser er statlige hvite hester med svanelignende vinger. De er utholdende og
 > 
 > – Berthold Bruner, Farmer and Pegasus-watcher
 
-![Pasted image 20250412134554.png](/img/user/9_Attachments/Pasted%20image%2020250412134554.png)
+image removed

@@ -15,4 +15,4 @@ De fleste vampyrer balanserer sin udøde tørst etter blod med et finere lag av 
 
 **Trappings:** [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[Rules/Magic/Spells/Arcane Spells/Flight\|Flight]], [[World/Bestiary/Traits/Frenzied\|Frenzied]], [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Territorial\|Territorial]], [[World/Bestiary/Traits/Tracker\|Tracker]]
 
-![Pasted image 20250412150443.png](/img/user/9_Attachments/Pasted%20image%2020250412150443.png)
+image removed

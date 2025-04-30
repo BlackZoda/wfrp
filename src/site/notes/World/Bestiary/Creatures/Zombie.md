@@ -15,6 +15,6 @@ Som skjeletter er zombier udøde skapninger gjenopplivet og bundet sammen av ure
 
 **Optional:** [[Rules/Trappings/Armour/Armour\|Armour]], [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Diseased\|Diseased]], [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412145328.png](/img/user/9_Attachments/Pasted%20image%2020250412145328.png)
+image removed
 ### De urolige døde
 Enhver udød skapning med _Konstrukt_-egenskapen er magisk bundet sammen med senestrenger av mørk magi. De er enten tankeløse automater gjenopplivet av en nekromant, eller vesener som våknet til udødelighet på steder der [[Shyish\|Shyish]] – den magiske dødsvinden – eller [[World/Magic/Dhar\|Dhar]], ondskapens svarte magi, samler seg og stagnerer, og forvandler døden til noe nytt.

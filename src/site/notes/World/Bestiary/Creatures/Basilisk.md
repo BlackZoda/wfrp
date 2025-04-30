@@ -17,4 +17,4 @@ Basilisker, som sjelden påtreffes i dag, er blant de farligste fiendene. Deres 
 
 **Optional:** [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412122214.png](/img/user/9_Attachments/Pasted%20image%2020250412122214.png)
+image removed

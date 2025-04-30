@@ -15,4 +15,4 @@ Gorer, de vanligste beistmennene, hjemsøker nesten hver skog i [[World/Other Na
 
 **Optional:** [[World/Bestiary/Traits/Armoured\|Armoured]] 2, [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Diseased\|Diseased]] ([[Rules/Disease and Infection/Packer's Pox\|Packer's Pox]]), [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Spellcaster\|Spellcaster]] ([[Rules/Magic/Spells/Beast Spells/Lore of Beast Spells\|Beast]])
 
-![Pasted image 20250415182946.png](/img/user/9_Attachments/Pasted%20image%2020250415182946.png)
+image removed

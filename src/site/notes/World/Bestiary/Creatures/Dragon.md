@@ -15,4 +15,4 @@ Drager hersket over himlene lenge før de eldre rasene trådte i den _Kjente Ve
 
 **Optional:** [[World/Bestiary/Traits/Arboreal\|Arboreal]], [[World/Bestiary/Traits/Immunity\|Immunity]] (choose one), [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Magical\|Magical]], [[World/Bestiary/Traits/Mental Corruption\|Mental Corruption]], [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Monstrous\|Monstrous]]), [[World/Bestiary/Traits/Spellcaster\|Spellcaster]] (various), [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]], [[World/Bestiary/Traits/Trained\|Trained]] (Mount), [[World/Bestiary/Traits/Undead\|Undead]], [[World/Bestiary/Traits/Venom\|Venom]]
 
-![Pasted image 20250412125211.png](/img/user/9_Attachments/Pasted%20image%2020250412125211.png)
+image removed

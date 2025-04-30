@@ -9,4 +9,4 @@ Albion, also known in some tales as Great Albion, is a small, windswept island o
 
 Albion was the site of a major conflict between many factions of the [[Known World\|Known World]] in the early years of the 26th century IC who were invited to intervene in a conflict between the island's traditional caste of magical caretakers, the [[Truthsayer\|Truthsayer]]s, and the [[Dark Emissaries\|Dark Emissaries]] of the [[World/Bestiary/Creatures/Daemon Prince\|Daemon Prince]] of [[Chaos Undivided\|Chaos Undivided]] [[Be'lakor\|Be'lakor]], known as the "[[Dark Master\|Dark Master]]." The first Daemon Prince hoped to use the power of Albion's Ogham Stones to end his curse and regain his ability to take physical form so that he might pursue his campaign of vengeance against the greater Chaos Gods.
 
-![MapAlbion.png](/img/user/9_Attachments/MapAlbion.png)
+image removed

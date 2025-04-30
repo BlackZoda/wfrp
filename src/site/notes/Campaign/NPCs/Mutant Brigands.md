@@ -7,7 +7,7 @@ Home: [[Campaign/NPCs/Mutantene\|Mutantene]]
 
 Home: [[NPCs\|NPCs]]
 
-![Screenshot 2024-09-16 at 20.30.21.png](/img/user/9_Attachments/Screenshot%202024-09-16%20at%2020.30.21.png)
+image removed
 ## Terenz, Mikael, Johann, Erik – Mutant Brigands (Brass 0)
 
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |

@@ -16,4 +16,4 @@ Sumpblekkspruter lurer i grunne farvann, vanligvis i myr- og sumpområder. De ve
 
 **Optional:** [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Enormous\|Enormous]]–[[Rules/Attributes/Monstrous\|Monstrous]]), [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412122807.png](/img/user/9_Attachments/Pasted%20image%2020250412122807.png)
+image removed

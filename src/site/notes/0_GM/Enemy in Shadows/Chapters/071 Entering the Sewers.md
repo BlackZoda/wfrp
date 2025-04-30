@@ -11,4 +11,4 @@ Etter å ha klatret ned nesten 2,5 meter, åpner sjakten seg til en hovedkloakkt
 
 Når de er kommet trygt ned, befinner karakterene seg i en hovedkloakk som løper øst og vest, ved et knutepunkt med en annen hovedkloakk som går sørøst mot bymuren.
 
-![sewer-map.png](/img/user/9_Attachments/sewer-map.png)
+image removed

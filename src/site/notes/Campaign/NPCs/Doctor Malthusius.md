@@ -19,7 +19,7 @@ Han er kanskje ikke den høyeste mannen eller den mest kjekke, men øynene hans 
 
 **Trappings:** Chest (containing 4 GCs 38/56), Clothes (gaudy but worn), Dagger, Key (for the chest), Whip, Zoocopeia
 
-![Pasted image 20250413110341.png](/img/user/9_Attachments/Pasted%20image%2020250413110341.png)
+image removed
 
 ## Dag 1
 Karakterene bør møte _Doktor Malthusius_ i løpet av den første dagen av etterforskningen. De kan bestemme seg for å oppsøke ham for å fortelle hva de fant i kloakken. Hvis de ikke gjør det, kan du la _Doktor Malthusius_ løpe på dem i byen eller nær _Festival Court_.

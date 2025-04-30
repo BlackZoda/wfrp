@@ -11,4 +11,4 @@ The Dwarfs' original homeland was located in the mountains of the [[Southlands\|
 
 However, the Dwarfs' pyrrhic victory in the[[ War of Vengeance\| War of Vengeance]], as they call the [[War of the Beard\|War of the Beard]], combined with the vast destruction of the [[Time of Woes\|Time of Woes]] and the onslaught of the [[Goblin Wars\|Goblin Wars]], resulted in the loss of several Dwarf holds and hundreds of smaller settlements and mines. At present, the Dwarfs still rule nine major holds and countless smaller kingdoms, which comprise the totality of the Karaz Ankor.
 
-![Pasted image 20240624202412.png](/img/user/9_Attachments/Pasted%20image%2020240624202412.png)
+image removed

@@ -7,7 +7,7 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Toll Ga
 
 * [[Campaign/Hooks/For Whom the Bell Tolls\|For Whom the Bell Tolls]]
 
-![Screenshot 2024-06-14 at 16.59.55.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2016.59.55.png)
+image removed
 
 Roads need maintenance and to be patrolled; this cost money, so tolls are a necessary price of travel and trade in the [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]]. As such, the [[World/The Empire/Infrastructure/Highway\|highways]] and [[World/The Empire/Infrastructure/Major Road\|byways]] of the province are punctuated regularly by toll bridges and toll gates. Many town and cities also charge a toll to enter.
 

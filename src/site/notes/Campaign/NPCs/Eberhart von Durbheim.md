@@ -26,4 +26,4 @@ Den slående **von Durbheim** kan brukes som ekstra bakgrunnsfarge i Altdorf e
 
 På et tidspunkt mister en eller flere av tilhørerne (tydeligvis ikke av høy stand) tålmodigheten og konfronterer den ‘store baronetten’. Von Durbheim betrakter vedkommende et øyeblikk, trekker så sabelen sin og gjennomborer dem i én flytende bevegelse. Han vinker til en nærliggende vaktmann: ‘Håndter dette’, før han kaster en enkelt shilling på liket og spaserer videre mens han tar en slurk øl han snapper fra noen i mengden. Ingen griper inn, ingen sier et ord. Vaktmannen stapper shillingen i lommen og begynner å arrangere transport av kroppen til **Morrs Hage**.
 
-![Pasted image 20250413013459.png](/img/user/9_Attachments/Pasted%20image%2020250413013459.png)
+image removed

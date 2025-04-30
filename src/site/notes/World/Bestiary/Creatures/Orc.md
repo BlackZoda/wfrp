@@ -17,7 +17,7 @@ Orker kan vokse til enorm størrelse, der større orker er sterkere, mer hardfø
 
 **Optional:** [[World/Bestiary/Traits/Painless\|Painless]], [[Rules/Skills/Ranged\|Ranged]]+8 (50), [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]])
 
-![Pasted image 20250412141938.png](/img/user/9_Attachments/Pasted%20image%2020250412141938.png)
+image removed
 
 > Vi e’ de beste. Vi e’ ikke sånne svake gobboer eller dumme troll, vi e’ skikkelig tøffe! Og hvis noen sier vi ikke e’ det, så skal vi knuse skallen deres.’  
    – _Gurkk Skulltaka, Ork-boss_

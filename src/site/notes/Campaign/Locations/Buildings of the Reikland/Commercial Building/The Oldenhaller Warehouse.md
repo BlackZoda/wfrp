@@ -5,7 +5,7 @@
 
 Home: [[Campaign/Locations/Buildings of the Reikland/Commercial Building/Reikland Commercial Building\|Reikland Commercial Building]]
 
-![Screenshot 2024-06-14 at 09.06.42.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2009.06.42.png)
+image removed
 
 * [[Campaign/Hooks/Who Watches the Watchmen?\|Who Watches the Watchmen?]]
 

@@ -15,4 +15,4 @@ De fleste [[World/Bestiary/Ratmen\|Skaven]] er klanrotter, og stammer fra en av 
 
 **Optional:** [[World/Bestiary/Traits/Diseased\|Diseased]] ([[Rules/Disease and Infection/Ratte Fever\|Ratte Fever]]), [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Skittish\|Skittish]], [[World/Bestiary/Traits/Stealthy\|Stealthy]], [[World/Bestiary/Traits/Tracker\|Tracker]]
 
-![Pasted image 20250416185541.png](/img/user/9_Attachments/Pasted%20image%2020250416185541.png)
+image removed

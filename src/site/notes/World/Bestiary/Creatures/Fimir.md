@@ -17,7 +17,7 @@ Fimir-samfunnet er matriarkalsk. Lederen for hver klan er en mektig heks kalt _
 
 **Optional:** [[World/Bestiary/Traits/Tail Attack\|Tail Attack]]+7, [[World/Bestiary/Traits/Spellcaster\|Spellcaster]] ([[Rules/Magic/Spells/Daemonology/Lore of Daemonology Spells\|Daemonology]])
 
-![Pasted image 20250412130215.png](/img/user/9_Attachments/Pasted%20image%2020250412130215.png)
+image removed
 
 > «Vi tilbragte bryllupsreisen vår i familiens sommerhus ved havet. En morgen, under en luftetur langs klippene, snek tåken seg inn. Plutselig ble det stille og påfallende lydløst. Så, som fra intet… _Bog Daemons_! Enorme, enøyde, tønnebrystede skapninger. Jeg ble slengt i bakken av et haleslag. En annen kastet Greta over skulderen. Så forsvant de bare inn i tåken, like hurtig og lydløst som de hadde dukket opp. Jeg sverger at dette er Verenas reneste sannhet.»
 > 

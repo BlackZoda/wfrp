@@ -3,4 +3,4 @@
 ---
 
 
-![Bogenhafen.png](/img/user/9_Attachments/Bogenhafen.png)
+image removed

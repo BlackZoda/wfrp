@@ -15,4 +15,4 @@ Selv om de ulærde ofte forveksler dem med drager, er de stinkende wyvernene –
 
 **Optional:** [[World/Bestiary/Traits/Breathing\|Breathing]] ([[World/Bestiary/Traits/Venom\|Venom]]), [[World/Bestiary/Traits/Horns\|Horns]], [[Mount\|Mount]], [[World/Bestiary/Traits/Tail Attack\|Tail Attack]]+9, [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Guard, Magic, Mount, War)
 
-![Pasted image 20250412140027.png](/img/user/9_Attachments/Pasted%20image%2020250412140027.png)
+image removed

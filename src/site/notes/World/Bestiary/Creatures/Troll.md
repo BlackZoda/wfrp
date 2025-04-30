@@ -15,7 +15,7 @@ Troll er skitne, motbydelige skapninger som plager alle hjørner av den _Gamle 
 
 **Optional:** [[Aquatic\|Aquatic]], [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Frenzied\|Frenzied]], [[World/Bestiary/Traits/Hungry\|Hungry]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Magic Resistance (trait)\|Magic Resistance (trait)]], [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Stealthy\|Stealthy]], [[World/Bestiary/Traits/Swamp-strider\|Swamp-strider]]
 
-![Pasted image 20250412135012.png](/img/user/9_Attachments/Pasted%20image%2020250412135012.png)
+image removed
 
 > ‘Jeg forsikrer Dem, herr, vi har utført omfattende undersøkelser på dette feltet og mistet noen av våre modigste taksonomer i denne innsatsen. Det finnes nøyaktig tjuetre trollvarianter i Imperiet for øyeblikket – inkludert sytten underarter og to uverifiserte observasjoner som ennå ikke er klassifisert. Denne detaljgraden er nettopp grunnen til at det _Keiserlige Selskap_ ble etablert; våre tall er nøyaktige’
 > 

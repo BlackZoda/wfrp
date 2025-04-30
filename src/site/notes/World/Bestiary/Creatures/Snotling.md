@@ -15,4 +15,4 @@ Ertehjerne-skapninger lik entusiastiske, ukontrollerte valper. Snotlinger er åt
 
 **Optional:** [[World/Bestiary/Traits/Swarm\|Swarm]], [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Fetch, Guard), [[World/Bestiary/Traits/Venom\|Venom]]
 
-![Pasted image 20250412142955.png](/img/user/9_Attachments/Pasted%20image%2020250412142955.png)
+image removed

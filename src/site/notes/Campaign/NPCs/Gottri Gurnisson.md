@@ -19,4 +19,4 @@ Gottri er slapp, skitten, har filtret gråsprængt hår og et filtret skjegg, sa
 
 **Trappings:** Fleas, Rags
 
-![Pasted image 20250413110149.png](/img/user/9_Attachments/Pasted%20image%2020250413110149.png)
+image removed

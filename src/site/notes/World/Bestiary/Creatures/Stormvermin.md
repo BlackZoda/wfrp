@@ -15,4 +15,4 @@ Home: [[World/Bestiary/Ratmen\|Ratmen]]
 
 **Options:** [[World/Bestiary/Traits/Diseased\|Diseased]] ([[Rules/Disease and Infection/Ratte Fever\|Ratte Fever]]), [[World/Bestiary/Traits/Mutated\|Mutated]], [[World/Bestiary/Traits/Tracker\|Tracker]]
 
-![Pasted image 20250416185604.png](/img/user/9_Attachments/Pasted%20image%2020250416185604.png)
+image removed

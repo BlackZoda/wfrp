@@ -15,7 +15,7 @@ Skjeletter er kjøttløse beinrester fra de lenge døde, gjenopplivet av svart m
 
 **Trappings:** [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412144259.png](/img/user/9_Attachments/Pasted%20image%2020250412144259.png)
+image removed
 ### Den er levende! Levende!  
 Nekromantikere kan vekke og kontrollere de døde, men de er selv levende døde (om enn makabre individer besatt av å overvinne dødeligheten). Bruk menneskenes egenskaper på side 311 og legg til [[Rules/Career/Wizard\|Wizard]] ([[Necromancy\|Necromancy]]) for å skape en nekromantiker.
 ### Alternativer: Knokler

@@ -26,4 +26,4 @@ En spinkel kvinne i 50-årene med grånende blondt hår og skifergrå øyne, 'My
 
 **Trappings:** 34/12, Amulets (large selection), Bedroll, Jewellery (cheap and gaudy), Pack of Cards (Reiklander Tarock), Slingbag, Tent (blue and white)
 
-![Pasted image 20250413113341.png](/img/user/9_Attachments/Pasted%20image%2020250413113341.png)
+image removed

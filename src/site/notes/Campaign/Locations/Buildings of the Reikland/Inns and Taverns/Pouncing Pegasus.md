@@ -7,7 +7,7 @@ Home: [[World/The Empire/Infrastructure/Coaching Inn\|Coaching Inn]]
 
 * [[Campaign/Hooks/At the Sign of the Pounching Pegasus\|At the Sign of the Pounching Pegasus]]
 
-![Screenshot 2024-06-14 at 12.54.31.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2012.54.31.png)
+image removed
 
 Resembling a fortress from afar, the Pouncing Pegasus is a coaching inn on the main road from [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]] to [[World/The Empire/Electorial Provinces/Reikland/Settlements/Bögenhafen/Bögenhafen\|Bögenhafen]]. It is surrounded by high, stone walls, and possesses a watchtower clad in timber, from which looouts can spy approaching as well as any marauding [[World/Races/Greenskin\|Greenskin]]s, [[World/Races/Beastman\|Beastmen]], or brigands.
 

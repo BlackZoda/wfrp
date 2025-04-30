@@ -15,4 +15,4 @@ Frambrakt av trollmenn fra myrers og sumpers søle, er _Fenbeasts_ tilsynelate
 
 **Optional:** [[World/Bestiary/Traits/Frenzied\|Frenzied]], [[World/Bestiary/Traits/Hungry\|Hungry]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412125700.png](/img/user/9_Attachments/Pasted%20image%2020250412125700.png)
+image removed

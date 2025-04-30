@@ -18,4 +18,4 @@ Tungt pansrede, massive bruter dekket av ornate pigger og øyesviende symboler f
 >*"I det fryktede nord ligger den største trusselen. Den er et produkt av et annet sted, en annen tid, sluppet løs på oss av langt døde guders ulykke og feilgrep. Den griper sultent etter vår verden, skjelvende av forventning, og sender horder av de mest krigerske og misunnelige folkene av dem alle: våre egne slektninger, menneskenes stammer."*
     – Phitzer, heks fra Wissenland
 
-![Pasted image 20250415205754.png](/img/user/9_Attachments/Pasted%20image%2020250415205754.png)
+image removed

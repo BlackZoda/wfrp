@@ -19,4 +19,4 @@ Den mest berømte griffonen i Reikland er *Dødsklo* ([[Deathclaw\|Deathclaw]])
 
 **Optional:** [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Guard, Magic, Mount, War)
 
-![Pasted image 20250412131717.png](/img/user/9_Attachments/Pasted%20image%2020250412131717.png)
+image removed

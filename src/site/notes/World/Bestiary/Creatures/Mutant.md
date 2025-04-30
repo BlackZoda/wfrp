@@ -15,6 +15,6 @@ En av de mest tragiske skjebnene som kan ramme et menneske, er å bukke under fo
 
 **Optional:** All [[World/Bestiary/Creature Traits\|Creature Traits]]
 
-![Pasted image 20250415201954.png](/img/user/9_Attachments/Pasted%20image%2020250415201954.png)
+image removed
 ### Options: The Enemies Within
 Cultists and Mutants tend to hide in plain sight, and most are, or were, ordinary members of society. As such, the Peoples of the Reikland guidelines for creating NPCs on page 311 (WFRP) provides an alternative starting point.

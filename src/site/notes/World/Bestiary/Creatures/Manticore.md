@@ -19,4 +19,4 @@ Heldigvis sjeldne er mantikorer ubønnhørlig brutale, drevet av et behov for å
 > 
 > – Adhemar Fitztancred, Grey Guardian, Raconteur and Liar
 
-![Pasted image 20250412134532.png](/img/user/9_Attachments/Pasted%20image%2020250412134532.png)
+image removed

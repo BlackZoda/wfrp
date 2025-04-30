@@ -15,4 +15,4 @@ Massive og kjempesterke, okseaktige minotaurer tårner over selv de største bes
 
 **Optional:** [[World/Bestiary/Traits/Arboreal\|Arboreal]], [[World/Bestiary/Traits/Belligerent\|Belligerent]], [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[World/Bestiary/Traits/Diseased\|Diseased]] ([[Rules/Disease and Infection/Packer's Pox\|Packer's Pox]]), [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Mutated\|Mutated]]
 
-![Pasted image 20250415195217.png](/img/user/9_Attachments/Pasted%20image%2020250415195217.png)
+image removed

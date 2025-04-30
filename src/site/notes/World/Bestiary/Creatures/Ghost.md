@@ -15,4 +15,4 @@ Spøkelser er åndene til pinefulle sjeler som døde med uavsluttede gjøremål.
 
 **Trappings:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]], [[World/Bestiary/Traits/Swarm\|Swarm]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412153027.png](/img/user/9_Attachments/Pasted%20image%2020250412153027.png)
+image removed

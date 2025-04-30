@@ -4,7 +4,7 @@
 
 
 Home: [[0_GM/Enemy in Shadows/Chapters/07 Into the Darkness\|07 Into the Darkness]]
-![sewer-map.png](/img/user/9_Attachments/sewer-map.png)
+image removed
 
 Bögenhafen har to typer sjakter i kloakkene: Hoved- og sidesjakter.
 

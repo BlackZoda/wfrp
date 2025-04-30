@@ -5,7 +5,7 @@
 
 Home: [[0_GM/Enemy in Shadows/Chapters/07 Into the Darkness\|07 Into the Darkness]]
 
-![sewer-map.png](/img/user/9_Attachments/sewer-map.png)
+image removed
 
 I tillegg til lokasjonene markert på kloakk-kartet, kan du kanskje legge inn noen flere farer og møter for å holde ting interessant. Følgende _valgfrie møter_ er presentert for å hjelpe deg med å gjenskape kloakkens atmosfære og er ikke ment å gi sterk motstand for karakterene. Det viktigste er å formidle hvor mørkt, fuktig og stinkende stedet er – bruk merkelige, fjerne ekkoer og nærliggende plask for å gjøre alle urolige.
 

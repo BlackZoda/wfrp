@@ -7,7 +7,7 @@ Home: [[Campaign/NPCs/Mutantene\|Mutantene]]
 
 Home: [[NPCs\|NPCs]]
 
-![Screenshot 2024-09-16 at 19.53.45.png](/img/user/9_Attachments/Screenshot%202024-09-16%20at%2019.53.45.png)
+image removed
 ## Rolf Hurtsis – Mutant Brigand (Brass 0)
 
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |

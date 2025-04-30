@@ -7,7 +7,7 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Religious Buildings/Reiklan
 
 * [[Campaign/Hooks/Shrine On\|Shrine On]]
 
-![Screenshot 2024-06-14 at 20.38.43.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2020.38.43.png)
+image removed
 
 Just beyond [[World/The Empire/Electorial Provinces/Reikland/Settlements/Diesdorf\|Diesdorf]], a little way off the beaten track, via a winding path that leads through the forest, lies an ancient shrine to [[World/Religion and Belief/Gods/Rhya\|Rhya]]. The sacred place is housed in a worn, megalithic structure with a flat roof that looks ancient. However, the large stone table it protects from the elements is much older. Nobody remembers what the table is supposed to be, or why it is enshrined, but the locals reliably maintain it, leaving offerings of fruit, vegetables, and sheaves of corn.
 

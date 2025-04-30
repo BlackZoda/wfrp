@@ -19,6 +19,6 @@ Home: [[0_GM/Hjem\|Hjem]]
 
 [[World/Other Nations/Cities\|Cities]] of the Old World
 
-![TheLArgerOldWorld.png](/img/user/9_Attachments/TheLArgerOldWorld.png)
+image removed
 
-![Regions.png](/img/user/9_Attachments/Regions.png)
+image removed

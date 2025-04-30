@@ -35,4 +35,4 @@ Alt skitten arbeid han trenger utført, blir enten gjennomført av Gideon eller 
 
 Utenfor hjemmet ledsages Teugen alltid av minst to livvakter (bruk karakterprofilen til [[Campaign/NPCs/Georg Handelsson\|Georg Handelsson]] på side 111 for disse). Hvis han må reise på forretninger om dagen, bruker han vanligvis en bærestol båret av fire tjenere, flankert av sine alltid vaktsomme livvakter. For å opprettholde fasaden som en god mann, gir Teugen ofte almisser til de fattige når han er i byen. Alle har et godt ord å si om ham.
 
-![Pasted image 20250412213605.png](/img/user/9_Attachments/Pasted%20image%2020250412213605.png)
+image removed

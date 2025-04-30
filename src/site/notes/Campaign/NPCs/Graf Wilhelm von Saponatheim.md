@@ -19,4 +19,4 @@ Home: [[NPCs\|NPCs]]
 
 **Trappings:**
 
-![Pasted image 20250413090854.png](/img/user/9_Attachments/Pasted%20image%2020250413090854.png)
+image removed

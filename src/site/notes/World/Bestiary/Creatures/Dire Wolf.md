@@ -15,4 +15,4 @@ Når jorden gir slipp på de døde, er det ikke bare mennesker som reiser seg; m
 
 **Trappings:** [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Minor), [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412145616.png](/img/user/9_Attachments/Pasted%20image%2020250412145616.png)
+image removed

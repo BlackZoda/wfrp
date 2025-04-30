@@ -29,7 +29,7 @@ Tyveri er en forbrytelse, men kan også være en kunstform. Med riktig kombinasj
 
 De fleste av disse skøyeraktige Ranaldianerne startet som vanlige tyver, kanskje med å plukke lommer eller stjele varer fra vogner når eieren ikke så det. På et tidspunkt følte de et åndelig kall til Ranald, eller en eldre prest fant dem og så en lovende kandidat til innvielse. Tyveprester kjenner alltid til de lokale gjengene av unge kriminelle og holder øye med potensielle læregutter de kan lære opp i Ranalds veier. Det er så enkelt som å få en nykommer til å sverge at de vil følge Ranalds regler, og dermed er de på vei mot presteskapet — Ranaldianere driver ikke med kompliserte seremonier.
 
-![Pasted image 20250415164229.png](/img/user/9_Attachments/Pasted%20image%2020250415164229.png)
+image removed
 
 ## Å legemliggjøre Nattstreiferen
 Disse Ranald-tilhengerne lever slik Nattstreiferen selv ville gjort om han var dødelig. De praktiserer og feirer tyveri som en kunstform, og gir velsignelser og veiledning til kriminelle som bruker snikende ferdigheter, oppfinnsomhet og list for å ta ting fra andre. De streber etter å begrense vold blant andre i underverdenen, holder brutalitet i sjakk og viser gjennom sine handlinger at det finnes snikende, subtile og blodløse måter å livnære seg som tyv på.

@@ -7,7 +7,7 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Religious Buildings/Temple 
 
 * [[Campaign/Hooks/Faith No More\|Faith No More]]
 
-![Screenshot 2024-06-14 at 19.08.13.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2019.08.13.png)
+image removed
 
 Dominating the Marktplatz of the village of [[Walen\|Walen]], near [[Auerswald\|Auerswald]], the templeof Sigmar is the settlement’s heart in more ways than one. The relatively small building is still the largest in the surrounding area by some measure, facing its nearest rival – [[The Crooked Crook\|The Crooked Crook]] tavern – across the market square.
 

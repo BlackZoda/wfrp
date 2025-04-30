@@ -7,7 +7,7 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Inns and Taverns/Tavern\|Ta
 
 * [[Campaign/Hooks/Time, Gentlemen, Please\|Time, Gentlemen, Please]]
 
-![Screenshot 2024-06-14 at 15.43.09.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2015.43.09.png)
+image removed
 
 In [[World/The Empire/Electorial Provinces/Reikland/Settlements/Eilhart\|Eilhart]], a town known for its ales and wines, there are many many excellent drinking establishments. The Drum and Hat, just off Sigmarplatz, is one of the town’s better-known taverns popular with tourists looking to sample a range of the region’s light, hoppy beers, as well as discerning locals. This is due in no small part to barkeep and brewmaster, [[Berthold Becker\|Berthold Becker]], who both brews his own delicious ales, and also deploy his garrulous charm and refined palate to pioneer the concept of “guest ales”, featuring beers brewed in other establishments. Whether this crazy idea will take off is anyone’s guess.
 

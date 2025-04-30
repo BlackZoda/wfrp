@@ -15,4 +15,4 @@ Bray-sjamener fødes med en instinktiv evne til å beherske Kaosets krefter, som
 
 **Optional:** [[World/Bestiary/Traits/Diseased\|Diseased]] ([[Rules/Disease and Infection/Packer's Pox\|Packer's Pox]]), [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infested\|Infested]], [[Rules/Mutations/Mutation\|Mutation]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]])
 
-![Pasted image 20250415200318.png](/img/user/9_Attachments/Pasted%20image%2020250415200318.png)
+image removed

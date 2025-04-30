@@ -7,7 +7,7 @@ Home: [[Campaign/NPCs/Mutantene\|Mutantene]]
 
 Home: [[NPCs\|NPCs]]
 
-![Screenshot 2024-09-16 at 20.05.52.png](/img/user/9_Attachments/Screenshot%202024-09-16%20at%2020.05.52.png)
+image removed
 ## Name – Race/Career (status)
 
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |

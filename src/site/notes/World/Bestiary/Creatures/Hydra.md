@@ -15,4 +15,4 @@ Den mangehodede, øgleaktige Hydraen har en massiv kropp som bærer en labyrint 
 
 **Trappings:** [[World/Bestiary/Traits/Belligerent\|Belligerent]], [[World/Bestiary/Traits/Territorial\|Territorial]], [[World/Bestiary/Traits/Venom\|Venom]]
 
-![Pasted image 20250412132800.png](/img/user/9_Attachments/Pasted%20image%2020250412132800.png)
+image removed

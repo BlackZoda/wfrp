@@ -5,7 +5,7 @@
 
 Home: [[0_GM/Enemy in Shadows/Chapters/01 Wanted Bold Adventurers\|01 Wanted Bold Adventurers]]
 
-![Screenshot 2024-06-14 at 23.00.56.png](/img/user/9_Attachments/Screenshot%202024-06-14%20at%2023.00.56.png)
+image removed
 
 >[!Info]- Personlighet og Intro
 >Gustav er eier av *Hest og Vogn* [[0_GM/Enemy in Shadows/Chapters/012 The Coach and Horses Inn\|012 The Coach and Horses Inn]], og den første karakterene møter ved ankomst. Han snakker i et sett og stopper bare lenge nok til å gi karakterene mulighet til å svare på spørsmålene. Han spør om karakterenes helse, hvor de skal, om de ønsker et rom osv. Han fyller ut de minste pauser med prat om bedriften, været, tilstanden på veiene, og alt annet han kan komme på. Han prater entusiastisk om de andre gjestene, spessielt [[Campaign/NPCs/Lady Isolde von Strudeldorf\|Lady Isolde von Strudeldorf]], siden han er veldig begeistret for å ha en adelig kvinne på besøk.

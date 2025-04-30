@@ -14,7 +14,7 @@ Det ultimate målet for alle kaosmestere er apoteose: å stige opp til demonhete
 
 **Traits:** [[World/Bestiary/Traits/Armoured\|Armoured]] 1, [[World/Bestiary/Traits/Champion\|Champion]], [[World/Bestiary/Traits/Corrupted\|Corrupted]] (Major), [[World/Bestiary/Traits/Daemonic\|Daemonic]] 8+, [[Rules/Magic/Spells/Arcane Spells/Distracting\|Distracting]], [[World/Bestiary/Traits/Horns\|Horns]]+15, [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Large\|Large]]), [[World/Bestiary/Traits/Spellcaster\|Spellcaster]] ([[Rules/Magic/Spells/Chaos Spells/Lore of Slaanesh Spells\|Slaanesh]]), [[World/Bestiary/Traits/Terrorizing\|Terrorizing]] 3, [[World/Bestiary/Traits/Unstable\|Unstable]], [[World/Bestiary/Traits/Armed Weapon\|Armed Weapon]]+16
 
-![Pasted image 20250416030950.png](/img/user/9_Attachments/Pasted%20image%2020250416030950.png)
+image removed
 ## Fr’hough Mournbreath – Daemon Prince of Nurgle
 
 | M   | WS  | BS  | S   | T   | I   | Agi | Dex | Int | WP  | Fel | W   |

@@ -15,4 +15,4 @@ Kjemper er ensomme skapninger som vanligvis unnviker sivilisasjonen. De fleste s
 
 **Optional:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Breathing\|Breathing]] (Drunken Vomit), [[World/Bestiary/Traits/Hungry\|Hungry]], [[World/Bestiary/Traits/Infected\|Infected]], [[World/Bestiary/Traits/Infested\|Infested]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Monstrous\|Monstrous]]), [[World/Bestiary/Traits/Stupid\|Stupid]]
 
-![Pasted image 20250412130909.png](/img/user/9_Attachments/Pasted%20image%2020250412130909.png)
+image removed

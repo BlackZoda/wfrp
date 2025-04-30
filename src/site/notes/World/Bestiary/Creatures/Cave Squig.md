@@ -15,4 +15,4 @@ Squigs er store, vanligvis runde soppaktige skapninger som lever dypt under jord
 
 **Optional:** [[Aquatic\|Aquatic]], [[World/Bestiary/Traits/Breathing\|Breathing]] ([[Acid\|Acid]] or [[Gas\|Gas]]), [[World/Bestiary/Traits/Dark Vision\|World/Bestiary/Traits/Dark Vision]], [[World/Bestiary/Traits/Frenzied\|Frenzied]], [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Horns\|Horns]], [[World/Bestiary/Traits/Sized\|Sized]] ([[Rules/Attributes/Tiny\|Tiny]]-[[Rules/Attributes/Enormous\|Enormous]])
 
-![Pasted image 20250412123558.png](/img/user/9_Attachments/Pasted%20image%2020250412123558.png)
+image removed

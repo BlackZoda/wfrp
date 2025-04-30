@@ -15,4 +15,4 @@ Noen av de mest ynkverdige skapningene i den [[Gamle Verden\|Gamle Verden]]. Kr
 
 **Optional:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Venom\|Venom]]
 
-![Pasted image 20250412150421.png](/img/user/9_Attachments/Pasted%20image%2020250412150421.png)
+image removed

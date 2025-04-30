@@ -21,4 +21,4 @@ Richter er ingen dåre og lar seg ikke enkelt bløffe eller lure. Han snakker me
 
 **Trappings:** Amulets (Verenean), Gavel, Robes (Lawyer), Signet Ring (Lawyers’ Guild), Sword of Office, Town Seal, Wig
 
-![Pasted image 20250413105756.png](/img/user/9_Attachments/Pasted%20image%2020250413105756.png)
+image removed

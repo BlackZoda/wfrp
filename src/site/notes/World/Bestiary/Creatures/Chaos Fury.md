@@ -21,4 +21,4 @@ Furies are weak-willed and cowardly by nature. A Daemonologist may easily bind o
 
 **Optional:** [[World/Bestiary/Traits/Afraid\|Afraid]] ([[Deamon\|Deamon]]s and/or [[Deamonologists\|Deamonologists]]), [[World/Bestiary/Traits/Brute\|Brute]], [[World/Bestiary/Traits/Clever\|Clever]], [[Rules/Trappings/Weapons/Quaity/Fast\|Fast]], [[Rules/Mutations/Mutation\|Mutation]], [[Rules/Attributes/Size\|Size]] (Tiny, Small or Large)
 
-![Pasted image 20250412093401.png](/img/user/9_Attachments/Pasted%20image%2020250412093401.png)
+image removed

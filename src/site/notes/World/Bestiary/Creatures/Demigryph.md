@@ -15,4 +15,4 @@ Med ørnehode og løvekropp er _demigryffer_ mektige skapninger med en edel ho
 
 **Optional:** [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Drive, Guard, Mount, War)
 
-![Pasted image 20250412124648.png](/img/user/9_Attachments/Pasted%20image%2020250412124648.png)
+image removed

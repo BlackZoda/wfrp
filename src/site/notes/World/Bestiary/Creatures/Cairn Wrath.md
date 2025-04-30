@@ -15,4 +15,4 @@ Cairn Wraiths er spesielt mektige ånder – de spektrale restene av ambisiøse 
 
 **Optional:** [[World/Bestiary/Traits/Bestial\|Bestial]], [[World/Bestiary/Traits/Champion\|Champion]], [[World/Bestiary/Traits/Painless\|Painless]], [[World/Bestiary/Traits/Territorial\|Territorial]]
 
-![Pasted image 20250412151324.png](/img/user/9_Attachments/Pasted%20image%2020250412151324.png)
+image removed

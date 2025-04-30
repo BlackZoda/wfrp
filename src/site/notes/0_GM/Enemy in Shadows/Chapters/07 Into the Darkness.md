@@ -18,7 +18,7 @@ Våre helter beveger seg inn i kloakken på jakt etter den rømte [[Campaign/NPC
 * [[Campaign/NPCs/Reinhold and Reinhardt\|Reinhold and Reinhardt]]
 * [[Campaign/NPCs/Franz Baumann\|Franz Baumann]]
 
-![sewer-map.png](/img/user/9_Attachments/sewer-map.png)
+image removed
 
 ## Rewards
 * 5 points for falling in the sewage

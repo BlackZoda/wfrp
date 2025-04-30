@@ -15,7 +15,7 @@ Skrøpelige, ondskapsfulle, smidige og intelligente – en goblins selvbevarelse
 
 **Optional:** [[World/Bestiary/Traits/Arboreal\|Arboreal]], [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] ([[World/Races/Dwarf\|Dwarfs]]), [[World/Bestiary/Traits/Night Visioned\|Night Visioned]], [[World/Bestiary/Traits/Armed Ranged\|Armed Ranged]]+7 (25), [[World/Bestiary/Traits/Venom\|Venom]]
 
-![Pasted image 20250412142000.png](/img/user/9_Attachments/Pasted%20image%2020250412142000.png)
+image removed
 
 > ‘Goblins, herr, tusenvis av dem!’  
    – _Løytnant Bromkopf, Reiklands 24. regiment til fots_

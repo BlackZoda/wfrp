@@ -17,4 +17,4 @@ Med begrenset intelligens dreper hippogryffer vanligvis alt i nærheten under ja
 
 **Optional:** [[World/Bestiary/Traits/Frenzied\|Frenzied]], [[World/Bestiary/Traits/Fury\|Fury]], [[World/Bestiary/Traits/Hatred (trait)\|Hatred (trait)]] (Everything), [[World/Bestiary/Traits/Trained\|Trained]] (Broken, Mount)
 
-![Pasted image 20250412132339.png](/img/user/9_Attachments/Pasted%20image%2020250412132339.png)
+image removed
