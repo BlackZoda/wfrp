@@ -11,6 +11,7 @@
 * [[0_GM/Enemy in Shadows/Rumors\|Rumors]]
 ### Fiender i Skyggene
 * [[0_GM/Enemy in Shadows/Chapters/000 Kapitler\|000 Kapitler]]
+* [[0_GM/Enemy in Shadows/Fiender i Skyggene\|Fiender i Skyggene]]
 ### Organizations
 * [[Campaign/Organizations/Den Lilla Hånden\|Den Lilla Hånden]]
 * [[Campaign/Organizations/Ordo Septenarius\|Ordo Septenarius]]

@@ -3,4 +3,4 @@
 ---
 
 
-Home: [[Campaign/Organizations/Legelauget i Bögenhafen\|Legelauget i Bögenhafen]], [[Campaign/Locations/Richter sine værelser\|Richter sine værelser]]
+Home: [[Campaign/Organizations/Bögenhafen Legelaug\|Bögenhafen Legelaug]], [[Campaign/Locations/Richter sine værelser\|Richter sine værelser]]

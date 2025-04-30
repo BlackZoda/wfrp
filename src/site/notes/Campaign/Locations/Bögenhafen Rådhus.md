@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/Campaign/Locations/Bögenhafen Rådhus/"}
 ---
 
-
 Home: [[0_GM/Enemy in Shadows/Chapters/083 Primary Locations\|083 Primary Locations]]
-
 # Rådhuset
 Ved rådhuset møter karakterene en surmulende kontorist, [[Mehralmann Arbeitwert\|Mehralmann Arbeitwert]]. Hvis de spør, informerer han dem om at goblinen ble drept i et lager natten før. Siden de ikke klarte å fange den, er byrådet ikke villige til å utbetale noen belønning for deres innsats.
 
@@ -38,12 +36,12 @@ På en høflig måte gjentar [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]
 
 Angående en **demon**? Nei, det er åpenbart absurd. Teugen er overbevist om at karakterene ble lurt av lysspill og forvrengte ekko i kloakenes dystere omgivelser.
 
-Hvis [[Campaign/Organizations/Ordo Septenarius\|Ordo Septenarius]] nevnes, forklarer **Teugen** at han faktisk er medlem av dette veldedige selskapet. Han sier, med en anelse unnskyldende tone, at han ikke har tid til å diskutere det nå. Han anbefaler at karakterene kontakter **Rådsmann [[Campaign/NPCs/Friedrich Magirius\|Friedrich Magirius]]** ved [[Campaign/Organizations/Kjøpmannslauget i Bögenhafen\|Kjopmannslauget]], som sikkert vil svare på alle spørsmål med glede.
+Hvis [[Campaign/Organizations/Ordo Septenarius\|Ordo Septenarius]] nevnes, forklarer **Teugen** at han faktisk er medlem av dette veldedige selskapet. Han sier, med en anelse unnskyldende tone, at han ikke har tid til å diskutere det nå. Han anbefaler at karakterene kontakter **Rådsmann [[Campaign/NPCs/Friedrich Magirius\|Friedrich Magirius]]** ved [[Campaign/Organizations/Bögenhafen Kjøpmannslaug\|Kjopmannslauget]], som sikkert vil svare på alle spørsmål med glede.
 
 Deretter unnskylder han seg med at han har mye å gjøre og ringer i en liten messingklokke på skrivebordet. Kontoristen dukker opp for å følge gruppen ut.
 
 Ved fremtidige besøk til rådhuset klarer ikke karakterene å komme forbi kontoristen. Hvis de insisterer, dukker det opp fire medlemmer av **[[Campaign/NPCs/Byvakter\|Byvakten]]** for å eskortere dem ut av bygningen.
-### Town Records
+### Byarivene
 Byarkivene, som oppbevares på rådhuset, er utilgjengelige for karakterene. **[[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]** bruker sin innflytelse til å begrense tilgangen til medlemmer av byrådet, og alle forsøk på å klage over dette avvises kategorisk.
 ### Observasjon av Rådhuset
 Ved observasjon av rådhuset kommer og går forskjellige personer gjennom dagen, og de fleste ansatte drar rett før skumring. **[[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]** forlater alltid bygningen like etter skumring og går direkte til sitt hus på **[[Adel Ring\|Adel Ring]]**.
