@@ -9,7 +9,7 @@ Det følgende er hovedlokasjoner som er viktige for eventyret. Lokasjonene er av
 
 imgrem1
 
-* [[Goblin-inngangspunkt\|Goblin-inngangspunkt]]
+* [[Campaign/Locations/Goblin-inngangspunkt\|Goblin-inngangspunkt]]
 * [[Campaign/Locations/Kloakkdør til de Kryssede Spyd\|Kloakkdør til de Kryssede Spyd]]
 * [[Campaign/Locations/Gotri sitt lik\|Gotri sitt lik]]
 * [[Campaign/Locations/Utløpsrør i kloakken i Bögenhafen\|Utløpsrør]]

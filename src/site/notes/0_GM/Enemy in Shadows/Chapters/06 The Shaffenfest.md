@@ -22,7 +22,7 @@ Våre helter har funnet ut at arven var tull, og trenger trolig å muntres opp l
 * [[Campaign/NPCs/Megret See\|Megret See]]
 * [[Campaign/NPCs/Escaped Livestock\|Escaped Livestock]]
 * [[Campaign/NPCs/Fairgoers\|Fairgoers]]
-* [[Campaign/NPCs/Pandora "Erta" Lommetom\|Pandora "Erta" Lommetom]]
+* [[Campaign/NPCs/Pandora Lommetom\|Pandora Lommetom]]
 * [[Campaign/PCs/Reynald Verstand\|Reynald Verstand]]
 * [[Campaign/NPCs/Alette Zimmerman\|Alette Zimmerman]]
 * [[Campaign/NPCs/Eberhart von Durbheim\|Eberhart von Durbheim]]

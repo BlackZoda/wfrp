@@ -24,7 +24,7 @@ I teorien trenger ikke karkterene mer insentiver for å dra til [[World/The Empi
 ## NPCs
 * [[Campaign/NPCs/Josef Quartjin\|Josef Quartjin]]
 * [[Wolmar and Gilda\|Wolmar and Gilda]]
-* [[Campaign/NPCs/Pandora "Erta" Lommetom\|Pandora "Erta" Lommetom]]
+* [[Campaign/NPCs/Pandora Lommetom\|Pandora Lommetom]]
 * [[Campaign/NPCs/Elara Winterdraum\|Elara Winterdraum]]
 * [[Campaign/NPCs/Etelka Herzen\|Etelka Herzen]]
 * [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]

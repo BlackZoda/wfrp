@@ -36,7 +36,7 @@ Karakterer som åpner dører eller vinduer vil bli møtt med potter med brennend
 
 Viss karakterene har en vakt på lekteren, så vil Adolphus først forsåke å uskadeliggjøre vakten med armbrøsten sin, mens bøllene angriper fra den andre retningen  med potter fulle av brennende olje. Planen er den samme, å gjøre lekteren til et brennende inferno og angripe de om bord når de flykter ut på dekk hostende av røyken.
 ## Pulling the Fire Out
-Mens karakterene tar hånd om [[Campaign/NPCs/Adolphus Kuftsos\|Adolphus Kuftsos]] og bøllene, så vil [[Campaign/NPCs/Pandora "Erta" Lommetom\|Pandora "Erta" Lommetom]], [[Campaign/NPCs/Elara Winterdraum\|Elara Winterdraum]], Wolmar og Gilda prøve å slukke brannene, og etter det lette anker. Å lette anker tar normalt minst 20 runder, men ved å kutte tauene kan dette bli redusert til kun 6. Fortøyningene har 6 [[Rules/Attributes/Wounds (W)\|Wounds]] og en [[Toughness Bonus\|Toughness Bonus]] på 4.
+Mens karakterene tar hånd om [[Campaign/NPCs/Adolphus Kuftsos\|Adolphus Kuftsos]] og bøllene, så vil [[Campaign/NPCs/Pandora Lommetom\|Pandora Lommetom]], [[Campaign/NPCs/Elara Winterdraum\|Elara Winterdraum]], Wolmar og Gilda prøve å slukke brannene, og etter det lette anker. Å lette anker tar normalt minst 20 runder, men ved å kutte tauene kan dette bli redusert til kun 6. Fortøyningene har 6 [[Rules/Attributes/Wounds (W)\|Wounds]] og en [[Toughness Bonus\|Toughness Bonus]] på 4.
 
 Josef, Wolmar og Gilda burde klare å slukke flammene ganske raskt. Skade som blir påført i løpet av fighten kan bli reparert av Josef neste dag.
 ## Brevet

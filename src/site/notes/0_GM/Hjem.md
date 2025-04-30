@@ -15,7 +15,7 @@
 * [[Campaign/Organizations/Den Lilla Hånden\|Den Lilla Hånden]]
 * [[Campaign/Organizations/Ordo Septenarius\|Ordo Septenarius]]
 ### NPCs
-* [[Campaign/NPCs/Pandora "Erta" Lommetom\|Pandora "Erta" Lommetom]]
+* [[Campaign/NPCs/Pandora Lommetom\|Pandora Lommetom]]
 * [[Campaign/NPCs/Josef Quartjin\|Josef Quartjin]]
 * [[Campaign/NPCs/Gideon\|Gideon]]
 * [[Campaign/NPCs/Johannes Teugen\|Johannes Teugen]]
