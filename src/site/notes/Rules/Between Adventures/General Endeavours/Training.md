@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/Rules/Between Adventures/General Endeavours/Training/"}
+---
+
+
+Home: [[Rules/Between Adventures/Endeavours\|Endeavours]]
+
+The *Training* Endeavour allows you to train in a Skill or Characteristic outside of your [[Careers\|Careers]], treating it as if it were in-Career. In addition to the normal XP cost, you must aso pay money to the tutor. Training for Basic Skills and all Characteristics cost XP+1d10 brass pennies, where XP is the number of XP it costs to buy the Advance. Tutoring in all Advanced Skills costs double that amount. For more, see [[Rules/Attributes/Advances\|Advances]].
+
+You should be able to find a tutor for most skills, certainly in a city-state like [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]], but some particularly unusual skills may require you seek out the right instructor, likely by using the [[Rules/Between Adventures/General Endeavours/Consult an Expert\|Consult an Expert]] Endeavour – “Professionals” who can teach you how to properly pick a lock generally don’t advertise, after all. Other skills, especially [[Rules/Skills/Lore\|Lore]] Skills, often require an institution of learning, and some are flat out forbidden in [[World/The Empire/The Empire\|The Empire]]. Finding a tutor capable (and willing) to instruct someone in prescribed matters – such as those relating to [[the Roinous Powers\|the Roinous Powers]] or [[Necromancy\|Necromancy]] – may be particularly dangerous, and perhaps an adventure to even source such an individual. Such tutors will also ask for far more than the “going rate” for tutoring and will likely require a [[Rules/Between Adventures/Favours/Significant Favour\|Significant Favour]].
