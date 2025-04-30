@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Rules/Tests/Combining Skills/"}
 ---
 
-
 Home: [[Rules/Tests/Tests\|Tests]]
 
 Sometimes, you may be in a situation where you feel two [[Rules/Skills/Skill\|Skills]] should be tested by the same character for a single task, so it may be appropriate to combine those Skills for a single [[Rules/Tests/Tests\|Tests]]. There are generally two reasons to do this:
