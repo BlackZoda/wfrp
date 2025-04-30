@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/World/Religion and Belief/Pantheons/The Chaos Gods/"}
----
-
-
-The Daemonic gods of [[World/Religion and Belief/Realms of Chaos/The Realms of Chaos\|The Realms of Chaos]] are the greatest threat to [[World/Other Nations/Den Gamle Verden\|Den Gamle Verden]], each determined to bring absolute ruin to the mortal realm. Their worship by lost and damned souls is pervasive and clandestine, with uncounted dark cultists infiltrating all levels of society. [[World/Religion and Belief/Gods/Khorne\|Khorne]], [[World/Religion and Belief/Gods/Nurgle\|Nurgle]], [[World/Religion and Belief/Gods/Tzeentch\|Tzeentch]], and [[World/Religion and Belief/Gods/Slaanesh\|Slaanesh]]: Gods of Rage, Despair, Ambition, and Excess. Few dare whisper their twisting names, for they harbour malevolent power, and leave mutation and horror in their wake.
