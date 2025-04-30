@@ -15,7 +15,7 @@ I midten av kobberringen er det en sju-takket stjerne med et dyrehode og ordene�
 
 Et jernskap står inntil bakveggen, og en liten pytte med en mørk væske har samlet seg på gulvet foran det. I det bortre hjørnet (foran en skjult dør) ligger et stort silkelommetørkle brodert med monogrammet — _‘F.S.’_.
 
-image removed
+imgrem1
 
 Karakterene har knapt tid til å ta alt dette inn – beina, oktagrammet, skapet, tøystumpen ([[Campaign/NPCs/Franz Steinhäger\|Franz Steinhäger]]s lommetørkle) – før en strøm av tykk, illeluktende, svart røyk med blå og rosa flekker plutselig begynner å strømme fra midten av oktagrammet. Røyken fortettes raskt til en hornet skapning med hoggtenner, flere glødende øyne, fire armer med digre klør og flere piskelignende tunger. Vesenet hyler mens det materialiseres, og magiske energier pisker ut i alle retninger og opplyser rommet i blått og rosa _korruskerende_ lys. En _dæmon_. Karakterer som består en _utfordrende_ (+0) _[[Rules/Skills/Lore\|Lore]] (Theology)_-test eller _lett_ (+40) _[[Rules/Skills/Lore\|Lore]] (Chaos)_-test vil gjenkjenne dette som en manifestert _[[World/Bestiary/Creatures/Horror of Tzeentch\|Horror of Tzeentch]]_ – en tjener av Kaosguden for magi og forandring.
 

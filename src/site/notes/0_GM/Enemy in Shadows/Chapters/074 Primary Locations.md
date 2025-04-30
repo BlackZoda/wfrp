@@ -7,7 +7,7 @@ Home: [[0_GM/Enemy in Shadows/Chapters/07 Into the Darkness\|07 Into the Darknes
 
 Det følgende er hovedlokasjoner som er viktige for eventyret. Lokasjonene er avmerket på kartet.
 
-image removed
+imgrem1
 
 * [[Goblin-inngangspunkt\|Goblin-inngangspunkt]]
 * [[Campaign/Locations/Kloakkdør til de Kryssede Spyd\|Kloakkdør til de Kryssede Spyd]]

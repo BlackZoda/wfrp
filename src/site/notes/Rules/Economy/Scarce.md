@@ -8,4 +8,4 @@ Home: [[Rules/Economy/Availability\|Availability]]
 **Village:** 30%
 **Town:** 60%
 **City:** 90%
-**Altdorf:**  In Stock!
+**Altdorf:**  In Stockimgrem2

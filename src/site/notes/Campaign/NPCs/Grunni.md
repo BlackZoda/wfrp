@@ -19,4 +19,4 @@ Skiferøyde Grunni er langt mer lurvet i utseendet enn arbeidsgiveren sin. Han k
 
 **Trappings:**
 
-image removed
+imgrem1

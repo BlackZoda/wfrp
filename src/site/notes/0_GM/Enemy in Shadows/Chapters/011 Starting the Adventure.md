@@ -13,4 +13,4 @@ Home: [[0_GM/Enemy in Shadows/Chapters/01 Wanted Bold Adventurers\|01 Wanted Bol
 
 Next: [[0_GM/Enemy in Shadows/Chapters/012 The Coach and Horses Inn\|012 The Coach and Horses Inn]]
 
-image removed
+imgrem1

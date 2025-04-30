@@ -21,4 +21,4 @@ Goertrin er høy og slank med hår i fargen bleket ben og et ansikt som er neste
 
 **Trappings:** Basic Weapon (Sword), Helmet, Medallion (gold, with Bögenhafen’s coat of arms), Sleeved Mail Shirt
 
-image removed
+imgrem1

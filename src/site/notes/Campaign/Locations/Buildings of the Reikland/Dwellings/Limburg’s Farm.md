@@ -7,13 +7,13 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Dwellings/Reikland Dwelling
 
 * [[Campaign/Hooks/You Reap What You Sow\|You Reap What You Sow]]
 
-image removed
+imgrem1
 
 Many farmers live safely within a village, leaving to till their fields at dawn, then returning before nightfall. However, some larger farms require permanent residence, especially those with livestock. By necessity, these remote, rural farmsteads are often self-sufficient and well defended.
 
 Limburg’s Farm – home to [[Luther Limburg\|Luther]] and [[Rita Limburg\|Rita Limburg]] and their extended family – lies between [[Siedlung\|Siedlung]] and   [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Ubersreik/Ubersreik\|Ubersreik]]. the fortified homestead has a dominating view of the surrounding land, resting as it does on the crest of a ridge. Its walls are thick and solid, and bear the scars of historic raids from [[World/Races/Greenskin\|Greenskin]]s and [[World/Races/Beastman\|Beastmen]] in the past. While things have been quiet recently, the Limburgs do not take any chances, herding their cattle into the walled area every evening.
 
-image removed
+imgrem1
 
 As well as their fine herd of diary cattle, providing cheese for local markets and merchants in neighbouring towns, the Limburgs frow oats and hops, and brew their own beer. They sell some of it to locals, but a good proportion is sent, down the [[World/The Empire/Electorial Provinces/Reikland/Vorbergland/Vorbergland\|Vorbergland]] canals to [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|Nuln]]. In addition to Luther, Rita, and their seven children – three of whom are fully grown – Lither’s [[Aunt Mags\|Aunt Mags]] lives with the family, though she never leaves her warm seat near the hearth, only rousing herself to consciousness once or twice a day to hu long forgotten folk songs, or issue crptically prophetic warnings. There are also a number of seasonally employed hired hands helping with harvest, planting and calving, and an array of cats, dogs chickens and rabbits calling the muddy yard home.
 

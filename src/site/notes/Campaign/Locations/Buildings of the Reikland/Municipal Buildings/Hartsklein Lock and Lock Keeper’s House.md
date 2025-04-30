@@ -7,7 +7,7 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Canal L
 
 * [[Campaign/Hooks/Lock Up\|Lock Up]]
 
-image removed
+imgrem1
 
 As the [[World/The Empire/Rivers and Canals/Weissbruck Canal\|Weissbruck Canal]] rises from the [[World/The Empire/Marshes/Altdorf Flats\|Altdorf Flats]] to the mines of the [[World/The Empire/Forests and Hills/Skaag Hills\|Skaag Hills]], there are a number of locks that need to be negotiated. One such lies near the sleepy hamlet of [[Hartsklein\|Hartsklein]]. Hartsklein Lock is the domain of [[Henrietta Garland\|Henrietta Garland]], an aged halfling.
 

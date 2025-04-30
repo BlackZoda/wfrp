@@ -19,4 +19,4 @@ Crusher’ Braugen er et fjell av en mann som kunne skremme en vegg. Når han jo
 
 **Trappings:** Crushed Rose, Tattoos
 
-image removed
+imgrem1

@@ -27,4 +27,4 @@ Selv om karakterenes samhandling med Baumann går bra i løpet av _Enemy in Sha
 
 “Jæ veit ka dere ha gjort. Dere e helter, alle som én. Men det finnes itte en sjel som vil tro på meg, bortsett fra’n Baumann – og han vil ha sin tvil, det garanterer jeg. Jeg skal be til Ranald og Sigmar om å holde våkent øye med er."
 
-image removed
+imgrem1

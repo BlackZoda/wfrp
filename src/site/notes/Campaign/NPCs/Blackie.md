@@ -35,4 +35,4 @@ Blackie, Gustav's tamme kråke, sitter på en trebjelke over baren og kan ofte b
 >* Veiene dårlige, snakker med katten, ønsker du et rom?
 >* Trolmenn i Altdorf, dansende lys, vil du ha noe å drikke?
 >* Schaffenfest farlig, grønn hud, vi har ferskt brød!
->* Oberst Sievers tilbake, røde flekker, vår øl er den beste!
+>* Oberst Sievers tilbake, røde flekker, vår øl er den besteimgrem2

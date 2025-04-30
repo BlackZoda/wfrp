@@ -13,4 +13,4 @@ Home: [[Rules/Trappings/Weapons/Melee Weapon/Melee Weapon\|Melee Weapon]]
 **Damage:** +SB+3
 **Qualities and Flaws:** [[Rules/Trappings/Weapons/Quaity/Distract (Weapon Quality)\|Distract (Weapon Quality)]], [[Rules/Trappings/Weapons/Flaw/Imprecise\|Imprecise]], [[Rules/Trappings/Weapons/Weapon Quality/Wrap\|Wrap]]
 
-image removed
+imgrem1

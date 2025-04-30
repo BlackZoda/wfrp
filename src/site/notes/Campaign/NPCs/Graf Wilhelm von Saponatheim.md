@@ -19,4 +19,4 @@ Home: [[NPCs\|NPCs]]
 
 **Trappings:**
 
-image removed
+imgrem1

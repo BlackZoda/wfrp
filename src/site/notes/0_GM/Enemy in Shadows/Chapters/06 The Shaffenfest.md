@@ -40,4 +40,4 @@ As well as XP for good roleplaying and fun times at the end of your gaming sessi
 * 5–10 points for dealing with a difficult Random Event
 * 10 points for agreeing to track down the Mutant Goblin. As always, if you wish to grant an award fo
 
-image removed
+imgrem1

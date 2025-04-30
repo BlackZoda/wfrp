@@ -21,4 +21,4 @@ Mørkhårede Schattiger er typisk for underholdere som jobber på markedene i de
 
 **Trappings:** 1 GCs 15/10, Cart, Chest (containing 5 GCs 107/56), Clothing (colourful), Dagger, Key (for chest), Leather Jack (under clothing), Mule, Sand-Glass (times 3½ minutes), Wrestling Ring (collapsible)
 
-image removed
+imgrem1

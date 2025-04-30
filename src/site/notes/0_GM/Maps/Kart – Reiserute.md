@@ -5,6 +5,6 @@
 
 Home: [[0_GM/Hjem\|Hjem]]
 
-image removed
-image removed
-image removed
+imgrem1
+imgrem1
+imgrem1

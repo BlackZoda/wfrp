@@ -31,4 +31,4 @@ De første månedene i [[World/The Empire/Electorial Provinces/Wissenland/Nuln\|
 
 Til tross for at den egentlig ikke burde, nyter demonen oppholdet sitt i den dødelige verden til fulle. I det siste har Gideon begynt å opptre som et barn når den er i nærheten av Teugen, og tygger store mengder hvitløk, siden den vet begge deler irriterer mannen enormt. Gjennom årene har demonens påtatte moro over menneskers grådighet og godtroenhet blitt helt ekte, og overgås kun av dens fryd over tanken på den forestående triumfen når Teugens rituale – det han tror skal redde sjelen hans – faktisk åpner en kaosport i hjertet av [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]]. Dens herre vil bli så fornøyd.
 
-image removed
+imgrem1

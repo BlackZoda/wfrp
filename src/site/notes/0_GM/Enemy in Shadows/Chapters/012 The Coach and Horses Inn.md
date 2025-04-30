@@ -16,7 +16,7 @@ Next: [[0_GM/Enemy in Shadows/Chapters/013 Approaching the Inn\|013 Approaching 
 >
 >*Hest of Vogn* er et mellomstort vertshus. Noen er langt større og minner mer om slott enn vertshus, mens andre består av lite mer enn en bar, noen få soverom og en stall.
 
-image removed
+imgrem1
 >[!Info]- 01 – Outer Wall
 >De fleste verstshus utenfor de største byene har murer eller palisader av noe slag. Avhengig av lokasjonen så er de enten av sten eller tre, og vanligvis 2,5–3,5 meter høye. Inngangen er via et port som leder ut til veien. Portene er vanligvis åpne, med mindre huseieren har grunn til å frykte trøbbel utenifra. I villmarksområder hvor herjende monstere er mer vanlig, så er portene alltid lukket og barrikarderte, og kusker som bil inn for natten må blåse i et horn for å signalisere til vertshusets ansatte at de har ankommet. [[World/Religion and Belief/Miracles/Delbren\|Delbren]] veien, som passerer gjennom de skogkledde Fem Søstre [[Five Sisters\|Five Sisters]] bakkene, er ikke fult så vilt, så portene er åpne på dagtid.
 

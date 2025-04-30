@@ -16,4 +16,4 @@ For every +5 SL Overcast, you may increase the rate the Daemons arrive by +1.
 
 Living creatures must pass an **Average (+20) [[Rules/Skills/Endurance\|Endurance]]** Test at the end of every [[Rules/Combat/Round\|Round]] where they can see the tear, or gain +1 [[Rules/Corruption/Corruption\|Corruption]]. Any living creature foolish or unlucky enough to enter the rift falls into [[World/Religion and Belief/Realms of Chaos/The Realms of Chaos\|The Realms of Chaos]] and is immediately killed, unless a [[Rules/Attributes/Fate\|Fate]] point is spent. I that case, they are spat back into reality, perhaps saved by some power for an as of yet unfulfilled purpose.
 
-Should you fumble the casting of this spell, the Daemons crossing form [[World/Religion and Belief/Realms of Chaos/The Realms of Chaos\|The Realms of Chaos]] belong to a rival diety, and may well be immediately hostile to their summoner!
+Should you fumble the casting of this spell, the Daemons crossing form [[World/Religion and Belief/Realms of Chaos/The Realms of Chaos\|The Realms of Chaos]] belong to a rival diety, and may well be immediately hostile to their summonerimgrem2

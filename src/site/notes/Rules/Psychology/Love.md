@@ -9,4 +9,4 @@ Poets write endlessly of love, and every minstrel of the [[World/The Empire/Elec
 
 You must come to the aid of someone you love if they are threatened physically or socially. You are immune to [[Rules/Psychology/Fear\|Fear]] and [[Rules/Skills/Intimidate\|Intimidation]] while defending your loved ones, and you gain a bonus +1 SL to all related [[Rules/Tests/Tests\|Tests]].
 
-> **Example:** Rilla is a riverwoman and travels the Reik with her close-knit family. She has Love (Son), Love (Brother) and Love (Parents). You mess with Rilla’s family, you mess with Rilla!
+> **Example:** Rilla is a riverwoman and travels the Reik with her close-knit family. She has Love (Son), Love (Brother) and Love (Parents). You mess with Rilla’s family, you mess with Rillaimgrem2

@@ -8,4 +8,4 @@ Home: [[Rules/Economy/Availability\|Availability]]
 **Village:** In Stock!
 **Town:** In Stock!
 **City:** In Stock!
-**Altdorf:** In Stock!
+**Altdorf:** In Stockimgrem2

@@ -11,4 +11,4 @@ Gullringer med inngravert segl bæres av adel og laugsmestre, som bruker dem til
 **Enc:** 0
 **Availability:** [[Rules/Economy/Scarce\|Scarce]]
 
-image removed
+imgrem1

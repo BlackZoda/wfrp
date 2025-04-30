@@ -7,7 +7,7 @@ Home: [[Campaign/Locations/Buildings of the Reikland/Municipal Buildings/Signal 
 
 * [[Campaign/Hooks/Sign of the Times\|Sign of the Times]]
 
-image removed
+imgrem1
 
 The [[Imperial Signal Corps\|Imperial Signal Corps]] are responsible for the construction, maintenance and use of the signal towers that are beginning to appear across the [[World/The Empire/Electorial Provinces/Reikland/Reikland\|Reikland]] landscape and beyond. This is part of a far-reaching and ambitious plan to create an extensive network of towers that will criss-cross [[World/The Empire/The Empire\|The Empire]], alowing speedy communication between all corners of the land. Initially a military endeavour, there are hopes that, in time, civilians will be able to make use of the network. For a price, naturally. The towers are built and maintained by [[World/Races/Dwarf\|Dwarf]] [[Rules/Career/Engineer\|engineers]] in the employ of the [[Imperial Signal Corps\|Imperial Signal Corps]] – much to the irritation of the [[Imperial Engineers’ School\|Imperial Engineers’ School]] in [[World/The Empire/Electorial Provinces/Reikland/Altdorf/Altdorf\|Altdorf]], whose bid was rejected.
 
